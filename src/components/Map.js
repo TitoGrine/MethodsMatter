@@ -1,6 +1,6 @@
 import React from "react";
 import USAMap from "react-usa-map";
-import { parseFile } from "./util";
+import { parseFile } from "../util/util";
 
 function Map() {
   /* mandatory */
@@ -12,11 +12,11 @@ function Map() {
   const statesCustomConfig = () => {
     return {
       NJ: {
-        fill: "navy",
-        clickHandler: (event) => parseFile(1976),
+        fill: "#1405BD",
+        clickHandler: (event) => parseFile(2016),
       },
       NY: {
-        fill: "#CC0000",
+        fill: "#ff0803",
       },
     };
   };

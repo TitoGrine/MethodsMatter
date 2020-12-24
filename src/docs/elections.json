@@ -2,9 +2,7 @@
   "1976": {
     "AL": {
       "name": "Alabama",
-      "fips": "1",
-      "ic": "41",
-      "cen": "63",
+      "seats": "9",
       "totalVotes": "1182850",
       "results": [
         {
@@ -46,9 +44,7 @@
     },
     "AK": {
       "name": "Alaska",
-      "fips": "2",
-      "ic": "81",
-      "cen": "94",
+      "seats": "3",
       "totalVotes": "123574",
       "results": [
         {
@@ -75,9 +71,7 @@
     },
     "AZ": {
       "name": "Arizona",
-      "fips": "4",
-      "ic": "61",
-      "cen": "86",
+      "seats": "6",
       "totalVotes": "742719",
       "results": [
         {
@@ -124,9 +118,7 @@
     },
     "AR": {
       "name": "Arkansas",
-      "fips": "5",
-      "ic": "42",
-      "cen": "71",
+      "seats": "6",
       "totalVotes": "767535",
       "results": [
         {
@@ -153,9 +145,7 @@
     },
     "CA": {
       "name": "California",
-      "fips": "6",
-      "ic": "71",
-      "cen": "93",
+      "seats": "45",
       "totalVotes": "7803770",
       "results": [
         {
@@ -197,9 +187,7 @@
     },
     "CO": {
       "name": "Colorado",
-      "fips": "8",
-      "ic": "62",
-      "cen": "84",
+      "seats": "7",
       "totalVotes": "1081440",
       "results": [
         {
@@ -246,9 +234,7 @@
     },
     "CT": {
       "name": "Connecticut",
-      "fips": "9",
-      "ic": "1",
-      "cen": "16",
+      "seats": "8",
       "totalVotes": "1386355",
       "results": [
         {
@@ -280,9 +266,7 @@
     },
     "DE": {
       "name": "Delaware",
-      "fips": "10",
-      "ic": "11",
-      "cen": "51",
+      "seats": "3",
       "totalVotes": "235642",
       "results": [
         {
@@ -324,9 +308,7 @@
     },
     "DC": {
       "name": "District of Columbia",
-      "fips": "11",
-      "ic": "55",
-      "cen": "53",
+      "seats": "3",
       "totalVotes": "168830",
       "results": [
         {
@@ -358,9 +340,7 @@
     },
     "FL": {
       "name": "Florida",
-      "fips": "12",
-      "ic": "43",
-      "cen": "59",
+      "seats": "17",
       "totalVotes": "3150631",
       "results": [
         {
@@ -392,9 +372,7 @@
     },
     "GA": {
       "name": "Georgia",
-      "fips": "13",
-      "ic": "44",
-      "cen": "58",
+      "seats": "12",
       "totalVotes": "1463152",
       "results": [
         {
@@ -411,9 +389,7 @@
     },
     "HI": {
       "name": "Hawaii",
-      "fips": "15",
-      "ic": "82",
-      "cen": "95",
+      "seats": "4",
       "totalVotes": "291301",
       "results": [
         {
@@ -435,9 +411,7 @@
     },
     "ID": {
       "name": "Idaho",
-      "fips": "16",
-      "ic": "63",
-      "cen": "82",
+      "seats": "4",
       "totalVotes": "340932",
       "results": [
         {
@@ -469,9 +443,7 @@
     },
     "IL": {
       "name": "Illinois",
-      "fips": "17",
-      "ic": "21",
-      "cen": "33",
+      "seats": "26",
       "totalVotes": "4721282",
       "results": [
         {
@@ -523,9 +495,7 @@
     },
     "IN": {
       "name": "Indiana",
-      "fips": "18",
-      "ic": "22",
-      "cen": "32",
+      "seats": "13",
       "totalVotes": "2220362",
       "results": [
         {
@@ -557,9 +527,7 @@
     },
     "IA": {
       "name": "Iowa",
-      "fips": "19",
-      "ic": "31",
-      "cen": "42",
+      "seats": "8",
       "totalVotes": "1279303",
       "results": [
         {
@@ -621,9 +589,7 @@
     },
     "KS": {
       "name": "Kansas",
-      "fips": "20",
-      "ic": "32",
-      "cen": "47",
+      "seats": "7",
       "totalVotes": "957845",
       "results": [
         {
@@ -665,9 +631,7 @@
     },
     "KY": {
       "name": "Kentucky",
-      "fips": "21",
-      "ic": "51",
-      "cen": "61",
+      "seats": "9",
       "totalVotes": "1167142",
       "results": [
         {
@@ -719,9 +683,7 @@
     },
     "LA": {
       "name": "Louisiana",
-      "fips": "22",
-      "ic": "45",
-      "cen": "72",
+      "seats": "10",
       "totalVotes": "1277383",
       "results": [
         {
@@ -763,9 +725,7 @@
     },
     "ME": {
       "name": "Maine",
-      "fips": "23",
-      "ic": "2",
-      "cen": "11",
+      "seats": "4",
       "totalVotes": "482968",
       "results": [
         {
@@ -792,9 +752,7 @@
     },
     "MD": {
       "name": "Maryland",
-      "fips": "24",
-      "ic": "52",
-      "cen": "52",
+      "seats": "10",
       "totalVotes": "1432273",
       "results": [
         {
@@ -811,9 +769,7 @@
     },
     "MA": {
       "name": "Massachusetts",
-      "fips": "25",
-      "ic": "3",
-      "cen": "14",
+      "seats": "14",
       "totalVotes": "2547558",
       "results": [
         {
@@ -865,9 +821,7 @@
     },
     "MI": {
       "name": "Michigan",
-      "fips": "26",
-      "ic": "23",
-      "cen": "34",
+      "seats": "21",
       "totalVotes": "3651590",
       "results": [
         {
@@ -914,9 +868,7 @@
     },
     "MN": {
       "name": "Minnesota",
-      "fips": "27",
-      "ic": "33",
-      "cen": "41",
+      "seats": "10",
       "totalVotes": "1949931",
       "results": [
         {
@@ -983,9 +935,7 @@
     },
     "MS": {
       "name": "Mississippi",
-      "fips": "28",
-      "ic": "46",
-      "cen": "64",
+      "seats": "7",
       "totalVotes": "768390",
       "results": [
         {
@@ -1027,9 +977,7 @@
     },
     "MO": {
       "name": "Missouri",
-      "fips": "29",
-      "ic": "34",
-      "cen": "43",
+      "seats": "12",
       "totalVotes": "1953600",
       "results": [
         {
@@ -1056,9 +1004,7 @@
     },
     "MT": {
       "name": "Montana",
-      "fips": "30",
-      "ic": "64",
-      "cen": "81",
+      "seats": "4",
       "totalVotes": "328734",
       "results": [
         {
@@ -1080,9 +1026,7 @@
     },
     "NE": {
       "name": "Nebraska",
-      "fips": "31",
-      "ic": "35",
-      "cen": "46",
+      "seats": "5",
       "totalVotes": "606749",
       "results": [
         {
@@ -1114,9 +1058,7 @@
     },
     "NV": {
       "name": "Nevada",
-      "fips": "32",
-      "ic": "65",
-      "cen": "88",
+      "seats": "3",
       "totalVotes": "201876",
       "results": [
         {
@@ -1148,9 +1090,7 @@
     },
     "NH": {
       "name": "New Hampshire",
-      "fips": "33",
-      "ic": "4",
-      "cen": "12",
+      "seats": "4",
       "totalVotes": "339627",
       "results": [
         {
@@ -1197,9 +1137,7 @@
     },
     "NJ": {
       "name": "New Jersey",
-      "fips": "34",
-      "ic": "12",
-      "cen": "22",
+      "seats": "17",
       "totalVotes": "3014472",
       "results": [
         {
@@ -1266,9 +1204,7 @@
     },
     "NM": {
       "name": "New Mexico",
-      "fips": "35",
-      "ic": "66",
-      "cen": "85",
+      "seats": "4",
       "totalVotes": "416590",
       "results": [
         {
@@ -1305,9 +1241,7 @@
     },
     "NY": {
       "name": "New York",
-      "fips": "36",
-      "ic": "13",
-      "cen": "21",
+      "seats": "41",
       "totalVotes": "6668262",
       "results": [
         {
@@ -1359,9 +1293,7 @@
     },
     "NC": {
       "name": "North Carolina",
-      "fips": "37",
-      "ic": "47",
-      "cen": "56",
+      "seats": "13",
       "totalVotes": "1677906",
       "results": [
         {
@@ -1393,9 +1325,7 @@
     },
     "ND": {
       "name": "North Dakota",
-      "fips": "38",
-      "ic": "36",
-      "cen": "44",
+      "seats": "3",
       "totalVotes": "297308",
       "results": [
         {
@@ -1457,9 +1387,7 @@
     },
     "OH": {
       "name": "Ohio",
-      "fips": "39",
-      "ic": "24",
-      "cen": "31",
+      "seats": "25",
       "totalVotes": "4110456",
       "results": [
         {
@@ -1516,9 +1444,7 @@
     },
     "OK": {
       "name": "Oklahoma",
-      "fips": "40",
-      "ic": "53",
-      "cen": "73",
+      "seats": "8",
       "totalVotes": "1092251",
       "results": [
         {
@@ -1540,9 +1466,7 @@
     },
     "OR": {
       "name": "Oregon",
-      "fips": "41",
-      "ic": "72",
-      "cen": "92",
+      "seats": "6",
       "totalVotes": "1029876",
       "results": [
         {
@@ -1574,9 +1498,7 @@
     },
     "PA": {
       "name": "Pennsylvania",
-      "fips": "42",
-      "ic": "14",
-      "cen": "23",
+      "seats": "27",
       "totalVotes": "4620787",
       "results": [
         {
@@ -1623,9 +1545,7 @@
     },
     "RI": {
       "name": "Rhode Island",
-      "fips": "44",
-      "ic": "5",
-      "cen": "15",
+      "seats": "4",
       "totalVotes": "410584",
       "results": [
         {
@@ -1662,9 +1582,7 @@
     },
     "SC": {
       "name": "South Carolina",
-      "fips": "45",
-      "ic": "48",
-      "cen": "57",
+      "seats": "8",
       "totalVotes": "802583",
       "results": [
         {
@@ -1696,9 +1614,7 @@
     },
     "SD": {
       "name": "South Dakota",
-      "fips": "46",
-      "ic": "37",
-      "cen": "45",
+      "seats": "4",
       "totalVotes": "300678",
       "results": [
         {
@@ -1730,9 +1646,7 @@
     },
     "TN": {
       "name": "Tennessee",
-      "fips": "47",
-      "ic": "54",
-      "cen": "62",
+      "seats": "10",
       "totalVotes": "1476346",
       "results": [
         {
@@ -1794,9 +1708,7 @@
     },
     "TX": {
       "name": "Texas",
-      "fips": "48",
-      "ic": "49",
-      "cen": "74",
+      "seats": "26",
       "totalVotes": "4071884",
       "results": [
         {
@@ -1833,9 +1745,7 @@
     },
     "UT": {
       "name": "Utah",
-      "fips": "49",
-      "ic": "67",
-      "cen": "87",
+      "seats": "4",
       "totalVotes": "541218",
       "results": [
         {
@@ -1882,9 +1792,7 @@
     },
     "VT": {
       "name": "Vermont",
-      "fips": "50",
-      "ic": "6",
-      "cen": "13",
+      "seats": "3",
       "totalVotes": "183902",
       "results": [
         {
@@ -1921,9 +1829,7 @@
     },
     "VA": {
       "name": "Virginia",
-      "fips": "51",
-      "ic": "40",
-      "cen": "54",
+      "seats": "12",
       "totalVotes": "1697094",
       "results": [
         {
@@ -1960,9 +1866,7 @@
     },
     "WA": {
       "name": "Washington",
-      "fips": "53",
-      "ic": "73",
-      "cen": "91",
+      "seats": "9",
       "totalVotes": "1555534",
       "results": [
         {
@@ -2024,9 +1928,7 @@
     },
     "WV": {
       "name": "West Virginia",
-      "fips": "54",
-      "ic": "56",
-      "cen": "55",
+      "seats": "6",
       "totalVotes": "750590",
       "results": [
         {
@@ -2043,9 +1945,7 @@
     },
     "WI": {
       "name": "Wisconsin",
-      "fips": "55",
-      "ic": "25",
-      "cen": "35",
+      "seats": "11",
       "totalVotes": "2101336",
       "results": [
         {
@@ -2097,9 +1997,7 @@
     },
     "WY": {
       "name": "Wyoming",
-      "fips": "56",
-      "ic": "68",
-      "cen": "83",
+      "seats": "3",
       "totalVotes": "156343",
       "results": [
         {
@@ -2123,9 +2021,7 @@
   "1980": {
     "AL": {
       "name": "Alabama",
-      "fips": "1",
-      "ic": "41",
-      "cen": "63",
+      "seats": "9",
       "totalVotes": "1341929",
       "results": [
         {
@@ -2182,9 +2078,7 @@
     },
     "AK": {
       "name": "Alaska",
-      "fips": "2",
-      "ic": "81",
-      "cen": "94",
+      "seats": "3",
       "totalVotes": "158445",
       "results": [
         {
@@ -2216,9 +2110,7 @@
     },
     "AZ": {
       "name": "Arizona",
-      "fips": "4",
-      "ic": "61",
-      "cen": "86",
+      "seats": "6",
       "totalVotes": "873945",
       "results": [
         {
@@ -2265,9 +2157,7 @@
     },
     "AR": {
       "name": "Arkansas",
-      "fips": "5",
-      "ic": "42",
-      "cen": "71",
+      "seats": "6",
       "totalVotes": "837582",
       "results": [
         {
@@ -2309,9 +2199,7 @@
     },
     "CA": {
       "name": "California",
-      "fips": "6",
-      "ic": "71",
-      "cen": "93",
+      "seats": "45",
       "totalVotes": "8582938",
       "results": [
         {
@@ -2353,9 +2241,7 @@
     },
     "CO": {
       "name": "Colorado",
-      "fips": "8",
-      "ic": "62",
-      "cen": "84",
+      "seats": "7",
       "totalVotes": "1184450",
       "results": [
         {
@@ -2402,9 +2288,7 @@
     },
     "CT": {
       "name": "Connecticut",
-      "fips": "9",
-      "ic": "1",
-      "cen": "16",
+      "seats": "8",
       "totalVotes": "1406285",
       "results": [
         {
@@ -2441,9 +2325,7 @@
     },
     "DE": {
       "name": "Delaware",
-      "fips": "10",
-      "ic": "11",
-      "cen": "51",
+      "seats": "3",
       "totalVotes": "235668",
       "results": [
         {
@@ -2475,9 +2357,7 @@
     },
     "DC": {
       "name": "District of Columbia",
-      "fips": "11",
-      "ic": "55",
-      "cen": "53",
+      "seats": "3",
       "totalVotes": "173889",
       "results": [
         {
@@ -2529,9 +2409,7 @@
     },
     "FL": {
       "name": "Florida",
-      "fips": "12",
-      "ic": "43",
-      "cen": "59",
+      "seats": "17",
       "totalVotes": "3686927",
       "results": [
         {
@@ -2563,9 +2441,7 @@
     },
     "GA": {
       "name": "Georgia",
-      "fips": "13",
-      "ic": "44",
-      "cen": "58",
+      "seats": "12",
       "totalVotes": "1596805",
       "results": [
         {
@@ -2592,9 +2468,7 @@
     },
     "HI": {
       "name": "Hawaii",
-      "fips": "15",
-      "ic": "82",
-      "cen": "95",
+      "seats": "4",
       "totalVotes": "303287",
       "results": [
         {
@@ -2631,9 +2505,7 @@
     },
     "ID": {
       "name": "Idaho",
-      "fips": "16",
-      "ic": "63",
-      "cen": "82",
+      "seats": "4",
       "totalVotes": "437431",
       "results": [
         {
@@ -2665,9 +2537,7 @@
     },
     "IL": {
       "name": "Illinois",
-      "fips": "17",
-      "ic": "21",
-      "cen": "33",
+      "seats": "26",
       "totalVotes": "4749721",
       "results": [
         {
@@ -2719,9 +2589,7 @@
     },
     "IN": {
       "name": "Indiana",
-      "fips": "18",
-      "ic": "22",
-      "cen": "32",
+      "seats": "13",
       "totalVotes": "2242033",
       "results": [
         {
@@ -2768,9 +2636,7 @@
     },
     "IA": {
       "name": "Iowa",
-      "fips": "19",
-      "ic": "31",
-      "cen": "42",
+      "seats": "8",
       "totalVotes": "1317661",
       "results": [
         {
@@ -2832,9 +2698,7 @@
     },
     "KS": {
       "name": "Kansas",
-      "fips": "20",
-      "ic": "32",
-      "cen": "47",
+      "seats": "7",
       "totalVotes": "979795",
       "results": [
         {
@@ -2881,9 +2745,7 @@
     },
     "KY": {
       "name": "Kentucky",
-      "fips": "21",
-      "ic": "51",
-      "cen": "61",
+      "seats": "9",
       "totalVotes": "1295627",
       "results": [
         {
@@ -2930,9 +2792,7 @@
     },
     "LA": {
       "name": "Louisiana",
-      "fips": "22",
-      "ic": "45",
-      "cen": "72",
+      "seats": "10",
       "totalVotes": "1548591",
       "results": [
         {
@@ -2974,9 +2834,7 @@
     },
     "ME": {
       "name": "Maine",
-      "fips": "23",
-      "ic": "2",
-      "cen": "11",
+      "seats": "4",
       "totalVotes": "523011",
       "results": [
         {
@@ -3018,9 +2876,7 @@
     },
     "MD": {
       "name": "Maryland",
-      "fips": "24",
-      "ic": "52",
-      "cen": "52",
+      "seats": "10",
       "totalVotes": "1540496",
       "results": [
         {
@@ -3047,9 +2903,7 @@
     },
     "MA": {
       "name": "Massachusetts",
-      "fips": "25",
-      "ic": "3",
-      "cen": "14",
+      "seats": "14",
       "totalVotes": "2524090",
       "results": [
         {
@@ -3091,9 +2945,7 @@
     },
     "MI": {
       "name": "Michigan",
-      "fips": "26",
-      "ic": "23",
-      "cen": "34",
+      "seats": "21",
       "totalVotes": "3909725",
       "results": [
         {
@@ -3135,9 +2987,7 @@
     },
     "MN": {
       "name": "Minnesota",
-      "fips": "27",
-      "ic": "33",
-      "cen": "41",
+      "seats": "10",
       "totalVotes": "2051916",
       "results": [
         {
@@ -3199,9 +3049,7 @@
     },
     "MS": {
       "name": "Mississippi",
-      "fips": "28",
-      "ic": "46",
-      "cen": "64",
+      "seats": "7",
       "totalVotes": "891750",
       "results": [
         {
@@ -3238,9 +3086,7 @@
     },
     "MO": {
       "name": "Missouri",
-      "fips": "29",
-      "ic": "34",
-      "cen": "43",
+      "seats": "12",
       "totalVotes": "2099824",
       "results": [
         {
@@ -3277,9 +3123,7 @@
     },
     "MT": {
       "name": "Montana",
-      "fips": "30",
-      "ic": "64",
-      "cen": "81",
+      "seats": "4",
       "totalVotes": "363952",
       "results": [
         {
@@ -3306,9 +3150,7 @@
     },
     "NE": {
       "name": "Nebraska",
-      "fips": "31",
-      "ic": "35",
-      "cen": "46",
+      "seats": "5",
       "totalVotes": "639533",
       "results": [
         {
@@ -3335,9 +3177,7 @@
     },
     "NV": {
       "name": "Nevada",
-      "fips": "32",
-      "ic": "65",
-      "cen": "88",
+      "seats": "3",
       "totalVotes": "243692",
       "results": [
         {
@@ -3364,9 +3204,7 @@
     },
     "NH": {
       "name": "New Hampshire",
-      "fips": "33",
-      "ic": "4",
-      "cen": "12",
+      "seats": "4",
       "totalVotes": "383990",
       "results": [
         {
@@ -3418,9 +3256,7 @@
     },
     "NJ": {
       "name": "New Jersey",
-      "fips": "34",
-      "ic": "12",
-      "cen": "22",
+      "seats": "17",
       "totalVotes": "2975684",
       "results": [
         {
@@ -3492,9 +3328,7 @@
     },
     "NM": {
       "name": "New Mexico",
-      "fips": "35",
-      "ic": "66",
-      "cen": "85",
+      "seats": "4",
       "totalVotes": "456237",
       "results": [
         {
@@ -3536,9 +3370,7 @@
     },
     "NY": {
       "name": "New York",
-      "fips": "36",
-      "ic": "13",
-      "cen": "21",
+      "seats": "41",
       "totalVotes": "6201959",
       "results": [
         {
@@ -3600,9 +3432,7 @@
     },
     "NC": {
       "name": "North Carolina",
-      "fips": "37",
-      "ic": "47",
-      "cen": "56",
+      "seats": "13",
       "totalVotes": "1855833",
       "results": [
         {
@@ -3639,9 +3469,7 @@
     },
     "ND": {
       "name": "North Dakota",
-      "fips": "38",
-      "ic": "36",
-      "cen": "44",
+      "seats": "3",
       "totalVotes": "301116",
       "results": [
         {
@@ -3698,9 +3526,7 @@
     },
     "OH": {
       "name": "Ohio",
-      "fips": "39",
-      "ic": "24",
-      "cen": "31",
+      "seats": "25",
       "totalVotes": "4283603",
       "results": [
         {
@@ -3752,9 +3578,7 @@
     },
     "OK": {
       "name": "Oklahoma",
-      "fips": "40",
-      "ic": "53",
-      "cen": "73",
+      "seats": "8",
       "totalVotes": "1149708",
       "results": [
         {
@@ -3781,9 +3605,7 @@
     },
     "OR": {
       "name": "Oregon",
-      "fips": "41",
-      "ic": "72",
-      "cen": "92",
+      "seats": "6",
       "totalVotes": "1181516",
       "results": [
         {
@@ -3820,9 +3642,7 @@
     },
     "PA": {
       "name": "Pennsylvania",
-      "fips": "42",
-      "ic": "14",
-      "cen": "23",
+      "seats": "27",
       "totalVotes": "4561501",
       "results": [
         {
@@ -3864,9 +3684,7 @@
     },
     "RI": {
       "name": "Rhode Island",
-      "fips": "44",
-      "ic": "5",
-      "cen": "15",
+      "seats": "4",
       "totalVotes": "415967",
       "results": [
         {
@@ -3913,9 +3731,7 @@
     },
     "SC": {
       "name": "South Carolina",
-      "fips": "45",
-      "ic": "48",
-      "cen": "57",
+      "seats": "8",
       "totalVotes": "888258",
       "results": [
         {
@@ -3947,9 +3763,7 @@
     },
     "SD": {
       "name": "South Dakota",
-      "fips": "46",
-      "ic": "37",
-      "cen": "45",
+      "seats": "4",
       "totalVotes": "327703",
       "results": [
         {
@@ -3981,9 +3795,7 @@
     },
     "TN": {
       "name": "Tennessee",
-      "fips": "47",
-      "ic": "54",
-      "cen": "62",
+      "seats": "10",
       "totalVotes": "1617616",
       "results": [
         {
@@ -4045,9 +3857,7 @@
     },
     "TX": {
       "name": "Texas",
-      "fips": "48",
-      "ic": "49",
-      "cen": "74",
+      "seats": "26",
       "totalVotes": "4541636",
       "results": [
         {
@@ -4079,9 +3889,7 @@
     },
     "UT": {
       "name": "Utah",
-      "fips": "49",
-      "ic": "67",
-      "cen": "87",
+      "seats": "4",
       "totalVotes": "604152",
       "results": [
         {
@@ -4133,9 +3941,7 @@
     },
     "VT": {
       "name": "Vermont",
-      "fips": "50",
-      "ic": "6",
-      "cen": "13",
+      "seats": "3",
       "totalVotes": "213299",
       "results": [
         {
@@ -4187,9 +3993,7 @@
     },
     "VA": {
       "name": "Virginia",
-      "fips": "51",
-      "ic": "40",
-      "cen": "54",
+      "seats": "12",
       "totalVotes": "1866032",
       "results": [
         {
@@ -4226,9 +4030,7 @@
     },
     "WA": {
       "name": "Washington",
-      "fips": "53",
-      "ic": "73",
-      "cen": "91",
+      "seats": "9",
       "totalVotes": "1742394",
       "results": [
         {
@@ -4280,9 +4082,7 @@
     },
     "WV": {
       "name": "West Virginia",
-      "fips": "54",
-      "ic": "56",
-      "cen": "55",
+      "seats": "6",
       "totalVotes": "737715",
       "results": [
         {
@@ -4309,9 +4109,7 @@
     },
     "WI": {
       "name": "Wisconsin",
-      "fips": "55",
-      "ic": "25",
-      "cen": "35",
+      "seats": "11",
       "totalVotes": "2273221",
       "results": [
         {
@@ -4373,9 +4171,7 @@
     },
     "WY": {
       "name": "Wyoming",
-      "fips": "56",
-      "ic": "68",
-      "cen": "83",
+      "seats": "3",
       "totalVotes": "176713",
       "results": [
         {
@@ -4404,9 +4200,7 @@
   "1984": {
     "AL": {
       "name": "Alabama",
-      "fips": "1",
-      "ic": "41",
-      "cen": "63",
+      "seats": "9",
       "totalVotes": "1441713",
       "results": [
         {
@@ -4448,9 +4242,7 @@
     },
     "AK": {
       "name": "Alaska",
-      "fips": "2",
-      "ic": "81",
-      "cen": "94",
+      "seats": "3",
       "totalVotes": "207605",
       "results": [
         {
@@ -4477,9 +4269,7 @@
     },
     "AZ": {
       "name": "Arizona",
-      "fips": "4",
-      "ic": "61",
-      "cen": "86",
+      "seats": "7",
       "totalVotes": "1025897",
       "results": [
         {
@@ -4506,9 +4296,7 @@
     },
     "AR": {
       "name": "Arkansas",
-      "fips": "5",
-      "ic": "42",
-      "cen": "71",
+      "seats": "6",
       "totalVotes": "884406",
       "results": [
         {
@@ -4565,9 +4353,7 @@
     },
     "CA": {
       "name": "California",
-      "fips": "6",
-      "ic": "71",
-      "cen": "93",
+      "seats": "47",
       "totalVotes": "9505041",
       "results": [
         {
@@ -4599,9 +4385,7 @@
     },
     "CO": {
       "name": "Colorado",
-      "fips": "8",
-      "ic": "62",
-      "cen": "84",
+      "seats": "8",
       "totalVotes": "1295380",
       "results": [
         {
@@ -4648,9 +4432,7 @@
     },
     "CT": {
       "name": "Connecticut",
-      "fips": "9",
-      "ic": "1",
-      "cen": "16",
+      "seats": "8",
       "totalVotes": "1466900",
       "results": [
         {
@@ -4682,9 +4464,7 @@
     },
     "DE": {
       "name": "Delaware",
-      "fips": "10",
-      "ic": "11",
-      "cen": "51",
+      "seats": "3",
       "totalVotes": "254572",
       "results": [
         {
@@ -4721,9 +4501,7 @@
     },
     "DC": {
       "name": "District of Columbia",
-      "fips": "11",
-      "ic": "55",
-      "cen": "53",
+      "seats": "3",
       "totalVotes": "211288",
       "results": [
         {
@@ -4775,9 +4553,7 @@
     },
     "FL": {
       "name": "Florida",
-      "fips": "12",
-      "ic": "43",
-      "cen": "59",
+      "seats": "21",
       "totalVotes": "4180051",
       "results": [
         {
@@ -4799,9 +4575,7 @@
     },
     "GA": {
       "name": "Georgia",
-      "fips": "13",
-      "ic": "44",
-      "cen": "58",
+      "seats": "12",
       "totalVotes": "1776103",
       "results": [
         {
@@ -4823,9 +4597,7 @@
     },
     "HI": {
       "name": "Hawaii",
-      "fips": "15",
-      "ic": "82",
-      "cen": "95",
+      "seats": "4",
       "totalVotes": "335846",
       "results": [
         {
@@ -4857,9 +4629,7 @@
     },
     "ID": {
       "name": "Idaho",
-      "fips": "16",
-      "ic": "63",
-      "cen": "82",
+      "seats": "4",
       "totalVotes": "411144",
       "results": [
         {
@@ -4886,9 +4656,7 @@
     },
     "IL": {
       "name": "Illinois",
-      "fips": "17",
-      "ic": "21",
-      "cen": "33",
+      "seats": "24",
       "totalVotes": "4819088",
       "results": [
         {
@@ -4940,9 +4708,7 @@
     },
     "IN": {
       "name": "Indiana",
-      "fips": "18",
-      "ic": "22",
-      "cen": "32",
+      "seats": "12",
       "totalVotes": "2233069",
       "results": [
         {
@@ -4969,9 +4735,7 @@
     },
     "IA": {
       "name": "Iowa",
-      "fips": "19",
-      "ic": "31",
-      "cen": "42",
+      "seats": "8",
       "totalVotes": "1319805",
       "results": [
         {
@@ -5023,9 +4787,7 @@
     },
     "KS": {
       "name": "Kansas",
-      "fips": "20",
-      "ic": "32",
-      "cen": "47",
+      "seats": "7",
       "totalVotes": "1021991",
       "results": [
         {
@@ -5062,9 +4824,7 @@
     },
     "KY": {
       "name": "Kentucky",
-      "fips": "21",
-      "ic": "51",
-      "cen": "61",
+      "seats": "9",
       "totalVotes": "1369345",
       "results": [
         {
@@ -5116,9 +4876,7 @@
     },
     "LA": {
       "name": "Louisiana",
-      "fips": "22",
-      "ic": "45",
-      "cen": "72",
+      "seats": "10",
       "totalVotes": "1706822",
       "results": [
         {
@@ -5165,9 +4923,7 @@
     },
     "ME": {
       "name": "Maine",
-      "fips": "23",
-      "ic": "2",
-      "cen": "11",
+      "seats": "4",
       "totalVotes": "553144",
       "results": [
         {
@@ -5199,9 +4955,7 @@
     },
     "MD": {
       "name": "Maryland",
-      "fips": "24",
-      "ic": "52",
-      "cen": "52",
+      "seats": "10",
       "totalVotes": "1675873",
       "results": [
         {
@@ -5238,9 +4992,7 @@
     },
     "MA": {
       "name": "Massachusetts",
-      "fips": "25",
-      "ic": "3",
-      "cen": "14",
+      "seats": "13",
       "totalVotes": "2559383",
       "results": [
         {
@@ -5267,9 +5019,7 @@
     },
     "MI": {
       "name": "Michigan",
-      "fips": "26",
-      "ic": "23",
-      "cen": "34",
+      "seats": "20",
       "totalVotes": "3801658",
       "results": [
         {
@@ -5331,9 +5081,7 @@
     },
     "MN": {
       "name": "Minnesota",
-      "fips": "27",
-      "ic": "33",
-      "cen": "41",
+      "seats": "10",
       "totalVotes": "2084449",
       "results": [
         {
@@ -5395,9 +5143,7 @@
     },
     "MS": {
       "name": "Mississippi",
-      "fips": "28",
-      "ic": "46",
-      "cen": "64",
+      "seats": "7",
       "totalVotes": "941104",
       "results": [
         {
@@ -5444,9 +5190,7 @@
     },
     "MO": {
       "name": "Missouri",
-      "fips": "29",
-      "ic": "34",
-      "cen": "43",
+      "seats": "11",
       "totalVotes": "2122771",
       "results": [
         {
@@ -5463,9 +5207,7 @@
     },
     "MT": {
       "name": "Montana",
-      "fips": "30",
-      "ic": "64",
-      "cen": "81",
+      "seats": "4",
       "totalVotes": "384377",
       "results": [
         {
@@ -5487,9 +5229,7 @@
     },
     "NE": {
       "name": "Nebraska",
-      "fips": "31",
-      "ic": "35",
-      "cen": "46",
+      "seats": "5",
       "totalVotes": "652090",
       "results": [
         {
@@ -5521,9 +5261,7 @@
     },
     "NV": {
       "name": "Nevada",
-      "fips": "32",
-      "ic": "65",
-      "cen": "88",
+      "seats": "4",
       "totalVotes": "282717",
       "results": [
         {
@@ -5545,9 +5283,7 @@
     },
     "NH": {
       "name": "New Hampshire",
-      "fips": "33",
-      "ic": "4",
-      "cen": "12",
+      "seats": "4",
       "totalVotes": "388904",
       "results": [
         {
@@ -5579,9 +5315,7 @@
     },
     "NJ": {
       "name": "New Jersey",
-      "fips": "34",
-      "ic": "12",
-      "cen": "22",
+      "seats": "16",
       "totalVotes": "3217862",
       "results": [
         {
@@ -5633,9 +5367,7 @@
     },
     "NM": {
       "name": "New Mexico",
-      "fips": "35",
-      "ic": "66",
-      "cen": "85",
+      "seats": "5",
       "totalVotes": "514370",
       "results": [
         {
@@ -5682,9 +5414,7 @@
     },
     "NY": {
       "name": "New York",
-      "fips": "36",
-      "ic": "13",
-      "cen": "21",
+      "seats": "36",
       "totalVotes": "6806810",
       "results": [
         {
@@ -5736,9 +5466,7 @@
     },
     "NC": {
       "name": "North Carolina",
-      "fips": "37",
-      "ic": "47",
-      "cen": "56",
+      "seats": "13",
       "totalVotes": "2175361",
       "results": [
         {
@@ -5765,9 +5493,7 @@
     },
     "ND": {
       "name": "North Dakota",
-      "fips": "38",
-      "ic": "36",
-      "cen": "44",
+      "seats": "3",
       "totalVotes": "308971",
       "results": [
         {
@@ -5824,9 +5550,7 @@
     },
     "OH": {
       "name": "Ohio",
-      "fips": "39",
-      "ic": "24",
-      "cen": "31",
+      "seats": "23",
       "totalVotes": "4563235",
       "results": [
         {
@@ -5878,9 +5602,7 @@
     },
     "OK": {
       "name": "Oklahoma",
-      "fips": "40",
-      "ic": "53",
-      "cen": "73",
+      "seats": "8",
       "totalVotes": "1255676",
       "results": [
         {
@@ -5902,9 +5624,7 @@
     },
     "OR": {
       "name": "Oregon",
-      "fips": "41",
-      "ic": "72",
-      "cen": "92",
+      "seats": "7",
       "totalVotes": "1226527",
       "results": [
         {
@@ -5926,9 +5646,7 @@
     },
     "PA": {
       "name": "Pennsylvania",
-      "fips": "42",
-      "ic": "14",
-      "cen": "23",
+      "seats": "25",
       "totalVotes": "4844903",
       "results": [
         {
@@ -5965,9 +5683,7 @@
     },
     "RI": {
       "name": "Rhode Island",
-      "fips": "44",
-      "ic": "5",
-      "cen": "15",
+      "seats": "4",
       "totalVotes": "410489",
       "results": [
         {
@@ -6019,9 +5735,7 @@
     },
     "SC": {
       "name": "South Carolina",
-      "fips": "45",
-      "ic": "48",
-      "cen": "57",
+      "seats": "8",
       "totalVotes": "968529",
       "results": [
         {
@@ -6053,9 +5767,7 @@
     },
     "SD": {
       "name": "South Dakota",
-      "fips": "46",
-      "ic": "37",
-      "cen": "45",
+      "seats": "3",
       "totalVotes": "317867",
       "results": [
         {
@@ -6082,9 +5794,7 @@
     },
     "TN": {
       "name": "Tennessee",
-      "fips": "47",
-      "ic": "54",
-      "cen": "62",
+      "seats": "11",
       "totalVotes": "1711993",
       "results": [
         {
@@ -6141,9 +5851,7 @@
     },
     "TX": {
       "name": "Texas",
-      "fips": "48",
-      "ic": "49",
-      "cen": "74",
+      "seats": "29",
       "totalVotes": "5397571",
       "results": [
         {
@@ -6170,9 +5878,7 @@
     },
     "UT": {
       "name": "Utah",
-      "fips": "49",
-      "ic": "67",
-      "cen": "87",
+      "seats": "5",
       "totalVotes": "629656",
       "results": [
         {
@@ -6219,9 +5925,7 @@
     },
     "VT": {
       "name": "Vermont",
-      "fips": "50",
-      "ic": "6",
-      "cen": "13",
+      "seats": "3",
       "totalVotes": "234561",
       "results": [
         {
@@ -6273,9 +5977,7 @@
     },
     "VA": {
       "name": "Virginia",
-      "fips": "51",
-      "ic": "40",
-      "cen": "54",
+      "seats": "12",
       "totalVotes": "2146635",
       "results": [
         {
@@ -6297,9 +5999,7 @@
     },
     "WA": {
       "name": "Washington",
-      "fips": "53",
-      "ic": "73",
-      "cen": "91",
+      "seats": "10",
       "totalVotes": "1874910",
       "results": [
         {
@@ -6356,9 +6056,7 @@
     },
     "WV": {
       "name": "West Virginia",
-      "fips": "54",
-      "ic": "56",
-      "cen": "55",
+      "seats": "6",
       "totalVotes": "735742",
       "results": [
         {
@@ -6390,9 +6088,7 @@
     },
     "WI": {
       "name": "Wisconsin",
-      "fips": "55",
-      "ic": "25",
-      "cen": "35",
+      "seats": "11",
       "totalVotes": "2211689",
       "results": [
         {
@@ -6454,9 +6150,7 @@
     },
     "WY": {
       "name": "Wyoming",
-      "fips": "56",
-      "ic": "68",
-      "cen": "83",
+      "seats": "3",
       "totalVotes": "188968",
       "results": [
         {
@@ -6480,9 +6174,7 @@
   "1988": {
     "AL": {
       "name": "Alabama",
-      "fips": "1",
-      "ic": "41",
-      "cen": "63",
+      "seats": "9",
       "totalVotes": "1378476",
       "results": [
         {
@@ -6514,9 +6206,7 @@
     },
     "AK": {
       "name": "Alaska",
-      "fips": "2",
-      "ic": "81",
-      "cen": "94",
+      "seats": "3",
       "totalVotes": "200116",
       "results": [
         {
@@ -6553,9 +6243,7 @@
     },
     "AZ": {
       "name": "Arizona",
-      "fips": "4",
-      "ic": "61",
-      "cen": "86",
+      "seats": "7",
       "totalVotes": "1171873",
       "results": [
         {
@@ -6587,9 +6275,7 @@
     },
     "AR": {
       "name": "Arkansas",
-      "fips": "5",
-      "ic": "42",
-      "cen": "71",
+      "seats": "6",
       "totalVotes": "827738",
       "results": [
         {
@@ -6626,9 +6312,7 @@
     },
     "CA": {
       "name": "California",
-      "fips": "6",
-      "ic": "71",
-      "cen": "93",
+      "seats": "47",
       "totalVotes": "9887065",
       "results": [
         {
@@ -6660,9 +6344,7 @@
     },
     "CO": {
       "name": "Colorado",
-      "fips": "8",
-      "ic": "62",
-      "cen": "84",
+      "seats": "8",
       "totalVotes": "1372394",
       "results": [
         {
@@ -6699,9 +6381,7 @@
     },
     "CT": {
       "name": "Connecticut",
-      "fips": "9",
-      "ic": "1",
-      "cen": "16",
+      "seats": "8",
       "totalVotes": "1443394",
       "results": [
         {
@@ -6733,9 +6413,7 @@
     },
     "DE": {
       "name": "Delaware",
-      "fips": "10",
-      "ic": "11",
-      "cen": "51",
+      "seats": "3",
       "totalVotes": "249891",
       "results": [
         {
@@ -6762,9 +6440,7 @@
     },
     "DC": {
       "name": "District of Columbia",
-      "fips": "11",
-      "ic": "55",
-      "cen": "53",
+      "seats": "3",
       "totalVotes": "192877",
       "results": [
         {
@@ -6816,9 +6492,7 @@
     },
     "FL": {
       "name": "Florida",
-      "fips": "12",
-      "ic": "43",
-      "cen": "59",
+      "seats": "21",
       "totalVotes": "4302313",
       "results": [
         {
@@ -6850,9 +6524,7 @@
     },
     "GA": {
       "name": "Georgia",
-      "fips": "13",
-      "ic": "44",
-      "cen": "58",
+      "seats": "12",
       "totalVotes": "1809672",
       "results": [
         {
@@ -6884,9 +6556,7 @@
     },
     "HI": {
       "name": "Hawaii",
-      "fips": "15",
-      "ic": "82",
-      "cen": "95",
+      "seats": "4",
       "totalVotes": "354461",
       "results": [
         {
@@ -6918,9 +6588,7 @@
     },
     "ID": {
       "name": "Idaho",
-      "fips": "16",
-      "ic": "63",
-      "cen": "82",
+      "seats": "4",
       "totalVotes": "408968",
       "results": [
         {
@@ -6947,9 +6615,7 @@
     },
     "IL": {
       "name": "Illinois",
-      "fips": "17",
-      "ic": "21",
-      "cen": "33",
+      "seats": "24",
       "totalVotes": "4559120",
       "results": [
         {
@@ -6981,9 +6647,7 @@
     },
     "IN": {
       "name": "Indiana",
-      "fips": "18",
-      "ic": "22",
-      "cen": "32",
+      "seats": "12",
       "totalVotes": "2168621",
       "results": [
         {
@@ -7005,9 +6669,7 @@
     },
     "IA": {
       "name": "Iowa",
-      "fips": "19",
-      "ic": "31",
-      "cen": "42",
+      "seats": "8",
       "totalVotes": "1225614",
       "results": [
         {
@@ -7064,9 +6726,7 @@
     },
     "KS": {
       "name": "Kansas",
-      "fips": "20",
-      "ic": "32",
-      "cen": "47",
+      "seats": "7",
       "totalVotes": "993044",
       "results": [
         {
@@ -7088,9 +6748,7 @@
     },
     "KY": {
       "name": "Kentucky",
-      "fips": "21",
-      "ic": "51",
-      "cen": "61",
+      "seats": "9",
       "totalVotes": "1322517",
       "results": [
         {
@@ -7122,9 +6780,7 @@
     },
     "LA": {
       "name": "Louisiana",
-      "fips": "22",
-      "ic": "45",
-      "cen": "72",
+      "seats": "10",
       "totalVotes": "1628202",
       "results": [
         {
@@ -7161,9 +6817,7 @@
     },
     "ME": {
       "name": "Maine",
-      "fips": "23",
-      "ic": "2",
-      "cen": "11",
+      "seats": "4",
       "totalVotes": "555035",
       "results": [
         {
@@ -7195,9 +6849,7 @@
     },
     "MD": {
       "name": "Maryland",
-      "fips": "24",
-      "ic": "52",
-      "cen": "52",
+      "seats": "10",
       "totalVotes": "1714358",
       "results": [
         {
@@ -7229,9 +6881,7 @@
     },
     "MA": {
       "name": "Massachusetts",
-      "fips": "25",
-      "ic": "3",
-      "cen": "14",
+      "seats": "13",
       "totalVotes": "2632801",
       "results": [
         {
@@ -7263,9 +6913,7 @@
     },
     "MI": {
       "name": "Michigan",
-      "fips": "26",
-      "ic": "23",
-      "cen": "34",
+      "seats": "20",
       "totalVotes": "3669163",
       "results": [
         {
@@ -7297,9 +6945,7 @@
     },
     "MN": {
       "name": "Minnesota",
-      "fips": "27",
-      "ic": "33",
-      "cen": "41",
+      "seats": "10",
       "totalVotes": "2096790",
       "results": [
         {
@@ -7366,9 +7012,7 @@
     },
     "MS": {
       "name": "Mississippi",
-      "fips": "28",
-      "ic": "46",
-      "cen": "64",
+      "seats": "7",
       "totalVotes": "931527",
       "results": [
         {
@@ -7395,9 +7039,7 @@
     },
     "MO": {
       "name": "Missouri",
-      "fips": "29",
-      "ic": "34",
-      "cen": "43",
+      "seats": "11",
       "totalVotes": "2093228",
       "results": [
         {
@@ -7419,9 +7061,7 @@
     },
     "MT": {
       "name": "Montana",
-      "fips": "30",
-      "ic": "64",
-      "cen": "81",
+      "seats": "4",
       "totalVotes": "365674",
       "results": [
         {
@@ -7448,9 +7088,7 @@
     },
     "NE": {
       "name": "Nebraska",
-      "fips": "31",
-      "ic": "35",
-      "cen": "46",
+      "seats": "5",
       "totalVotes": "661465",
       "results": [
         {
@@ -7477,9 +7115,7 @@
     },
     "NV": {
       "name": "Nevada",
-      "fips": "32",
-      "ic": "65",
-      "cen": "88",
+      "seats": "4",
       "totalVotes": "343133",
       "results": [
         {
@@ -7506,9 +7142,7 @@
     },
     "NH": {
       "name": "New Hampshire",
-      "fips": "33",
-      "ic": "4",
-      "cen": "12",
+      "seats": "4",
       "totalVotes": "450525",
       "results": [
         {
@@ -7535,9 +7169,7 @@
     },
     "NJ": {
       "name": "New Jersey",
-      "fips": "34",
-      "ic": "12",
-      "cen": "22",
+      "seats": "16",
       "totalVotes": "3099553",
       "results": [
         {
@@ -7599,9 +7231,7 @@
     },
     "NM": {
       "name": "New Mexico",
-      "fips": "35",
-      "ic": "66",
-      "cen": "85",
+      "seats": "5",
       "totalVotes": "521387",
       "results": [
         {
@@ -7648,9 +7278,7 @@
     },
     "NY": {
       "name": "New York",
-      "fips": "36",
-      "ic": "13",
-      "cen": "21",
+      "seats": "36",
       "totalVotes": "6485683",
       "results": [
         {
@@ -7707,9 +7335,7 @@
     },
     "NC": {
       "name": "North Carolina",
-      "fips": "37",
-      "ic": "47",
-      "cen": "56",
+      "seats": "13",
       "totalVotes": "2134370",
       "results": [
         {
@@ -7736,9 +7362,7 @@
     },
     "ND": {
       "name": "North Dakota",
-      "fips": "38",
-      "ic": "36",
-      "cen": "44",
+      "seats": "3",
       "totalVotes": "297261",
       "results": [
         {
@@ -7775,9 +7399,7 @@
     },
     "OH": {
       "name": "Ohio",
-      "fips": "39",
-      "ic": "24",
-      "cen": "31",
+      "seats": "23",
       "totalVotes": "4393585",
       "results": [
         {
@@ -7819,9 +7441,7 @@
     },
     "OK": {
       "name": "Oklahoma",
-      "fips": "40",
-      "ic": "53",
-      "cen": "73",
+      "seats": "8",
       "totalVotes": "1171036",
       "results": [
         {
@@ -7848,9 +7468,7 @@
     },
     "OR": {
       "name": "Oregon",
-      "fips": "41",
-      "ic": "72",
-      "cen": "92",
+      "seats": "7",
       "totalVotes": "1201694",
       "results": [
         {
@@ -7882,9 +7500,7 @@
     },
     "PA": {
       "name": "Pennsylvania",
-      "fips": "42",
-      "ic": "14",
-      "cen": "23",
+      "seats": "25",
       "totalVotes": "4536251",
       "results": [
         {
@@ -7926,9 +7542,7 @@
     },
     "RI": {
       "name": "Rhode Island",
-      "fips": "44",
-      "ic": "5",
-      "cen": "15",
+      "seats": "4",
       "totalVotes": "404622",
       "results": [
         {
@@ -7980,9 +7594,7 @@
     },
     "SC": {
       "name": "South Carolina",
-      "fips": "45",
-      "ic": "48",
-      "cen": "57",
+      "seats": "8",
       "totalVotes": "986009",
       "results": [
         {
@@ -8009,9 +7621,7 @@
     },
     "SD": {
       "name": "South Dakota",
-      "fips": "46",
-      "ic": "37",
-      "cen": "45",
+      "seats": "3",
       "totalVotes": "312991",
       "results": [
         {
@@ -8033,9 +7643,7 @@
     },
     "TN": {
       "name": "Tennessee",
-      "fips": "47",
-      "ic": "54",
-      "cen": "62",
+      "seats": "11",
       "totalVotes": "1636250",
       "results": [
         {
@@ -8062,9 +7670,7 @@
     },
     "TX": {
       "name": "Texas",
-      "fips": "48",
-      "ic": "49",
-      "cen": "74",
+      "seats": "29",
       "totalVotes": "5427410",
       "results": [
         {
@@ -8096,9 +7702,7 @@
     },
     "UT": {
       "name": "Utah",
-      "fips": "49",
-      "ic": "67",
-      "cen": "87",
+      "seats": "5",
       "totalVotes": "647008",
       "results": [
         {
@@ -8150,9 +7754,7 @@
     },
     "VT": {
       "name": "Vermont",
-      "fips": "50",
-      "ic": "6",
-      "cen": "13",
+      "seats": "3",
       "totalVotes": "243328",
       "results": [
         {
@@ -8209,9 +7811,7 @@
     },
     "VA": {
       "name": "Virginia",
-      "fips": "51",
-      "ic": "40",
-      "cen": "54",
+      "seats": "12",
       "totalVotes": "2191609",
       "results": [
         {
@@ -8238,9 +7838,7 @@
     },
     "WA": {
       "name": "Washington",
-      "fips": "53",
-      "ic": "73",
-      "cen": "91",
+      "seats": "10",
       "totalVotes": "1865253",
       "results": [
         {
@@ -8282,9 +7880,7 @@
     },
     "WV": {
       "name": "West Virginia",
-      "fips": "54",
-      "ic": "56",
-      "cen": "55",
+      "seats": "6",
       "totalVotes": "653311",
       "results": [
         {
@@ -8306,9 +7902,7 @@
     },
     "WI": {
       "name": "Wisconsin",
-      "fips": "55",
-      "ic": "25",
-      "cen": "35",
+      "seats": "11",
       "totalVotes": "2191608",
       "results": [
         {
@@ -8335,9 +7929,7 @@
     },
     "WY": {
       "name": "Wyoming",
-      "fips": "56",
-      "ic": "68",
-      "cen": "83",
+      "seats": "3",
       "totalVotes": "176551",
       "results": [
         {
@@ -8366,9 +7958,7 @@
   "1992": {
     "AL": {
       "name": "Alabama",
-      "fips": "1",
-      "ic": "41",
-      "cen": "63",
+      "seats": "9",
       "totalVotes": "1688060",
       "results": [
         {
@@ -8405,9 +7995,7 @@
     },
     "AK": {
       "name": "Alaska",
-      "fips": "2",
-      "ic": "81",
-      "cen": "94",
+      "seats": "3",
       "totalVotes": "258506",
       "results": [
         {
@@ -8464,9 +8052,7 @@
     },
     "AZ": {
       "name": "Arizona",
-      "fips": "4",
-      "ic": "61",
-      "cen": "86",
+      "seats": "8",
       "totalVotes": "1486975",
       "results": [
         {
@@ -8513,9 +8099,7 @@
     },
     "AR": {
       "name": "Arkansas",
-      "fips": "5",
-      "ic": "42",
-      "cen": "71",
+      "seats": "6",
       "totalVotes": "950653",
       "results": [
         {
@@ -8542,9 +8126,7 @@
     },
     "CA": {
       "name": "California",
-      "fips": "6",
-      "ic": "71",
-      "cen": "93",
+      "seats": "54",
       "totalVotes": "11131721",
       "results": [
         {
@@ -8586,9 +8168,7 @@
     },
     "CO": {
       "name": "Colorado",
-      "fips": "8",
-      "ic": "62",
-      "cen": "84",
+      "seats": "8",
       "totalVotes": "1569180",
       "results": [
         {
@@ -8640,9 +8220,7 @@
     },
     "CT": {
       "name": "Connecticut",
-      "fips": "9",
-      "ic": "1",
-      "cen": "16",
+      "seats": "8",
       "totalVotes": "1616156",
       "results": [
         {
@@ -8674,9 +8252,7 @@
     },
     "DE": {
       "name": "Delaware",
-      "fips": "10",
-      "ic": "11",
-      "cen": "51",
+      "seats": "3",
       "totalVotes": "289620",
       "results": [
         {
@@ -8708,9 +8284,7 @@
     },
     "DC": {
       "name": "District of Columbia",
-      "fips": "11",
-      "ic": "55",
-      "cen": "53",
+      "seats": "3",
       "totalVotes": "227572",
       "results": [
         {
@@ -8767,9 +8341,7 @@
     },
     "FL": {
       "name": "Florida",
-      "fips": "12",
-      "ic": "43",
-      "cen": "59",
+      "seats": "25",
       "totalVotes": "5313392",
       "results": [
         {
@@ -8801,9 +8373,7 @@
     },
     "GA": {
       "name": "Georgia",
-      "fips": "13",
-      "ic": "44",
-      "cen": "58",
+      "seats": "13",
       "totalVotes": "2321133",
       "results": [
         {
@@ -8835,9 +8405,7 @@
     },
     "HI": {
       "name": "Hawaii",
-      "fips": "15",
-      "ic": "82",
-      "cen": "95",
+      "seats": "4",
       "totalVotes": "372842",
       "results": [
         {
@@ -8879,9 +8447,7 @@
     },
     "ID": {
       "name": "Idaho",
-      "fips": "16",
-      "ic": "63",
-      "cen": "82",
+      "seats": "4",
       "totalVotes": "482114",
       "results": [
         {
@@ -8913,9 +8479,7 @@
     },
     "IL": {
       "name": "Illinois",
-      "fips": "17",
-      "ic": "21",
-      "cen": "33",
+      "seats": "22",
       "totalVotes": "5050157",
       "results": [
         {
@@ -8967,9 +8531,7 @@
     },
     "IN": {
       "name": "Indiana",
-      "fips": "18",
-      "ic": "22",
-      "cen": "32",
+      "seats": "12",
       "totalVotes": "2305871",
       "results": [
         {
@@ -9006,9 +8568,7 @@
     },
     "IA": {
       "name": "Iowa",
-      "fips": "19",
-      "ic": "31",
-      "cen": "42",
+      "seats": "7",
       "totalVotes": "1354607",
       "results": [
         {
@@ -9085,9 +8645,7 @@
     },
     "KS": {
       "name": "Kansas",
-      "fips": "20",
-      "ic": "32",
-      "cen": "47",
+      "seats": "6",
       "totalVotes": "1157236",
       "results": [
         {
@@ -9119,9 +8677,7 @@
     },
     "KY": {
       "name": "Kentucky",
-      "fips": "21",
-      "ic": "51",
-      "cen": "61",
+      "seats": "8",
       "totalVotes": "1492900",
       "results": [
         {
@@ -9168,9 +8724,7 @@
     },
     "LA": {
       "name": "Louisiana",
-      "fips": "22",
-      "ic": "45",
-      "cen": "72",
+      "seats": "9",
       "totalVotes": "1790017",
       "results": [
         {
@@ -9232,9 +8786,7 @@
     },
     "ME": {
       "name": "Maine",
-      "fips": "23",
-      "ic": "2",
-      "cen": "11",
+      "seats": "4",
       "totalVotes": "679499",
       "results": [
         {
@@ -9276,9 +8828,7 @@
     },
     "MD": {
       "name": "Maryland",
-      "fips": "24",
-      "ic": "52",
-      "cen": "52",
+      "seats": "10",
       "totalVotes": "1984580",
       "results": [
         {
@@ -9310,9 +8860,7 @@
     },
     "MA": {
       "name": "Massachusetts",
-      "fips": "25",
-      "ic": "3",
-      "cen": "14",
+      "seats": "12",
       "totalVotes": "2773664",
       "results": [
         {
@@ -9374,9 +8922,7 @@
     },
     "MI": {
       "name": "Michigan",
-      "fips": "26",
-      "ic": "23",
-      "cen": "34",
+      "seats": "18",
       "totalVotes": "4274673",
       "results": [
         {
@@ -9423,9 +8969,7 @@
     },
     "MN": {
       "name": "Minnesota",
-      "fips": "27",
-      "ic": "33",
-      "cen": "41",
+      "seats": "10",
       "totalVotes": "2347948",
       "results": [
         {
@@ -9492,9 +9036,7 @@
     },
     "MS": {
       "name": "Mississippi",
-      "fips": "28",
-      "ic": "46",
-      "cen": "64",
+      "seats": "7",
       "totalVotes": "981793",
       "results": [
         {
@@ -9531,9 +9073,7 @@
     },
     "MO": {
       "name": "Missouri",
-      "fips": "29",
-      "ic": "34",
-      "cen": "43",
+      "seats": "11",
       "totalVotes": "2391270",
       "results": [
         {
@@ -9560,9 +9100,7 @@
     },
     "MT": {
       "name": "Montana",
-      "fips": "30",
-      "ic": "64",
-      "cen": "81",
+      "seats": "3",
       "totalVotes": "410583",
       "results": [
         {
@@ -9594,9 +9132,7 @@
     },
     "NE": {
       "name": "Nebraska",
-      "fips": "31",
-      "ic": "35",
-      "cen": "46",
+      "seats": "5",
       "totalVotes": "737546",
       "results": [
         {
@@ -9628,9 +9164,7 @@
     },
     "NV": {
       "name": "Nevada",
-      "fips": "32",
-      "ic": "65",
-      "cen": "88",
+      "seats": "4",
       "totalVotes": "506318",
       "results": [
         {
@@ -9682,9 +9216,7 @@
     },
     "NH": {
       "name": "New Hampshire",
-      "fips": "33",
-      "ic": "4",
-      "cen": "12",
+      "seats": "4",
       "totalVotes": "537215",
       "results": [
         {
@@ -9721,9 +9253,7 @@
     },
     "NJ": {
       "name": "New Jersey",
-      "fips": "34",
-      "ic": "12",
-      "cen": "22",
+      "seats": "15",
       "totalVotes": "3343594",
       "results": [
         {
@@ -9795,9 +9325,7 @@
     },
     "NM": {
       "name": "New Mexico",
-      "fips": "35",
-      "ic": "66",
-      "cen": "85",
+      "seats": "5",
       "totalVotes": "569986",
       "results": [
         {
@@ -9854,9 +9382,7 @@
     },
     "NY": {
       "name": "New York",
-      "fips": "36",
-      "ic": "13",
-      "cen": "21",
+      "seats": "33",
       "totalVotes": "7079432",
       "results": [
         {
@@ -9918,9 +9444,7 @@
     },
     "NC": {
       "name": "North Carolina",
-      "fips": "37",
-      "ic": "47",
-      "cen": "56",
+      "seats": "14",
       "totalVotes": "2611850",
       "results": [
         {
@@ -9962,9 +9486,7 @@
     },
     "ND": {
       "name": "North Dakota",
-      "fips": "38",
-      "ic": "36",
-      "cen": "44",
+      "seats": "3",
       "totalVotes": "308133",
       "results": [
         {
@@ -9991,9 +9513,7 @@
     },
     "OH": {
       "name": "Ohio",
-      "fips": "39",
-      "ic": "24",
-      "cen": "31",
+      "seats": "21",
       "totalVotes": "4939967",
       "results": [
         {
@@ -10025,9 +9545,7 @@
     },
     "OK": {
       "name": "Oklahoma",
-      "fips": "40",
-      "ic": "53",
-      "cen": "73",
+      "seats": "8",
       "totalVotes": "1390359",
       "results": [
         {
@@ -10054,9 +9572,7 @@
     },
     "OR": {
       "name": "Oregon",
-      "fips": "41",
-      "ic": "72",
-      "cen": "92",
+      "seats": "7",
       "totalVotes": "1462643",
       "results": [
         {
@@ -10098,9 +9614,7 @@
     },
     "PA": {
       "name": "Pennsylvania",
-      "fips": "42",
-      "ic": "14",
-      "cen": "23",
+      "seats": "23",
       "totalVotes": "4959810",
       "results": [
         {
@@ -10132,9 +9646,7 @@
     },
     "RI": {
       "name": "Rhode Island",
-      "fips": "44",
-      "ic": "5",
-      "cen": "15",
+      "seats": "4",
       "totalVotes": "453365",
       "results": [
         {
@@ -10181,9 +9693,7 @@
     },
     "SC": {
       "name": "South Carolina",
-      "fips": "45",
-      "ic": "48",
-      "cen": "57",
+      "seats": "8",
       "totalVotes": "1228912",
       "results": [
         {
@@ -10220,9 +9730,7 @@
     },
     "SD": {
       "name": "South Dakota",
-      "fips": "46",
-      "ic": "37",
-      "cen": "45",
+      "seats": "3",
       "totalVotes": "336254",
       "results": [
         {
@@ -10254,9 +9762,7 @@
     },
     "TN": {
       "name": "Tennessee",
-      "fips": "47",
-      "ic": "54",
-      "cen": "62",
+      "seats": "11",
       "totalVotes": "1982638",
       "results": [
         {
@@ -10288,9 +9794,7 @@
     },
     "TX": {
       "name": "Texas",
-      "fips": "48",
-      "ic": "49",
-      "cen": "74",
+      "seats": "32",
       "totalVotes": "6154018",
       "results": [
         {
@@ -10322,9 +9826,7 @@
     },
     "UT": {
       "name": "Utah",
-      "fips": "49",
-      "ic": "67",
-      "cen": "87",
+      "seats": "5",
       "totalVotes": "743998",
       "results": [
         {
@@ -10396,9 +9898,7 @@
     },
     "VT": {
       "name": "Vermont",
-      "fips": "50",
-      "ic": "6",
-      "cen": "13",
+      "seats": "3",
       "totalVotes": "289701",
       "results": [
         {
@@ -10460,9 +9960,7 @@
     },
     "VA": {
       "name": "Virginia",
-      "fips": "51",
-      "ic": "40",
-      "cen": "54",
+      "seats": "13",
       "totalVotes": "2559129",
       "results": [
         {
@@ -10499,9 +9997,7 @@
     },
     "WA": {
       "name": "Washington",
-      "fips": "53",
-      "ic": "73",
-      "cen": "91",
+      "seats": "11",
       "totalVotes": "2287565",
       "results": [
         {
@@ -10558,9 +10054,7 @@
     },
     "WV": {
       "name": "West Virginia",
-      "fips": "54",
-      "ic": "56",
-      "cen": "55",
+      "seats": "5",
       "totalVotes": "683677",
       "results": [
         {
@@ -10587,9 +10081,7 @@
     },
     "WI": {
       "name": "Wisconsin",
-      "fips": "55",
-      "ic": "25",
-      "cen": "35",
+      "seats": "11",
       "totalVotes": "2531064",
       "results": [
         {
@@ -10641,9 +10133,7 @@
     },
     "WY": {
       "name": "Wyoming",
-      "fips": "56",
-      "ic": "68",
-      "cen": "83",
+      "seats": "3",
       "totalVotes": "199884",
       "results": [
         {
@@ -10677,9 +10167,7 @@
   "1996": {
     "AL": {
       "name": "Alabama",
-      "fips": "1",
-      "ic": "41",
-      "cen": "63",
+      "seats": "9",
       "totalVotes": "1534349",
       "results": [
         {
@@ -10716,9 +10204,7 @@
     },
     "AK": {
       "name": "Alaska",
-      "fips": "2",
-      "ic": "81",
-      "cen": "94",
+      "seats": "3",
       "totalVotes": "241620",
       "results": [
         {
@@ -10765,9 +10251,7 @@
     },
     "AZ": {
       "name": "Arizona",
-      "fips": "4",
-      "ic": "61",
-      "cen": "86",
+      "seats": "8",
       "totalVotes": "1404405",
       "results": [
         {
@@ -10804,9 +10288,7 @@
     },
     "AR": {
       "name": "Arkansas",
-      "fips": "5",
-      "ic": "42",
-      "cen": "71",
+      "seats": "6",
       "totalVotes": "884262",
       "results": [
         {
@@ -10878,9 +10360,7 @@
     },
     "CA": {
       "name": "California",
-      "fips": "6",
-      "ic": "71",
-      "cen": "93",
+      "seats": "54",
       "totalVotes": "10019469",
       "results": [
         {
@@ -10932,9 +10412,7 @@
     },
     "CO": {
       "name": "Colorado",
-      "fips": "8",
-      "ic": "62",
-      "cen": "84",
+      "seats": "8",
       "totalVotes": "1510702",
       "results": [
         {
@@ -11006,9 +10484,7 @@
     },
     "CT": {
       "name": "Connecticut",
-      "fips": "9",
-      "ic": "1",
-      "cen": "16",
+      "seats": "8",
       "totalVotes": "1392614",
       "results": [
         {
@@ -11055,9 +10531,7 @@
     },
     "DE": {
       "name": "Delaware",
-      "fips": "10",
-      "ic": "11",
-      "cen": "51",
+      "seats": "3",
       "totalVotes": "270810",
       "results": [
         {
@@ -11094,9 +10568,7 @@
     },
     "DC": {
       "name": "District of Columbia",
-      "fips": "11",
-      "ic": "55",
-      "cen": "53",
+      "seats": "3",
       "totalVotes": "185726",
       "results": [
         {
@@ -11143,9 +10615,7 @@
     },
     "FL": {
       "name": "Florida",
-      "fips": "12",
-      "ic": "43",
-      "cen": "59",
+      "seats": "25",
       "totalVotes": "5303154",
       "results": [
         {
@@ -11177,9 +10647,7 @@
     },
     "GA": {
       "name": "Georgia",
-      "fips": "13",
-      "ic": "44",
-      "cen": "58",
+      "seats": "13",
       "totalVotes": "2298899",
       "results": [
         {
@@ -11206,9 +10674,7 @@
     },
     "HI": {
       "name": "Hawaii",
-      "fips": "15",
-      "ic": "82",
-      "cen": "95",
+      "seats": "4",
       "totalVotes": "360120",
       "results": [
         {
@@ -11250,9 +10716,7 @@
     },
     "ID": {
       "name": "Idaho",
-      "fips": "16",
-      "ic": "63",
-      "cen": "82",
+      "seats": "4",
       "totalVotes": "491711",
       "results": [
         {
@@ -11289,9 +10753,7 @@
     },
     "IL": {
       "name": "Illinois",
-      "fips": "17",
-      "ic": "21",
-      "cen": "33",
+      "seats": "22",
       "totalVotes": "4311391",
       "results": [
         {
@@ -11333,9 +10795,7 @@
     },
     "IN": {
       "name": "Indiana",
-      "fips": "18",
-      "ic": "22",
-      "cen": "32",
+      "seats": "12",
       "totalVotes": "2135431",
       "results": [
         {
@@ -11367,9 +10827,7 @@
     },
     "IA": {
       "name": "Iowa",
-      "fips": "19",
-      "ic": "31",
-      "cen": "42",
+      "seats": "7",
       "totalVotes": "1234075",
       "results": [
         {
@@ -11421,9 +10879,7 @@
     },
     "KS": {
       "name": "Kansas",
-      "fips": "20",
-      "ic": "32",
-      "cen": "47",
+      "seats": "6",
       "totalVotes": "1074300",
       "results": [
         {
@@ -11460,9 +10916,7 @@
     },
     "KY": {
       "name": "Kentucky",
-      "fips": "21",
-      "ic": "51",
-      "cen": "61",
+      "seats": "8",
       "totalVotes": "1388708",
       "results": [
         {
@@ -11504,9 +10958,7 @@
     },
     "LA": {
       "name": "Louisiana",
-      "fips": "22",
-      "ic": "45",
-      "cen": "72",
+      "seats": "9",
       "totalVotes": "1783959",
       "results": [
         {
@@ -11553,9 +11005,7 @@
     },
     "ME": {
       "name": "Maine",
-      "fips": "23",
-      "ic": "2",
-      "cen": "11",
+      "seats": "4",
       "totalVotes": "605897",
       "results": [
         {
@@ -11602,9 +11052,7 @@
     },
     "MD": {
       "name": "Maryland",
-      "fips": "24",
-      "ic": "52",
-      "cen": "52",
+      "seats": "10",
       "totalVotes": "1780870",
       "results": [
         {
@@ -11646,9 +11094,7 @@
     },
     "MA": {
       "name": "Massachusetts",
-      "fips": "25",
-      "ic": "3",
-      "cen": "14",
+      "seats": "12",
       "totalVotes": "2556459",
       "results": [
         {
@@ -11695,9 +11141,7 @@
     },
     "MI": {
       "name": "Michigan",
-      "fips": "26",
-      "ic": "23",
-      "cen": "34",
+      "seats": "18",
       "totalVotes": "3848844",
       "results": [
         {
@@ -11744,9 +11188,7 @@
     },
     "MN": {
       "name": "Minnesota",
-      "fips": "27",
-      "ic": "33",
-      "cen": "41",
+      "seats": "10",
       "totalVotes": "2192492",
       "results": [
         {
@@ -11813,9 +11255,7 @@
     },
     "MS": {
       "name": "Mississippi",
-      "fips": "28",
-      "ic": "46",
-      "cen": "64",
+      "seats": "7",
       "totalVotes": "893857",
       "results": [
         {
@@ -11852,9 +11292,7 @@
     },
     "MO": {
       "name": "Missouri",
-      "fips": "29",
-      "ic": "34",
-      "cen": "43",
+      "seats": "11",
       "totalVotes": "2158065",
       "results": [
         {
@@ -11896,9 +11334,7 @@
     },
     "MT": {
       "name": "Montana",
-      "fips": "30",
-      "ic": "64",
-      "cen": "81",
+      "seats": "3",
       "totalVotes": "407083",
       "results": [
         {
@@ -11930,9 +11366,7 @@
     },
     "NE": {
       "name": "Nebraska",
-      "fips": "31",
-      "ic": "35",
-      "cen": "46",
+      "seats": "5",
       "totalVotes": "677415",
       "results": [
         {
@@ -11969,9 +11403,7 @@
     },
     "NV": {
       "name": "Nevada",
-      "fips": "32",
-      "ic": "65",
-      "cen": "88",
+      "seats": "4",
       "totalVotes": "464279",
       "results": [
         {
@@ -12018,9 +11450,7 @@
     },
     "NH": {
       "name": "New Hampshire",
-      "fips": "33",
-      "ic": "4",
-      "cen": "12",
+      "seats": "4",
       "totalVotes": "496597",
       "results": [
         {
@@ -12052,9 +11482,7 @@
     },
     "NJ": {
       "name": "New Jersey",
-      "fips": "34",
-      "ic": "12",
-      "cen": "22",
+      "seats": "15",
       "totalVotes": "3075860",
       "results": [
         {
@@ -12076,9 +11504,7 @@
     },
     "NM": {
       "name": "New Mexico",
-      "fips": "35",
-      "ic": "66",
-      "cen": "85",
+      "seats": "5",
       "totalVotes": "556074",
       "results": [
         {
@@ -12120,9 +11546,7 @@
     },
     "NY": {
       "name": "New York",
-      "fips": "36",
-      "ic": "13",
-      "cen": "21",
+      "seats": "33",
       "totalVotes": "6439129",
       "results": [
         {
@@ -12194,9 +11618,7 @@
     },
     "NC": {
       "name": "North Carolina",
-      "fips": "37",
-      "ic": "47",
-      "cen": "56",
+      "seats": "14",
       "totalVotes": "2515807",
       "results": [
         {
@@ -12233,9 +11655,7 @@
     },
     "ND": {
       "name": "North Dakota",
-      "fips": "38",
-      "ic": "36",
-      "cen": "44",
+      "seats": "3",
       "totalVotes": "266411",
       "results": [
         {
@@ -12272,9 +11692,7 @@
     },
     "OH": {
       "name": "Ohio",
-      "fips": "39",
-      "ic": "24",
-      "cen": "31",
+      "seats": "21",
       "totalVotes": "4534434",
       "results": [
         {
@@ -12326,9 +11744,7 @@
     },
     "OK": {
       "name": "Oklahoma",
-      "fips": "40",
-      "ic": "53",
-      "cen": "73",
+      "seats": "8",
       "totalVotes": "1206713",
       "results": [
         {
@@ -12355,9 +11771,7 @@
     },
     "OR": {
       "name": "Oregon",
-      "fips": "41",
-      "ic": "72",
-      "cen": "92",
+      "seats": "7",
       "totalVotes": "1377760",
       "results": [
         {
@@ -12409,9 +11823,7 @@
     },
     "PA": {
       "name": "Pennsylvania",
-      "fips": "42",
-      "ic": "14",
-      "cen": "23",
+      "seats": "23",
       "totalVotes": "4501307",
       "results": [
         {
@@ -12448,9 +11860,7 @@
     },
     "RI": {
       "name": "Rhode Island",
-      "fips": "44",
-      "ic": "5",
-      "cen": "15",
+      "seats": "4",
       "totalVotes": "390247",
       "results": [
         {
@@ -12497,9 +11907,7 @@
     },
     "SC": {
       "name": "South Carolina",
-      "fips": "45",
-      "ic": "48",
-      "cen": "57",
+      "seats": "8",
       "totalVotes": "1150182",
       "results": [
         {
@@ -12536,9 +11944,7 @@
     },
     "SD": {
       "name": "South Dakota",
-      "fips": "46",
-      "ic": "37",
-      "cen": "45",
+      "seats": "3",
       "totalVotes": "323826",
       "results": [
         {
@@ -12565,9 +11971,7 @@
     },
     "TN": {
       "name": "Tennessee",
-      "fips": "47",
-      "ic": "54",
-      "cen": "62",
+      "seats": "11",
       "totalVotes": "1894105",
       "results": [
         {
@@ -12594,9 +11998,7 @@
     },
     "TX": {
       "name": "Texas",
-      "fips": "48",
-      "ic": "49",
-      "cen": "74",
+      "seats": "32",
       "totalVotes": "5611644",
       "results": [
         {
@@ -12638,9 +12040,7 @@
     },
     "UT": {
       "name": "Utah",
-      "fips": "49",
-      "ic": "67",
-      "cen": "87",
+      "seats": "5",
       "totalVotes": "665629",
       "results": [
         {
@@ -12712,9 +12112,7 @@
     },
     "VT": {
       "name": "Vermont",
-      "fips": "50",
-      "ic": "6",
-      "cen": "13",
+      "seats": "3",
       "totalVotes": "258449",
       "results": [
         {
@@ -12776,9 +12174,7 @@
     },
     "VA": {
       "name": "Virginia",
-      "fips": "51",
-      "ic": "40",
-      "cen": "54",
+      "seats": "13",
       "totalVotes": "2416642",
       "results": [
         {
@@ -12815,9 +12211,7 @@
     },
     "WA": {
       "name": "Washington",
-      "fips": "53",
-      "ic": "73",
-      "cen": "91",
+      "seats": "11",
       "totalVotes": "2253837",
       "results": [
         {
@@ -12869,9 +12263,7 @@
     },
     "WV": {
       "name": "West Virginia",
-      "fips": "54",
-      "ic": "56",
-      "cen": "55",
+      "seats": "5",
       "totalVotes": "636459",
       "results": [
         {
@@ -12898,9 +12290,7 @@
     },
     "WI": {
       "name": "Wisconsin",
-      "fips": "55",
-      "ic": "25",
-      "cen": "35",
+      "seats": "11",
       "totalVotes": "2196169",
       "results": [
         {
@@ -12942,9 +12332,7 @@
     },
     "WY": {
       "name": "Wyoming",
-      "fips": "56",
-      "ic": "68",
-      "cen": "83",
+      "seats": "3",
       "totalVotes": "211571",
       "results": [
         {
@@ -12978,9 +12366,7 @@
   "2000": {
     "AL": {
       "name": "Alabama",
-      "fips": "1",
-      "ic": "41",
-      "cen": "63",
+      "seats": "9",
       "totalVotes": "1666272",
       "results": [
         {
@@ -13012,9 +12398,7 @@
     },
     "AK": {
       "name": "Alaska",
-      "fips": "2",
-      "ic": "81",
-      "cen": "94",
+      "seats": "3",
       "totalVotes": "285560",
       "results": [
         {
@@ -13061,9 +12445,7 @@
     },
     "AZ": {
       "name": "Arizona",
-      "fips": "4",
-      "ic": "61",
-      "cen": "86",
+      "seats": "8",
       "totalVotes": "1532016",
       "results": [
         {
@@ -13105,9 +12487,7 @@
     },
     "AR": {
       "name": "Arkansas",
-      "fips": "5",
-      "ic": "42",
-      "cen": "71",
+      "seats": "6",
       "totalVotes": "921781",
       "results": [
         {
@@ -13149,9 +12529,7 @@
     },
     "CA": {
       "name": "California",
-      "fips": "6",
-      "ic": "71",
-      "cen": "93",
+      "seats": "54",
       "totalVotes": "10965822",
       "results": [
         {
@@ -13193,9 +12571,7 @@
     },
     "CO": {
       "name": "Colorado",
-      "fips": "8",
-      "ic": "62",
-      "cen": "84",
+      "seats": "8",
       "totalVotes": "1741368",
       "results": [
         {
@@ -13252,9 +12628,7 @@
     },
     "CT": {
       "name": "Connecticut",
-      "fips": "9",
-      "ic": "1",
-      "cen": "16",
+      "seats": "8",
       "totalVotes": "1459525",
       "results": [
         {
@@ -13296,9 +12670,7 @@
     },
     "DE": {
       "name": "Delaware",
-      "fips": "10",
-      "ic": "11",
-      "cen": "51",
+      "seats": "3",
       "totalVotes": "327529",
       "results": [
         {
@@ -13340,9 +12712,7 @@
     },
     "DC": {
       "name": "District of Columbia",
-      "fips": "11",
-      "ic": "55",
-      "cen": "53",
+      "seats": "3",
       "totalVotes": "201894",
       "results": [
         {
@@ -13379,9 +12749,7 @@
     },
     "FL": {
       "name": "Florida",
-      "fips": "12",
-      "ic": "43",
-      "cen": "59",
+      "seats": "25",
       "totalVotes": "5963110",
       "results": [
         {
@@ -13443,9 +12811,7 @@
     },
     "GA": {
       "name": "Georgia",
-      "fips": "13",
-      "ic": "44",
-      "cen": "58",
+      "seats": "13",
       "totalVotes": "2583208",
       "results": [
         {
@@ -13472,9 +12838,7 @@
     },
     "HI": {
       "name": "Hawaii",
-      "fips": "15",
-      "ic": "82",
-      "cen": "95",
+      "seats": "4",
       "totalVotes": "367951",
       "results": [
         {
@@ -13516,9 +12880,7 @@
     },
     "ID": {
       "name": "Idaho",
-      "fips": "16",
-      "ic": "63",
-      "cen": "82",
+      "seats": "4",
       "totalVotes": "501615",
       "results": [
         {
@@ -13560,9 +12922,7 @@
     },
     "IL": {
       "name": "Illinois",
-      "fips": "17",
-      "ic": "21",
-      "cen": "33",
+      "seats": "22",
       "totalVotes": "4742108",
       "results": [
         {
@@ -13604,9 +12964,7 @@
     },
     "IN": {
       "name": "Indiana",
-      "fips": "18",
-      "ic": "22",
-      "cen": "32",
+      "seats": "12",
       "totalVotes": "2199302",
       "results": [
         {
@@ -13638,9 +12996,7 @@
     },
     "IA": {
       "name": "Iowa",
-      "fips": "19",
-      "ic": "31",
-      "cen": "42",
+      "seats": "7",
       "totalVotes": "1353022",
       "results": [
         {
@@ -13702,9 +13058,7 @@
     },
     "KS": {
       "name": "Kansas",
-      "fips": "20",
-      "ic": "32",
-      "cen": "47",
+      "seats": "6",
       "totalVotes": "1072216",
       "results": [
         {
@@ -13741,9 +13095,7 @@
     },
     "KY": {
       "name": "Kentucky",
-      "fips": "21",
-      "ic": "51",
-      "cen": "61",
+      "seats": "8",
       "totalVotes": "1544106",
       "results": [
         {
@@ -13790,9 +13142,7 @@
     },
     "LA": {
       "name": "Louisiana",
-      "fips": "22",
-      "ic": "45",
-      "cen": "72",
+      "seats": "9",
       "totalVotes": "1765656",
       "results": [
         {
@@ -13839,9 +13189,7 @@
     },
     "ME": {
       "name": "Maine",
-      "fips": "23",
-      "ic": "2",
-      "cen": "11",
+      "seats": "4",
       "totalVotes": "651817",
       "results": [
         {
@@ -13883,9 +13231,7 @@
     },
     "MD": {
       "name": "Maryland",
-      "fips": "24",
-      "ic": "52",
-      "cen": "52",
+      "seats": "10",
       "totalVotes": "2025212",
       "results": [
         {
@@ -13932,9 +13278,7 @@
     },
     "MA": {
       "name": "Massachusetts",
-      "fips": "25",
-      "ic": "3",
-      "cen": "14",
+      "seats": "12",
       "totalVotes": "2733964",
       "results": [
         {
@@ -13981,9 +13325,7 @@
     },
     "MI": {
       "name": "Michigan",
-      "fips": "26",
-      "ic": "23",
-      "cen": "34",
+      "seats": "18",
       "totalVotes": "4232501",
       "results": [
         {
@@ -14025,9 +13367,7 @@
     },
     "MN": {
       "name": "Minnesota",
-      "fips": "27",
-      "ic": "33",
-      "cen": "41",
+      "seats": "10",
       "totalVotes": "2438685",
       "results": [
         {
@@ -14079,9 +13419,7 @@
     },
     "MS": {
       "name": "Mississippi",
-      "fips": "28",
-      "ic": "46",
-      "cen": "64",
+      "seats": "7",
       "totalVotes": "994184",
       "results": [
         {
@@ -14123,9 +13461,7 @@
     },
     "MO": {
       "name": "Missouri",
-      "fips": "29",
-      "ic": "34",
-      "cen": "43",
+      "seats": "11",
       "totalVotes": "2359892",
       "results": [
         {
@@ -14167,9 +13503,7 @@
     },
     "MT": {
       "name": "Montana",
-      "fips": "30",
-      "ic": "64",
-      "cen": "81",
+      "seats": "3",
       "totalVotes": "410986",
       "results": [
         {
@@ -14211,9 +13545,7 @@
     },
     "NE": {
       "name": "Nebraska",
-      "fips": "31",
-      "ic": "35",
-      "cen": "46",
+      "seats": "5",
       "totalVotes": "697019",
       "results": [
         {
@@ -14250,9 +13582,7 @@
     },
     "NV": {
       "name": "Nevada",
-      "fips": "32",
-      "ic": "65",
-      "cen": "88",
+      "seats": "4",
       "totalVotes": "609426",
       "results": [
         {
@@ -14309,9 +13639,7 @@
     },
     "NH": {
       "name": "New Hampshire",
-      "fips": "33",
-      "ic": "4",
-      "cen": "12",
+      "seats": "4",
       "totalVotes": "569081",
       "results": [
         {
@@ -14353,9 +13681,7 @@
     },
     "NJ": {
       "name": "New Jersey",
-      "fips": "34",
-      "ic": "12",
-      "cen": "22",
+      "seats": "15",
       "totalVotes": "3187226",
       "results": [
         {
@@ -14377,9 +13703,7 @@
     },
     "NM": {
       "name": "New Mexico",
-      "fips": "35",
-      "ic": "66",
-      "cen": "85",
+      "seats": "5",
       "totalVotes": "598605",
       "results": [
         {
@@ -14421,9 +13745,7 @@
     },
     "NY": {
       "name": "New York",
-      "fips": "36",
-      "ic": "13",
-      "cen": "21",
+      "seats": "33",
       "totalVotes": "6960215",
       "results": [
         {
@@ -14500,9 +13822,7 @@
     },
     "NC": {
       "name": "North Carolina",
-      "fips": "37",
-      "ic": "47",
-      "cen": "56",
+      "seats": "14",
       "totalVotes": "2914990",
       "results": [
         {
@@ -14534,9 +13854,7 @@
     },
     "ND": {
       "name": "North Dakota",
-      "fips": "38",
-      "ic": "36",
-      "cen": "44",
+      "seats": "3",
       "totalVotes": "288256",
       "results": [
         {
@@ -14568,9 +13886,7 @@
     },
     "OH": {
       "name": "Ohio",
-      "fips": "39",
-      "ic": "24",
-      "cen": "31",
+      "seats": "21",
       "totalVotes": "4701998",
       "results": [
         {
@@ -14602,9 +13918,7 @@
     },
     "OK": {
       "name": "Oklahoma",
-      "fips": "40",
-      "ic": "53",
-      "cen": "73",
+      "seats": "8",
       "totalVotes": "1234229",
       "results": [
         {
@@ -14631,9 +13945,7 @@
     },
     "OR": {
       "name": "Oregon",
-      "fips": "41",
-      "ic": "72",
-      "cen": "92",
+      "seats": "7",
       "totalVotes": "1533950",
       "results": [
         {
@@ -14680,9 +13992,7 @@
     },
     "PA": {
       "name": "Pennsylvania",
-      "fips": "42",
-      "ic": "14",
-      "cen": "23",
+      "seats": "23",
       "totalVotes": "4912185",
       "results": [
         {
@@ -14719,9 +14029,7 @@
     },
     "RI": {
       "name": "Rhode Island",
-      "fips": "44",
-      "ic": "5",
-      "cen": "15",
+      "seats": "4",
       "totalVotes": "409112",
       "results": [
         {
@@ -14783,9 +14091,7 @@
     },
     "SC": {
       "name": "South Carolina",
-      "fips": "45",
-      "ic": "48",
-      "cen": "57",
+      "seats": "8",
       "totalVotes": "1383902",
       "results": [
         {
@@ -14827,9 +14133,7 @@
     },
     "SD": {
       "name": "South Dakota",
-      "fips": "46",
-      "ic": "37",
-      "cen": "45",
+      "seats": "3",
       "totalVotes": "316269",
       "results": [
         {
@@ -14861,9 +14165,7 @@
     },
     "TN": {
       "name": "Tennessee",
-      "fips": "47",
-      "ic": "54",
-      "cen": "62",
+      "seats": "11",
       "totalVotes": "2076181",
       "results": [
         {
@@ -14890,9 +14192,7 @@
     },
     "TX": {
       "name": "Texas",
-      "fips": "48",
-      "ic": "49",
-      "cen": "74",
+      "seats": "32",
       "totalVotes": "6407637",
       "results": [
         {
@@ -14929,9 +14229,7 @@
     },
     "UT": {
       "name": "Utah",
-      "fips": "49",
-      "ic": "67",
-      "cen": "87",
+      "seats": "5",
       "totalVotes": "770754",
       "results": [
         {
@@ -14988,9 +14286,7 @@
     },
     "VT": {
       "name": "Vermont",
-      "fips": "50",
-      "ic": "6",
-      "cen": "13",
+      "seats": "3",
       "totalVotes": "294308",
       "results": [
         {
@@ -15052,9 +14348,7 @@
     },
     "VA": {
       "name": "Virginia",
-      "fips": "51",
-      "ic": "40",
-      "cen": "54",
+      "seats": "13",
       "totalVotes": "2739447",
       "results": [
         {
@@ -15096,9 +14390,7 @@
     },
     "WA": {
       "name": "Washington",
-      "fips": "53",
-      "ic": "73",
-      "cen": "91",
+      "seats": "11",
       "totalVotes": "2487433",
       "results": [
         {
@@ -15155,9 +14447,7 @@
     },
     "WV": {
       "name": "West Virginia",
-      "fips": "54",
-      "ic": "56",
-      "cen": "55",
+      "seats": "5",
       "totalVotes": "648124",
       "results": [
         {
@@ -15199,9 +14489,7 @@
     },
     "WI": {
       "name": "Wisconsin",
-      "fips": "55",
-      "ic": "25",
-      "cen": "35",
+      "seats": "11",
       "totalVotes": "2598607",
       "results": [
         {
@@ -15243,9 +14531,7 @@
     },
     "WY": {
       "name": "Wyoming",
-      "fips": "56",
-      "ic": "68",
-      "cen": "83",
+      "seats": "3",
       "totalVotes": "213726",
       "results": [
         {
@@ -15284,9 +14570,7 @@
   "2004": {
     "AL": {
       "name": "Alabama",
-      "fips": "1",
-      "ic": "41",
-      "cen": "63",
+      "seats": "9",
       "totalVotes": "1883415",
       "results": [
         {
@@ -15313,9 +14597,7 @@
     },
     "AK": {
       "name": "Alaska",
-      "fips": "2",
-      "ic": "81",
-      "cen": "94",
+      "seats": "3",
       "totalVotes": "312598",
       "results": [
         {
@@ -15357,9 +14639,7 @@
     },
     "AZ": {
       "name": "Arizona",
-      "fips": "4",
-      "ic": "61",
-      "cen": "86",
+      "seats": "10",
       "totalVotes": "2012585",
       "results": [
         {
@@ -15386,9 +14666,7 @@
     },
     "AR": {
       "name": "Arkansas",
-      "fips": "5",
-      "ic": "42",
-      "cen": "71",
+      "seats": "6",
       "totalVotes": "1054945",
       "results": [
         {
@@ -15425,9 +14703,7 @@
     },
     "CA": {
       "name": "California",
-      "fips": "6",
-      "ic": "71",
-      "cen": "93",
+      "seats": "55",
       "totalVotes": "12421353",
       "results": [
         {
@@ -15469,9 +14745,7 @@
     },
     "CO": {
       "name": "Colorado",
-      "fips": "8",
-      "ic": "62",
-      "cen": "84",
+      "seats": "9",
       "totalVotes": "2129630",
       "results": [
         {
@@ -15538,9 +14812,7 @@
     },
     "CT": {
       "name": "Connecticut",
-      "fips": "9",
-      "ic": "1",
-      "cen": "16",
+      "seats": "7",
       "totalVotes": "1578769",
       "results": [
         {
@@ -15582,9 +14854,7 @@
     },
     "DE": {
       "name": "Delaware",
-      "fips": "10",
-      "ic": "11",
-      "cen": "51",
+      "seats": "3",
       "totalVotes": "375190",
       "results": [
         {
@@ -15626,9 +14896,7 @@
     },
     "DC": {
       "name": "District of Columbia",
-      "fips": "11",
-      "ic": "55",
-      "cen": "53",
+      "seats": "3",
       "totalVotes": "227586",
       "results": [
         {
@@ -15670,9 +14938,7 @@
     },
     "FL": {
       "name": "Florida",
-      "fips": "12",
-      "ic": "43",
-      "cen": "59",
+      "seats": "27",
       "totalVotes": "7609810",
       "results": [
         {
@@ -15719,9 +14985,7 @@
     },
     "GA": {
       "name": "Georgia",
-      "fips": "13",
-      "ic": "44",
-      "cen": "58",
+      "seats": "15",
       "totalVotes": "3301875",
       "results": [
         {
@@ -15748,9 +15012,7 @@
     },
     "HI": {
       "name": "Hawaii",
-      "fips": "15",
-      "ic": "82",
-      "cen": "95",
+      "seats": "4",
       "totalVotes": "429013",
       "results": [
         {
@@ -15777,9 +15039,7 @@
     },
     "ID": {
       "name": "Idaho",
-      "fips": "16",
-      "ic": "63",
-      "cen": "82",
+      "seats": "4",
       "totalVotes": "598376",
       "results": [
         {
@@ -15811,9 +15071,7 @@
     },
     "IL": {
       "name": "Illinois",
-      "fips": "17",
-      "ic": "21",
-      "cen": "33",
+      "seats": "21",
       "totalVotes": "5274322",
       "results": [
         {
@@ -15840,9 +15098,7 @@
     },
     "IN": {
       "name": "Indiana",
-      "fips": "18",
-      "ic": "22",
-      "cen": "32",
+      "seats": "11",
       "totalVotes": "2468002",
       "results": [
         {
@@ -15869,9 +15125,7 @@
     },
     "IA": {
       "name": "Iowa",
-      "fips": "19",
-      "ic": "31",
-      "cen": "42",
+      "seats": "7",
       "totalVotes": "1506908",
       "results": [
         {
@@ -15918,9 +15172,7 @@
     },
     "KS": {
       "name": "Kansas",
-      "fips": "20",
-      "ic": "32",
-      "cen": "47",
+      "seats": "6",
       "totalVotes": "1187756",
       "results": [
         {
@@ -15957,9 +15209,7 @@
     },
     "KY": {
       "name": "Kentucky",
-      "fips": "21",
-      "ic": "51",
-      "cen": "61",
+      "seats": "8",
       "totalVotes": "1795882",
       "results": [
         {
@@ -15996,9 +15246,7 @@
     },
     "LA": {
       "name": "Louisiana",
-      "fips": "22",
-      "ic": "45",
-      "cen": "72",
+      "seats": "9",
       "totalVotes": "1943106",
       "results": [
         {
@@ -16050,9 +15298,7 @@
     },
     "ME": {
       "name": "Maine",
-      "fips": "23",
-      "ic": "2",
-      "cen": "11",
+      "seats": "4",
       "totalVotes": "740752",
       "results": [
         {
@@ -16094,9 +15340,7 @@
     },
     "MD": {
       "name": "Maryland",
-      "fips": "24",
-      "ic": "52",
-      "cen": "52",
+      "seats": "10",
       "totalVotes": "2384238",
       "results": [
         {
@@ -16143,9 +15387,7 @@
     },
     "MA": {
       "name": "Massachusetts",
-      "fips": "25",
-      "ic": "3",
-      "cen": "14",
+      "seats": "12",
       "totalVotes": "2927455",
       "results": [
         {
@@ -16187,9 +15429,7 @@
     },
     "MI": {
       "name": "Michigan",
-      "fips": "26",
-      "ic": "23",
-      "cen": "34",
+      "seats": "17",
       "totalVotes": "4839252",
       "results": [
         {
@@ -16231,9 +15471,7 @@
     },
     "MN": {
       "name": "Minnesota",
-      "fips": "27",
-      "ic": "33",
-      "cen": "41",
+      "seats": "10",
       "totalVotes": "2828387",
       "results": [
         {
@@ -16290,9 +15528,7 @@
     },
     "MS": {
       "name": "Mississippi",
-      "fips": "28",
-      "ic": "46",
-      "cen": "64",
+      "seats": "6",
       "totalVotes": "1139824",
       "results": [
         {
@@ -16334,9 +15570,7 @@
     },
     "MO": {
       "name": "Missouri",
-      "fips": "29",
-      "ic": "34",
-      "cen": "43",
+      "seats": "11",
       "totalVotes": "2731364",
       "results": [
         {
@@ -16368,9 +15602,7 @@
     },
     "MT": {
       "name": "Montana",
-      "fips": "30",
-      "ic": "64",
-      "cen": "81",
+      "seats": "3",
       "totalVotes": "450434",
       "results": [
         {
@@ -16407,9 +15639,7 @@
     },
     "NE": {
       "name": "Nebraska",
-      "fips": "31",
-      "ic": "35",
-      "cen": "46",
+      "seats": "5",
       "totalVotes": "778186",
       "results": [
         {
@@ -16451,9 +15681,7 @@
     },
     "NV": {
       "name": "Nevada",
-      "fips": "32",
-      "ic": "65",
-      "cen": "88",
+      "seats": "5",
       "totalVotes": "829587",
       "results": [
         {
@@ -16495,9 +15723,7 @@
     },
     "NH": {
       "name": "New Hampshire",
-      "fips": "33",
-      "ic": "4",
-      "cen": "12",
+      "seats": "4",
       "totalVotes": "678287",
       "results": [
         {
@@ -16529,9 +15755,7 @@
     },
     "NJ": {
       "name": "New Jersey",
-      "fips": "34",
-      "ic": "12",
-      "cen": "22",
+      "seats": "15",
       "totalVotes": "3611691",
       "results": [
         {
@@ -16553,9 +15777,7 @@
     },
     "NM": {
       "name": "New Mexico",
-      "fips": "35",
-      "ic": "66",
-      "cen": "85",
+      "seats": "5",
       "totalVotes": "756304",
       "results": [
         {
@@ -16592,9 +15814,7 @@
     },
     "NY": {
       "name": "New York",
-      "fips": "36",
-      "ic": "13",
-      "cen": "21",
+      "seats": "31",
       "totalVotes": "7448266",
       "results": [
         {
@@ -16651,9 +15871,7 @@
     },
     "NC": {
       "name": "North Carolina",
-      "fips": "37",
-      "ic": "47",
-      "cen": "56",
+      "seats": "15",
       "totalVotes": "3501007",
       "results": [
         {
@@ -16680,9 +15898,7 @@
     },
     "ND": {
       "name": "North Dakota",
-      "fips": "38",
-      "ic": "36",
-      "cen": "44",
+      "seats": "3",
       "totalVotes": "312833",
       "results": [
         {
@@ -16719,9 +15935,7 @@
     },
     "OH": {
       "name": "Ohio",
-      "fips": "39",
-      "ic": "24",
-      "cen": "31",
+      "seats": "20",
       "totalVotes": "5627903",
       "results": [
         {
@@ -16748,9 +15962,7 @@
     },
     "OK": {
       "name": "Oklahoma",
-      "fips": "40",
-      "ic": "53",
-      "cen": "73",
+      "seats": "7",
       "totalVotes": "1463758",
       "results": [
         {
@@ -16767,9 +15979,7 @@
     },
     "OR": {
       "name": "Oregon",
-      "fips": "41",
-      "ic": "72",
-      "cen": "92",
+      "seats": "7",
       "totalVotes": "1836782",
       "results": [
         {
@@ -16806,9 +16016,7 @@
     },
     "PA": {
       "name": "Pennsylvania",
-      "fips": "42",
-      "ic": "14",
-      "cen": "23",
+      "seats": "21",
       "totalVotes": "5769590",
       "results": [
         {
@@ -16850,9 +16058,7 @@
     },
     "RI": {
       "name": "Rhode Island",
-      "fips": "44",
-      "ic": "5",
-      "cen": "15",
+      "seats": "4",
       "totalVotes": "437134",
       "results": [
         {
@@ -16899,9 +16105,7 @@
     },
     "SC": {
       "name": "South Carolina",
-      "fips": "45",
-      "ic": "48",
-      "cen": "57",
+      "seats": "8",
       "totalVotes": "1617700",
       "results": [
         {
@@ -16943,9 +16147,7 @@
     },
     "SD": {
       "name": "South Dakota",
-      "fips": "46",
-      "ic": "37",
-      "cen": "45",
+      "seats": "3",
       "totalVotes": "388215",
       "results": [
         {
@@ -16977,9 +16179,7 @@
     },
     "TN": {
       "name": "Tennessee",
-      "fips": "47",
-      "ic": "54",
-      "cen": "62",
+      "seats": "11",
       "totalVotes": "2437319",
       "results": [
         {
@@ -17006,9 +16206,7 @@
     },
     "TX": {
       "name": "Texas",
-      "fips": "48",
-      "ic": "49",
-      "cen": "74",
+      "seats": "34",
       "totalVotes": "7410749",
       "results": [
         {
@@ -17035,9 +16233,7 @@
     },
     "UT": {
       "name": "Utah",
-      "fips": "49",
-      "ic": "67",
-      "cen": "87",
+      "seats": "5",
       "totalVotes": "927844",
       "results": [
         {
@@ -17084,9 +16280,7 @@
     },
     "VT": {
       "name": "Vermont",
-      "fips": "50",
-      "ic": "6",
-      "cen": "13",
+      "seats": "3",
       "totalVotes": "312309",
       "results": [
         {
@@ -17128,9 +16322,7 @@
     },
     "VA": {
       "name": "Virginia",
-      "fips": "51",
-      "ic": "40",
-      "cen": "54",
+      "seats": "13",
       "totalVotes": "3195415",
       "results": [
         {
@@ -17162,9 +16354,7 @@
     },
     "WA": {
       "name": "Washington",
-      "fips": "53",
-      "ic": "73",
-      "cen": "91",
+      "seats": "11",
       "totalVotes": "2859084",
       "results": [
         {
@@ -17216,9 +16406,7 @@
     },
     "WV": {
       "name": "West Virginia",
-      "fips": "54",
-      "ic": "56",
-      "cen": "55",
+      "seats": "5",
       "totalVotes": "755792",
       "results": [
         {
@@ -17250,9 +16438,7 @@
     },
     "WI": {
       "name": "Wisconsin",
-      "fips": "55",
-      "ic": "25",
-      "cen": "35",
+      "seats": "10",
       "totalVotes": "2997007",
       "results": [
         {
@@ -17289,9 +16475,7 @@
     },
     "WY": {
       "name": "Wyoming",
-      "fips": "56",
-      "ic": "68",
-      "cen": "83",
+      "seats": "3",
       "totalVotes": "243861",
       "results": [
         {
@@ -17330,9 +16514,7 @@
   "2008": {
     "AL": {
       "name": "Alabama",
-      "fips": "1",
-      "ic": "41",
-      "cen": "63",
+      "seats": "9",
       "totalVotes": "2099819",
       "results": [
         {
@@ -17359,9 +16541,7 @@
     },
     "AK": {
       "name": "Alaska",
-      "fips": "2",
-      "ic": "81",
-      "cen": "94",
+      "seats": "3",
       "totalVotes": "326197",
       "results": [
         {
@@ -17398,9 +16578,7 @@
     },
     "AZ": {
       "name": "Arizona",
-      "fips": "4",
-      "ic": "61",
-      "cen": "86",
+      "seats": "10",
       "totalVotes": "2293475",
       "results": [
         {
@@ -17437,9 +16615,7 @@
     },
     "AR": {
       "name": "Arkansas",
-      "fips": "5",
-      "ic": "42",
-      "cen": "71",
+      "seats": "6",
       "totalVotes": "1086617",
       "results": [
         {
@@ -17481,9 +16657,7 @@
     },
     "CA": {
       "name": "California",
-      "fips": "6",
-      "ic": "71",
-      "cen": "93",
+      "seats": "55",
       "totalVotes": "13561900",
       "results": [
         {
@@ -17525,9 +16699,7 @@
     },
     "CO": {
       "name": "Colorado",
-      "fips": "8",
-      "ic": "62",
-      "cen": "84",
+      "seats": "9",
       "totalVotes": "2401361",
       "results": [
         {
@@ -17614,9 +16786,7 @@
     },
     "CT": {
       "name": "Connecticut",
-      "fips": "9",
-      "ic": "1",
-      "cen": "16",
+      "seats": "7",
       "totalVotes": "1646792",
       "results": [
         {
@@ -17643,9 +16813,7 @@
     },
     "DE": {
       "name": "Delaware",
-      "fips": "10",
-      "ic": "11",
-      "cen": "51",
+      "seats": "3",
       "totalVotes": "412412",
       "results": [
         {
@@ -17687,9 +16855,7 @@
     },
     "DC": {
       "name": "District of Columbia",
-      "fips": "11",
-      "ic": "55",
-      "cen": "53",
+      "seats": "3",
       "totalVotes": "265853",
       "results": [
         {
@@ -17721,9 +16887,7 @@
     },
     "FL": {
       "name": "Florida",
-      "fips": "12",
-      "ic": "43",
-      "cen": "59",
+      "seats": "27",
       "totalVotes": "8390744",
       "results": [
         {
@@ -17800,9 +16964,7 @@
     },
     "GA": {
       "name": "Georgia",
-      "fips": "13",
-      "ic": "44",
-      "cen": "58",
+      "seats": "15",
       "totalVotes": "3924486",
       "results": [
         {
@@ -17834,9 +16996,7 @@
     },
     "HI": {
       "name": "Hawaii",
-      "fips": "15",
-      "ic": "82",
-      "cen": "95",
+      "seats": "4",
       "totalVotes": "456064",
       "results": [
         {
@@ -17883,9 +17043,7 @@
     },
     "ID": {
       "name": "Idaho",
-      "fips": "16",
-      "ic": "63",
-      "cen": "82",
+      "seats": "4",
       "totalVotes": "655122",
       "results": [
         {
@@ -17922,9 +17080,7 @@
     },
     "IL": {
       "name": "Illinois",
-      "fips": "17",
-      "ic": "21",
-      "cen": "33",
+      "seats": "21",
       "totalVotes": "5522371",
       "results": [
         {
@@ -17971,9 +17127,7 @@
     },
     "IN": {
       "name": "Indiana",
-      "fips": "18",
-      "ic": "22",
-      "cen": "32",
+      "seats": "11",
       "totalVotes": "2751054",
       "results": [
         {
@@ -18005,9 +17159,7 @@
     },
     "IA": {
       "name": "Iowa",
-      "fips": "19",
-      "ic": "31",
-      "cen": "42",
+      "seats": "7",
       "totalVotes": "1537123",
       "results": [
         {
@@ -18064,9 +17216,7 @@
     },
     "KS": {
       "name": "Kansas",
-      "fips": "20",
-      "ic": "32",
-      "cen": "47",
+      "seats": "6",
       "totalVotes": "1235872",
       "results": [
         {
@@ -18098,9 +17248,7 @@
     },
     "KY": {
       "name": "Kentucky",
-      "fips": "21",
-      "ic": "51",
-      "cen": "61",
+      "seats": "8",
       "totalVotes": "1826620",
       "results": [
         {
@@ -18137,9 +17285,7 @@
     },
     "LA": {
       "name": "Louisiana",
-      "fips": "22",
-      "ic": "45",
-      "cen": "72",
+      "seats": "9",
       "totalVotes": "1960761",
       "results": [
         {
@@ -18191,9 +17337,7 @@
     },
     "ME": {
       "name": "Maine",
-      "fips": "23",
-      "ic": "2",
-      "cen": "11",
+      "seats": "4",
       "totalVotes": "731163",
       "results": [
         {
@@ -18225,9 +17369,7 @@
     },
     "MD": {
       "name": "Maryland",
-      "fips": "24",
-      "ic": "52",
-      "cen": "52",
+      "seats": "10",
       "totalVotes": "2631596",
       "results": [
         {
@@ -18269,9 +17411,7 @@
     },
     "MA": {
       "name": "Massachusetts",
-      "fips": "25",
-      "ic": "3",
-      "cen": "14",
+      "seats": "12",
       "totalVotes": "3102995",
       "results": [
         {
@@ -18318,9 +17458,7 @@
     },
     "MI": {
       "name": "Michigan",
-      "fips": "26",
-      "ic": "23",
-      "cen": "34",
+      "seats": "17",
       "totalVotes": "5001596",
       "results": [
         {
@@ -18357,9 +17495,7 @@
     },
     "MN": {
       "name": "Minnesota",
-      "fips": "27",
-      "ic": "33",
-      "cen": "41",
+      "seats": "10",
       "totalVotes": "2910369",
       "results": [
         {
@@ -18406,9 +17542,7 @@
     },
     "MS": {
       "name": "Mississippi",
-      "fips": "28",
-      "ic": "46",
-      "cen": "64",
+      "seats": "6",
       "totalVotes": "1289865",
       "results": [
         {
@@ -18450,9 +17584,7 @@
     },
     "MO": {
       "name": "Missouri",
-      "fips": "29",
-      "ic": "34",
-      "cen": "43",
+      "seats": "11",
       "totalVotes": "2925205",
       "results": [
         {
@@ -18489,9 +17621,7 @@
     },
     "MT": {
       "name": "Montana",
-      "fips": "30",
-      "ic": "64",
-      "cen": "81",
+      "seats": "3",
       "totalVotes": "490109",
       "results": [
         {
@@ -18523,9 +17653,7 @@
     },
     "NE": {
       "name": "Nebraska",
-      "fips": "31",
-      "ic": "35",
-      "cen": "46",
+      "seats": "5",
       "totalVotes": "801281",
       "results": [
         {
@@ -18567,9 +17695,7 @@
     },
     "NV": {
       "name": "Nevada",
-      "fips": "32",
-      "ic": "65",
-      "cen": "88",
+      "seats": "5",
       "totalVotes": "967848",
       "results": [
         {
@@ -18611,9 +17737,7 @@
     },
     "NH": {
       "name": "New Hampshire",
-      "fips": "33",
-      "ic": "4",
-      "cen": "12",
+      "seats": "4",
       "totalVotes": "710970",
       "results": [
         {
@@ -18645,9 +17769,7 @@
     },
     "NJ": {
       "name": "New Jersey",
-      "fips": "34",
-      "ic": "12",
-      "cen": "22",
+      "seats": "15",
       "totalVotes": "3868237",
       "results": [
         {
@@ -18704,9 +17826,7 @@
     },
     "NM": {
       "name": "New Mexico",
-      "fips": "35",
-      "ic": "66",
-      "cen": "85",
+      "seats": "5",
       "totalVotes": "830158",
       "results": [
         {
@@ -18743,9 +17863,7 @@
     },
     "NY": {
       "name": "New York",
-      "fips": "36",
-      "ic": "13",
-      "cen": "21",
+      "seats": "31",
       "totalVotes": "7722019",
       "results": [
         {
@@ -18812,9 +17930,7 @@
     },
     "NC": {
       "name": "North Carolina",
-      "fips": "37",
-      "ic": "47",
-      "cen": "56",
+      "seats": "15",
       "totalVotes": "4310851",
       "results": [
         {
@@ -18846,9 +17962,7 @@
     },
     "ND": {
       "name": "North Dakota",
-      "fips": "38",
-      "ic": "36",
-      "cen": "44",
+      "seats": "3",
       "totalVotes": "316621",
       "results": [
         {
@@ -18880,9 +17994,7 @@
     },
     "OH": {
       "name": "Ohio",
-      "fips": "39",
-      "ic": "24",
-      "cen": "31",
+      "seats": "20",
       "totalVotes": "5708350",
       "results": [
         {
@@ -18929,9 +18041,7 @@
     },
     "OK": {
       "name": "Oklahoma",
-      "fips": "40",
-      "ic": "53",
-      "cen": "73",
+      "seats": "7",
       "totalVotes": "1462661",
       "results": [
         {
@@ -18948,9 +18058,7 @@
     },
     "OR": {
       "name": "Oregon",
-      "fips": "41",
-      "ic": "72",
-      "cen": "92",
+      "seats": "7",
       "totalVotes": "1827864",
       "results": [
         {
@@ -18992,9 +18100,7 @@
     },
     "PA": {
       "name": "Pennsylvania",
-      "fips": "42",
-      "ic": "14",
-      "cen": "23",
+      "seats": "21",
       "totalVotes": "6013272",
       "results": [
         {
@@ -19031,9 +18137,7 @@
     },
     "RI": {
       "name": "Rhode Island",
-      "fips": "44",
-      "ic": "5",
-      "cen": "15",
+      "seats": "4",
       "totalVotes": "471766",
       "results": [
         {
@@ -19080,9 +18184,7 @@
     },
     "SC": {
       "name": "South Carolina",
-      "fips": "45",
-      "ic": "48",
-      "cen": "57",
+      "seats": "8",
       "totalVotes": "1920969",
       "results": [
         {
@@ -19119,9 +18221,7 @@
     },
     "SD": {
       "name": "South Dakota",
-      "fips": "46",
-      "ic": "37",
-      "cen": "45",
+      "seats": "3",
       "totalVotes": "381975",
       "results": [
         {
@@ -19153,9 +18253,7 @@
     },
     "TN": {
       "name": "Tennessee",
-      "fips": "47",
-      "ic": "54",
-      "cen": "62",
+      "seats": "11",
       "totalVotes": "2599749",
       "results": [
         {
@@ -19177,9 +18275,7 @@
     },
     "TX": {
       "name": "Texas",
-      "fips": "48",
-      "ic": "49",
-      "cen": "74",
+      "seats": "34",
       "totalVotes": "8077795",
       "results": [
         {
@@ -19211,9 +18307,7 @@
     },
     "UT": {
       "name": "Utah",
-      "fips": "49",
-      "ic": "67",
-      "cen": "87",
+      "seats": "5",
       "totalVotes": "952370",
       "results": [
         {
@@ -19260,9 +18354,7 @@
     },
     "VT": {
       "name": "Vermont",
-      "fips": "50",
-      "ic": "6",
-      "cen": "13",
+      "seats": "3",
       "totalVotes": "325046",
       "results": [
         {
@@ -19314,9 +18406,7 @@
     },
     "VA": {
       "name": "Virginia",
-      "fips": "51",
-      "ic": "40",
-      "cen": "54",
+      "seats": "13",
       "totalVotes": "3723260",
       "results": [
         {
@@ -19358,9 +18448,7 @@
     },
     "WA": {
       "name": "Washington",
-      "fips": "53",
-      "ic": "73",
-      "cen": "91",
+      "seats": "11",
       "totalVotes": "3036878",
       "results": [
         {
@@ -19407,9 +18495,7 @@
     },
     "WV": {
       "name": "West Virginia",
-      "fips": "54",
-      "ic": "56",
-      "cen": "55",
+      "seats": "5",
       "totalVotes": "713451",
       "results": [
         {
@@ -19446,9 +18532,7 @@
     },
     "WI": {
       "name": "Wisconsin",
-      "fips": "55",
-      "ic": "25",
-      "cen": "35",
+      "seats": "10",
       "totalVotes": "2983417",
       "results": [
         {
@@ -19505,9 +18589,7 @@
     },
     "WY": {
       "name": "Wyoming",
-      "fips": "56",
-      "ic": "68",
-      "cen": "83",
+      "seats": "3",
       "totalVotes": "254904",
       "results": [
         {
@@ -19546,9 +18628,7 @@
   "2012": {
     "AL": {
       "name": "Alabama",
-      "fips": "1",
-      "ic": "41",
-      "cen": "63",
+      "seats": "9",
       "totalVotes": "2074338",
       "results": [
         {
@@ -19575,9 +18655,7 @@
     },
     "AK": {
       "name": "Alaska",
-      "fips": "2",
-      "ic": "81",
-      "cen": "94",
+      "seats": "3",
       "totalVotes": "300495",
       "results": [
         {
@@ -19609,9 +18687,7 @@
     },
     "AZ": {
       "name": "Arizona",
-      "fips": "4",
-      "ic": "61",
-      "cen": "86",
+      "seats": "11",
       "totalVotes": "2299254",
       "results": [
         {
@@ -19643,9 +18719,7 @@
     },
     "AR": {
       "name": "Arkansas",
-      "fips": "5",
-      "ic": "42",
-      "cen": "71",
+      "seats": "6",
       "totalVotes": "1069468",
       "results": [
         {
@@ -19677,9 +18751,7 @@
     },
     "CA": {
       "name": "California",
-      "fips": "6",
-      "ic": "71",
-      "cen": "93",
+      "seats": "55",
       "totalVotes": "13038547",
       "results": [
         {
@@ -19721,9 +18793,7 @@
     },
     "CO": {
       "name": "Colorado",
-      "fips": "8",
-      "ic": "62",
-      "cen": "84",
+      "seats": "9",
       "totalVotes": "2569516",
       "results": [
         {
@@ -19810,9 +18880,7 @@
     },
     "CT": {
       "name": "Connecticut",
-      "fips": "9",
-      "ic": "1",
-      "cen": "16",
+      "seats": "7",
       "totalVotes": "1558204",
       "results": [
         {
@@ -19844,9 +18912,7 @@
     },
     "DE": {
       "name": "Delaware",
-      "fips": "10",
-      "ic": "11",
-      "cen": "51",
+      "seats": "3",
       "totalVotes": "413890",
       "results": [
         {
@@ -19873,9 +18939,7 @@
     },
     "DC": {
       "name": "District of Columbia",
-      "fips": "11",
-      "ic": "55",
-      "cen": "53",
+      "seats": "3",
       "totalVotes": "293764",
       "results": [
         {
@@ -19907,9 +18971,7 @@
     },
     "FL": {
       "name": "Florida",
-      "fips": "12",
-      "ic": "43",
-      "cen": "59",
+      "seats": "29",
       "totalVotes": "8474179",
       "results": [
         {
@@ -19981,9 +19043,7 @@
     },
     "GA": {
       "name": "Georgia",
-      "fips": "13",
-      "ic": "44",
-      "cen": "58",
+      "seats": "16",
       "totalVotes": "3897839",
       "results": [
         {
@@ -20005,9 +19065,7 @@
     },
     "HI": {
       "name": "Hawaii",
-      "fips": "15",
-      "ic": "82",
-      "cen": "95",
+      "seats": "4",
       "totalVotes": "437159",
       "results": [
         {
@@ -20044,9 +19102,7 @@
     },
     "ID": {
       "name": "Idaho",
-      "fips": "16",
-      "ic": "63",
-      "cen": "82",
+      "seats": "4",
       "totalVotes": "652274",
       "results": [
         {
@@ -20078,9 +19134,7 @@
     },
     "IL": {
       "name": "Illinois",
-      "fips": "17",
-      "ic": "21",
-      "cen": "33",
+      "seats": "20",
       "totalVotes": "5242014",
       "results": [
         {
@@ -20112,9 +19166,7 @@
     },
     "IN": {
       "name": "Indiana",
-      "fips": "18",
-      "ic": "22",
-      "cen": "32",
+      "seats": "11",
       "totalVotes": "2624534",
       "results": [
         {
@@ -20141,9 +19193,7 @@
     },
     "IA": {
       "name": "Iowa",
-      "fips": "19",
-      "ic": "31",
-      "cen": "42",
+      "seats": "6",
       "totalVotes": "1582180",
       "results": [
         {
@@ -20195,9 +19245,7 @@
     },
     "KS": {
       "name": "Kansas",
-      "fips": "20",
-      "ic": "32",
-      "cen": "47",
+      "seats": "6",
       "totalVotes": "1159971",
       "results": [
         {
@@ -20229,9 +19277,7 @@
     },
     "KY": {
       "name": "Kentucky",
-      "fips": "21",
-      "ic": "51",
-      "cen": "61",
+      "seats": "8",
       "totalVotes": "1797212",
       "results": [
         {
@@ -20268,9 +19314,7 @@
     },
     "LA": {
       "name": "Louisiana",
-      "fips": "22",
-      "ic": "45",
-      "cen": "72",
+      "seats": "8",
       "totalVotes": "1994065",
       "results": [
         {
@@ -20332,9 +19376,7 @@
     },
     "ME": {
       "name": "Maine",
-      "fips": "23",
-      "ic": "2",
-      "cen": "11",
+      "seats": "4",
       "totalVotes": "724758",
       "results": [
         {
@@ -20371,9 +19413,7 @@
     },
     "MD": {
       "name": "Maryland",
-      "fips": "24",
-      "ic": "52",
-      "cen": "52",
+      "seats": "10",
       "totalVotes": "2707327",
       "results": [
         {
@@ -20405,9 +19445,7 @@
     },
     "MA": {
       "name": "Massachusetts",
-      "fips": "25",
-      "ic": "3",
-      "cen": "14",
+      "seats": "11",
       "totalVotes": "3184196",
       "results": [
         {
@@ -20444,9 +19482,7 @@
     },
     "MI": {
       "name": "Michigan",
-      "fips": "26",
-      "ic": "23",
-      "cen": "34",
+      "seats": "16",
       "totalVotes": "4730961",
       "results": [
         {
@@ -20483,9 +19519,7 @@
     },
     "MN": {
       "name": "Minnesota",
-      "fips": "27",
-      "ic": "33",
-      "cen": "41",
+      "seats": "10",
       "totalVotes": "2936561",
       "results": [
         {
@@ -20547,9 +19581,7 @@
     },
     "MS": {
       "name": "Mississippi",
-      "fips": "28",
-      "ic": "46",
-      "cen": "64",
+      "seats": "6",
       "totalVotes": "1285584",
       "results": [
         {
@@ -20586,9 +19618,7 @@
     },
     "MO": {
       "name": "Missouri",
-      "fips": "29",
-      "ic": "34",
-      "cen": "43",
+      "seats": "10",
       "totalVotes": "2757323",
       "results": [
         {
@@ -20615,9 +19645,7 @@
     },
     "MT": {
       "name": "Montana",
-      "fips": "30",
-      "ic": "64",
-      "cen": "81",
+      "seats": "3",
       "totalVotes": "484048",
       "results": [
         {
@@ -20644,9 +19672,7 @@
     },
     "NE": {
       "name": "Nebraska",
-      "fips": "31",
-      "ic": "35",
-      "cen": "46",
+      "seats": "5",
       "totalVotes": "794379",
       "results": [
         {
@@ -20678,9 +19704,7 @@
     },
     "NV": {
       "name": "Nevada",
-      "fips": "32",
-      "ic": "65",
-      "cen": "88",
+      "seats": "6",
       "totalVotes": "1014918",
       "results": [
         {
@@ -20712,9 +19736,7 @@
     },
     "NH": {
       "name": "New Hampshire",
-      "fips": "33",
-      "ic": "4",
-      "cen": "12",
+      "seats": "4",
       "totalVotes": "710972",
       "results": [
         {
@@ -20751,9 +19773,7 @@
     },
     "NJ": {
       "name": "New Jersey",
-      "fips": "34",
-      "ic": "12",
-      "cen": "22",
+      "seats": "14",
       "totalVotes": "3638499",
       "results": [
         {
@@ -20810,9 +19830,7 @@
     },
     "NM": {
       "name": "New Mexico",
-      "fips": "35",
-      "ic": "66",
-      "cen": "85",
+      "seats": "5",
       "totalVotes": "783758",
       "results": [
         {
@@ -20849,9 +19867,7 @@
     },
     "NY": {
       "name": "New York",
-      "fips": "36",
-      "ic": "13",
-      "cen": "21",
+      "seats": "29",
       "totalVotes": "7116784",
       "results": [
         {
@@ -20908,9 +19924,7 @@
     },
     "NC": {
       "name": "North Carolina",
-      "fips": "37",
-      "ic": "47",
-      "cen": "56",
+      "seats": "15",
       "totalVotes": "4505372",
       "results": [
         {
@@ -20937,9 +19951,7 @@
     },
     "ND": {
       "name": "North Dakota",
-      "fips": "38",
-      "ic": "36",
-      "cen": "44",
+      "seats": "3",
       "totalVotes": "322932",
       "results": [
         {
@@ -20976,9 +19988,7 @@
     },
     "OH": {
       "name": "Ohio",
-      "fips": "39",
-      "ic": "24",
-      "cen": "31",
+      "seats": "18",
       "totalVotes": "5580822",
       "results": [
         {
@@ -21025,9 +20035,7 @@
     },
     "OK": {
       "name": "Oklahoma",
-      "fips": "40",
-      "ic": "53",
-      "cen": "73",
+      "seats": "7",
       "totalVotes": "1334872",
       "results": [
         {
@@ -21044,9 +20052,7 @@
     },
     "OR": {
       "name": "Oregon",
-      "fips": "41",
-      "ic": "72",
-      "cen": "92",
+      "seats": "7",
       "totalVotes": "1789270",
       "results": [
         {
@@ -21088,9 +20094,7 @@
     },
     "PA": {
       "name": "Pennsylvania",
-      "fips": "42",
-      "ic": "14",
-      "cen": "23",
+      "seats": "20",
       "totalVotes": "5742040",
       "results": [
         {
@@ -21117,9 +20121,7 @@
     },
     "RI": {
       "name": "Rhode Island",
-      "fips": "44",
-      "ic": "5",
-      "cen": "15",
+      "seats": "4",
       "totalVotes": "446049",
       "results": [
         {
@@ -21166,9 +20168,7 @@
     },
     "SC": {
       "name": "South Carolina",
-      "fips": "45",
-      "ic": "48",
-      "cen": "57",
+      "seats": "9",
       "totalVotes": "1964118",
       "results": [
         {
@@ -21200,9 +20200,7 @@
     },
     "SD": {
       "name": "South Dakota",
-      "fips": "46",
-      "ic": "37",
-      "cen": "45",
+      "seats": "3",
       "totalVotes": "363815",
       "results": [
         {
@@ -21229,9 +20227,7 @@
     },
     "TN": {
       "name": "Tennessee",
-      "fips": "47",
-      "ic": "54",
-      "cen": "62",
+      "seats": "11",
       "totalVotes": "2458577",
       "results": [
         {
@@ -21263,9 +20259,7 @@
     },
     "TX": {
       "name": "Texas",
-      "fips": "48",
-      "ic": "49",
-      "cen": "74",
+      "seats": "38",
       "totalVotes": "7993851",
       "results": [
         {
@@ -21297,9 +20291,7 @@
     },
     "UT": {
       "name": "Utah",
-      "fips": "49",
-      "ic": "67",
-      "cen": "87",
+      "seats": "6",
       "totalVotes": "1017440",
       "results": [
         {
@@ -21346,9 +20338,7 @@
     },
     "VT": {
       "name": "Vermont",
-      "fips": "50",
-      "ic": "6",
-      "cen": "13",
+      "seats": "3",
       "totalVotes": "299290",
       "results": [
         {
@@ -21385,9 +20375,7 @@
     },
     "VA": {
       "name": "Virginia",
-      "fips": "51",
-      "ic": "40",
-      "cen": "54",
+      "seats": "13",
       "totalVotes": "3854489",
       "results": [
         {
@@ -21424,9 +20412,7 @@
     },
     "WA": {
       "name": "Washington",
-      "fips": "53",
-      "ic": "73",
-      "cen": "91",
+      "seats": "12",
       "totalVotes": "3125516",
       "results": [
         {
@@ -21473,9 +20459,7 @@
     },
     "WV": {
       "name": "West Virginia",
-      "fips": "54",
-      "ic": "56",
-      "cen": "55",
+      "seats": "5",
       "totalVotes": "670438",
       "results": [
         {
@@ -21507,9 +20491,7 @@
     },
     "WI": {
       "name": "Wisconsin",
-      "fips": "55",
-      "ic": "25",
-      "cen": "35",
+      "seats": "10",
       "totalVotes": "3071434",
       "results": [
         {
@@ -21541,9 +20523,7 @@
     },
     "WY": {
       "name": "Wyoming",
-      "fips": "56",
-      "ic": "68",
-      "cen": "83",
+      "seats": "3",
       "totalVotes": "250701",
       "results": [
         {
@@ -21587,9 +20567,7 @@
   "2016": {
     "AL": {
       "name": "Alabama",
-      "fips": "1",
-      "ic": "41",
-      "cen": "63",
+      "seats": "9",
       "totalVotes": "2123372",
       "results": [
         {
@@ -21621,9 +20599,7 @@
     },
     "AK": {
       "name": "Alaska",
-      "fips": "2",
-      "ic": "81",
-      "cen": "94",
+      "seats": "3",
       "totalVotes": "318608",
       "results": [
         {
@@ -21665,9 +20641,7 @@
     },
     "AZ": {
       "name": "Arizona",
-      "fips": "4",
-      "ic": "61",
-      "cen": "86",
+      "seats": "11",
       "totalVotes": "2573165",
       "results": [
         {
@@ -21724,9 +20698,7 @@
     },
     "AR": {
       "name": "Arkansas",
-      "fips": "5",
-      "ic": "42",
-      "cen": "71",
+      "seats": "6",
       "totalVotes": "1130635",
       "results": [
         {
@@ -21773,9 +20745,7 @@
     },
     "CA": {
       "name": "California",
-      "fips": "6",
-      "ic": "71",
-      "cen": "93",
+      "seats": "55",
       "totalVotes": "14181595",
       "results": [
         {
@@ -21812,9 +20782,7 @@
     },
     "CO": {
       "name": "Colorado",
-      "fips": "8",
-      "ic": "62",
-      "cen": "84",
+      "seats": "9",
       "totalVotes": "2780220",
       "results": [
         {
@@ -21921,9 +20889,7 @@
     },
     "CT": {
       "name": "Connecticut",
-      "fips": "9",
-      "ic": "1",
-      "cen": "16",
+      "seats": "7",
       "totalVotes": "1644920",
       "results": [
         {
@@ -21955,9 +20921,7 @@
     },
     "DE": {
       "name": "Delaware",
-      "fips": "10",
-      "ic": "11",
-      "cen": "51",
+      "seats": "3",
       "totalVotes": "441590",
       "results": [
         {
@@ -21984,9 +20948,7 @@
     },
     "DC": {
       "name": "District of Columbia",
-      "fips": "11",
-      "ic": "55",
-      "cen": "53",
+      "seats": "3",
       "totalVotes": "312575",
       "results": [
         {
@@ -22028,9 +20990,7 @@
     },
     "FL": {
       "name": "Florida",
-      "fips": "12",
-      "ic": "43",
-      "cen": "59",
+      "seats": "29",
       "totalVotes": "9420039",
       "results": [
         {
@@ -22072,9 +21032,7 @@
     },
     "GA": {
       "name": "Georgia",
-      "fips": "13",
-      "ic": "44",
-      "cen": "58",
+      "seats": "16",
       "totalVotes": "4114732",
       "results": [
         {
@@ -22101,9 +21059,7 @@
     },
     "HI": {
       "name": "Hawaii",
-      "fips": "15",
-      "ic": "82",
-      "cen": "95",
+      "seats": "4",
       "totalVotes": "437664",
       "results": [
         {
@@ -22145,9 +21101,7 @@
     },
     "ID": {
       "name": "Idaho",
-      "fips": "16",
-      "ic": "63",
-      "cen": "82",
+      "seats": "4",
       "totalVotes": "690255",
       "results": [
         {
@@ -22179,9 +21133,7 @@
     },
     "IL": {
       "name": "Illinois",
-      "fips": "17",
-      "ic": "21",
-      "cen": "33",
+      "seats": "20",
       "totalVotes": "5536424",
       "results": [
         {
@@ -22213,9 +21165,7 @@
     },
     "IN": {
       "name": "Indiana",
-      "fips": "18",
-      "ic": "22",
-      "cen": "32",
+      "seats": "11",
       "totalVotes": "2734958",
       "results": [
         {
@@ -22257,9 +21207,7 @@
     },
     "IA": {
       "name": "Iowa",
-      "fips": "19",
-      "ic": "31",
-      "cen": "42",
+      "seats": "6",
       "totalVotes": "1565580",
       "results": [
         {
@@ -22316,9 +21264,7 @@
     },
     "KS": {
       "name": "Kansas",
-      "fips": "20",
-      "ic": "32",
-      "cen": "47",
+      "seats": "6",
       "totalVotes": "1184402",
       "results": [
         {
@@ -22350,9 +21296,7 @@
     },
     "KY": {
       "name": "Kentucky",
-      "fips": "21",
-      "ic": "51",
-      "cen": "61",
+      "seats": "8",
       "totalVotes": "1924149",
       "results": [
         {
@@ -22394,9 +21338,7 @@
     },
     "LA": {
       "name": "Louisiana",
-      "fips": "22",
-      "ic": "45",
-      "cen": "72",
+      "seats": "8",
       "totalVotes": "2029032",
       "results": [
         {
@@ -22428,9 +21370,7 @@
     },
     "ME": {
       "name": "Maine",
-      "fips": "23",
-      "ic": "2",
-      "cen": "11",
+      "seats": "4",
       "totalVotes": "771892",
       "results": [
         {
@@ -22467,9 +21407,7 @@
     },
     "MD": {
       "name": "Maryland",
-      "fips": "24",
-      "ic": "52",
-      "cen": "52",
+      "seats": "10",
       "totalVotes": "2781446",
       "results": [
         {
@@ -22521,9 +21459,7 @@
     },
     "MA": {
       "name": "Massachusetts",
-      "fips": "25",
-      "ic": "3",
-      "cen": "14",
+      "seats": "11",
       "totalVotes": "3378821",
       "results": [
         {
@@ -22565,9 +21501,7 @@
     },
     "MI": {
       "name": "Michigan",
-      "fips": "26",
-      "ic": "23",
-      "cen": "34",
+      "seats": "16",
       "totalVotes": "4799284",
       "results": [
         {
@@ -22609,9 +21543,7 @@
     },
     "MN": {
       "name": "Minnesota",
-      "fips": "27",
-      "ic": "33",
-      "cen": "41",
+      "seats": "10",
       "totalVotes": "2944782",
       "results": [
         {
@@ -22668,9 +21600,7 @@
     },
     "MS": {
       "name": "Mississippi",
-      "fips": "28",
-      "ic": "46",
-      "cen": "64",
+      "seats": "6",
       "totalVotes": "1209357",
       "results": [
         {
@@ -22712,9 +21642,7 @@
     },
     "MO": {
       "name": "Missouri",
-      "fips": "29",
-      "ic": "34",
-      "cen": "43",
+      "seats": "10",
       "totalVotes": "2808605",
       "results": [
         {
@@ -22751,9 +21679,7 @@
     },
     "MT": {
       "name": "Montana",
-      "fips": "30",
-      "ic": "64",
-      "cen": "81",
+      "seats": "3",
       "totalVotes": "494526",
       "results": [
         {
@@ -22785,9 +21711,7 @@
     },
     "NE": {
       "name": "Nebraska",
-      "fips": "31",
-      "ic": "35",
-      "cen": "46",
+      "seats": "5",
       "totalVotes": "844227",
       "results": [
         {
@@ -22819,9 +21743,7 @@
     },
     "NV": {
       "name": "Nevada",
-      "fips": "32",
-      "ic": "65",
-      "cen": "88",
+      "seats": "6",
       "totalVotes": "1125385",
       "results": [
         {
@@ -22858,9 +21780,7 @@
     },
     "NH": {
       "name": "New Hampshire",
-      "fips": "33",
-      "ic": "4",
-      "cen": "12",
+      "seats": "4",
       "totalVotes": "744296",
       "results": [
         {
@@ -22902,9 +21822,7 @@
     },
     "NJ": {
       "name": "New Jersey",
-      "fips": "34",
-      "ic": "12",
-      "cen": "22",
+      "seats": "14",
       "totalVotes": "3874046",
       "results": [
         {
@@ -22956,9 +21874,7 @@
     },
     "NM": {
       "name": "New Mexico",
-      "fips": "35",
-      "ic": "66",
-      "cen": "85",
+      "seats": "5",
       "totalVotes": "798319",
       "results": [
         {
@@ -23005,9 +21921,7 @@
     },
     "NY": {
       "name": "New York",
-      "fips": "36",
-      "ic": "13",
-      "cen": "21",
+      "seats": "29",
       "totalVotes": "7802084",
       "results": [
         {
@@ -23074,9 +21988,7 @@
     },
     "NC": {
       "name": "North Carolina",
-      "fips": "37",
-      "ic": "47",
-      "cen": "56",
+      "seats": "15",
       "totalVotes": "4741564",
       "results": [
         {
@@ -23108,9 +22020,7 @@
     },
     "ND": {
       "name": "North Dakota",
-      "fips": "38",
-      "ic": "36",
-      "cen": "44",
+      "seats": "3",
       "totalVotes": "344360",
       "results": [
         {
@@ -23152,9 +22062,7 @@
     },
     "OH": {
       "name": "Ohio",
-      "fips": "39",
-      "ic": "24",
-      "cen": "31",
+      "seats": "18",
       "totalVotes": "5496487",
       "results": [
         {
@@ -23186,9 +22094,7 @@
     },
     "OK": {
       "name": "Oklahoma",
-      "fips": "40",
-      "ic": "53",
-      "cen": "73",
+      "seats": "7",
       "totalVotes": "1452992",
       "results": [
         {
@@ -23210,9 +22116,7 @@
     },
     "OR": {
       "name": "Oregon",
-      "fips": "41",
-      "ic": "72",
-      "cen": "92",
+      "seats": "7",
       "totalVotes": "2001336",
       "results": [
         {
@@ -23244,9 +22148,7 @@
     },
     "PA": {
       "name": "Pennsylvania",
-      "fips": "42",
-      "ic": "14",
-      "cen": "23",
+      "seats": "20",
       "totalVotes": "6115402",
       "results": [
         {
@@ -23278,9 +22180,7 @@
     },
     "RI": {
       "name": "Rhode Island",
-      "fips": "44",
-      "ic": "5",
-      "cen": "15",
+      "seats": "4",
       "totalVotes": "464144",
       "results": [
         {
@@ -23317,9 +22217,7 @@
     },
     "SC": {
       "name": "South Carolina",
-      "fips": "45",
-      "ic": "48",
-      "cen": "57",
+      "seats": "9",
       "totalVotes": "2103027",
       "results": [
         {
@@ -23361,9 +22259,7 @@
     },
     "SD": {
       "name": "South Dakota",
-      "fips": "46",
-      "ic": "37",
-      "cen": "45",
+      "seats": "3",
       "totalVotes": "370093",
       "results": [
         {
@@ -23390,9 +22286,7 @@
     },
     "TN": {
       "name": "Tennessee",
-      "fips": "47",
-      "ic": "54",
-      "cen": "62",
+      "seats": "11",
       "totalVotes": "2508027",
       "results": [
         {
@@ -23419,9 +22313,7 @@
     },
     "TX": {
       "name": "Texas",
-      "fips": "48",
-      "ic": "49",
-      "cen": "74",
+      "seats": "38",
       "totalVotes": "8969226",
       "results": [
         {
@@ -23453,9 +22345,7 @@
     },
     "UT": {
       "name": "Utah",
-      "fips": "49",
-      "ic": "67",
-      "cen": "87",
+      "seats": "6",
       "totalVotes": "1131317",
       "results": [
         {
@@ -23492,9 +22382,7 @@
     },
     "VT": {
       "name": "Vermont",
-      "fips": "50",
-      "ic": "6",
-      "cen": "13",
+      "seats": "3",
       "totalVotes": "320467",
       "results": [
         {
@@ -23546,9 +22434,7 @@
     },
     "VA": {
       "name": "Virginia",
-      "fips": "51",
-      "ic": "40",
-      "cen": "54",
+      "seats": "13",
       "totalVotes": "3982752",
       "results": [
         {
@@ -23585,9 +22471,7 @@
     },
     "WA": {
       "name": "Washington",
-      "fips": "53",
-      "ic": "73",
-      "cen": "91",
+      "seats": "12",
       "totalVotes": "3317019",
       "results": [
         {
@@ -23634,9 +22518,7 @@
     },
     "WV": {
       "name": "West Virginia",
-      "fips": "54",
-      "ic": "56",
-      "cen": "55",
+      "seats": "5",
       "totalVotes": "713051",
       "results": [
         {
@@ -23668,9 +22550,7 @@
     },
     "WI": {
       "name": "Wisconsin",
-      "fips": "55",
-      "ic": "25",
-      "cen": "35",
+      "seats": "10",
       "totalVotes": "2976150",
       "results": [
         {
@@ -23722,9 +22602,7 @@
     },
     "WY": {
       "name": "Wyoming",
-      "fips": "56",
-      "ic": "68",
-      "cen": "83",
+      "seats": "3",
       "totalVotes": "258788",
       "results": [
         {
