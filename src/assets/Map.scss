@@ -7,6 +7,10 @@
 
   .map {
     border-right: 2px solid $secondaryColor;
+
+    path {
+      cursor: pointer;
+    }
   }
 
   .settings {

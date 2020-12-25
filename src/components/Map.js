@@ -66,6 +66,8 @@ function Map() {
       };
     });
 
+    console.log(stateConfig);
+
     return stateConfig;
   };
 
