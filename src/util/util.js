@@ -101,8 +101,21 @@ export const getOutcome = (year) => {
     });
   });
 
+  let merged_candidates = [];
+
+  for (let candidate in candidates) {
+    merged_candidates.push({
+      candidate,
+      party: candidates[candidate].party,
+      votes: candidates[candidate].votes,
+      electoral_votes: candidates[candidate].electoral_votes,
+    });
+  }
+
+  merged_candidates.sort((a, b) => b.votes - a.votes);
+
   return {
-    candidates,
+    candidates: merged_candidates,
     outcome,
   };
 };

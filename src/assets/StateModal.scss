@@ -1,10 +1,30 @@
+@import "variables.scss";
+
 .state_modal {
   position: absolute;
   top: 20vh;
   left: 20%;
   right: 20%;
   bottom: 20vh;
+  overflow-y: auto;
+  border-radius: 5px;
 
-  background-color: slategray;
+  background-color: $primaryColor;
   padding: 1em;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+
+  button {
+    position: absolute;
+    top: 26px;
+    right: 5px;
+    transform: translate(-50%, -50%);
+    color: $secondaryColor;
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 0;
+  }
 }

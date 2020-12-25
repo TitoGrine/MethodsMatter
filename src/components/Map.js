@@ -1,12 +1,15 @@
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 import USAMap from "react-usa-map";
 import { getOutcome, getPartyColor } from "../util/util";
 
 import "./../assets/Map.scss";
+import CandidateTable from "./CandidateTable";
 import StateModal from "./StateModal";
 
 function Map() {
   const [year, setYear] = useState("2016");
+  const [outcome, setOutcome] = useState([]);
+  const [candidates, setCandidates] = useState(null);
   const [showModal, setShowModal] = useState(false);
   const [stateInfo, setStateInfo] = useState("");
 
@@ -18,6 +21,7 @@ function Map() {
     { year: "1992", label: "1992 elections" },
     { year: "1996", label: "1996 elections" },
     { year: "2000", label: "2000 elections" },
+    { year: "2004", label: "2004 elections" },
     { year: "2008", label: "2008 elections" },
     { year: "2012", label: "2012 elections" },
     { year: "2016", label: "2016 elections" },
@@ -48,10 +52,9 @@ function Map() {
 
   /* optional customization of filling per state and calling custom callbacks per state */
   const statesCustomConfig = () => {
-    let outcome = getOutcome(year);
     let stateConfig = {};
 
-    outcome.outcome.forEach((state) => {
+    outcome.forEach((state) => {
       let winner = getStateWinner(state.outcome);
 
       stateConfig[state.state] = {
@@ -65,6 +68,13 @@ function Map() {
 
     return stateConfig;
   };
+
+  useEffect(() => {
+    let data = getOutcome(year);
+
+    setOutcome(data.outcome);
+    setCandidates(data.candidates);
+  }, [year]);
 
   return (
     <>
@@ -96,6 +106,7 @@ function Map() {
           stateInfo={stateInfo}
         />
       </div>
+      {candidates && <CandidateTable candidates={candidates} />}
     </>
   );
 }
