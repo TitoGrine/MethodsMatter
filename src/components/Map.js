@@ -1,5 +1,6 @@
 import React, { useEffect, useState } from "react";
 import USAMap from "react-usa-map";
+import { dHondtMethod, winnerTakesAll } from "../util/methods";
 import { getOutcome, getPartyColor } from "../util/util";
 
 import "./../assets/Map.scss";
@@ -8,6 +9,7 @@ import StateModal from "./StateModal";
 
 function Map() {
   const [year, setYear] = useState("2016");
+  const [method, setMethod] = useState("winnerTakesAll");
   const [outcome, setOutcome] = useState([]);
   const [candidates, setCandidates] = useState(null);
   const [showModal, setShowModal] = useState(false);
@@ -27,6 +29,11 @@ function Map() {
     { year: "2016", label: "2016 elections" },
   ];
 
+  const methodsOptions = [
+    { method: "winnerTakesAll", label: "Winner takes all seats" },
+    { method: "dHondtMethod", label: "D'Hondt method" },
+  ];
+
   /* mandatory */
   const mapHandler = (event) => {
     console.log(event.target);
@@ -34,20 +41,17 @@ function Map() {
   };
 
   const getStateWinner = (state_outcome) => {
-    let winner = {};
-    let max_votes = -1;
+    state_outcome.sort((a, b) => {
+      let a_ev = a.electoral_votes;
+      let b_ev = b.electoral_votes;
 
-    state_outcome.forEach((candidate) => {
-      if (max_votes < candidate.electoral_votes) {
-        max_votes = candidate.electoral_votes;
-        winner = {
-          candidate: candidate.candidate,
-          party: candidate.party,
-        };
-      }
+      return b_ev === a_ev ? b.votes - a.votes : b_ev - a_ev;
     });
 
-    return winner;
+    return {
+      candidate: state_outcome[0].candidate,
+      party: state_outcome[0].party,
+    };
   };
 
   /* optional customization of filling per state and calling custom callbacks per state */
@@ -72,11 +76,11 @@ function Map() {
   };
 
   useEffect(() => {
-    let data = getOutcome(year);
+    let data = getOutcome(year, method);
 
     setOutcome(data.outcome);
     setCandidates(data.candidates);
-  }, [year]);
+  }, [year, method]);
 
   return (
     <>
@@ -88,13 +92,34 @@ function Map() {
             onClick={mapHandler}
           />
         </div>
-        <div className="settings" onChange={(e) => setYear(e.target.value)}>
-          <div className="election_year">
+        <div className="settings">
+          <div
+            className="election_year"
+            onChange={(e) => setYear(e.target.value)}
+          >
             <label>Election Year: </label>
             <select name="year" defaultValue={year}>
               {yearOptions.map((option) => {
                 return (
                   <option value={option.year} selected={year === option.year}>
+                    {option.label}
+                  </option>
+                );
+              })}
+            </select>
+          </div>
+          <div
+            className="allocation_method"
+            onChange={(e) => setMethod(e.target.value)}
+          >
+            <label>Allocation Method: </label>
+            <select name="year" defaultValue={year}>
+              {methodsOptions.map((option) => {
+                return (
+                  <option
+                    value={option.method}
+                    selected={method === option.method}
+                  >
                     {option.label}
                   </option>
                 );

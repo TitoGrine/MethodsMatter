@@ -1,4 +1,4 @@
-import { winnerTakesAll } from "./methods";
+import { dHondtMethod, winnerTakesAll } from "./methods";
 
 var data = require("../docs/elections.json");
 
@@ -56,6 +56,17 @@ const states = [
   "WY",
 ];
 
+const getMethod = (methodName) => {
+  switch (methodName) {
+    case "winnerTakesAll":
+      return winnerTakesAll;
+    case "dHondtMethod":
+      return dHondtMethod;
+    default:
+      return () => null;
+  }
+};
+
 export const getPartyColor = (party) => {
   switch (party) {
     case "republican":
@@ -69,13 +80,15 @@ export const getPartyColor = (party) => {
   }
 };
 
-export const getOutcome = (year) => {
+export const getOutcome = (year, methodName) => {
   let outcome = [];
   let candidates = {};
 
+  let method = getMethod(methodName);
+
   states.forEach((state) => {
     let results = data[year][state];
-    let state_outcome = winnerTakesAll(
+    let state_outcome = method(
       results.electoral_votes,
       results.total_votes,
       results.results
@@ -112,7 +125,7 @@ export const getOutcome = (year) => {
     });
   }
 
-  merged_candidates.sort((a, b) => b.votes - a.votes);
+  merged_candidates.sort((a, b) => b.electoral_votes - a.electoral_votes);
 
   return {
     candidates: merged_candidates,
