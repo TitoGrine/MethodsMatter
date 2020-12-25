@@ -1,4 +1,9 @@
-import { dHondtMethod, winnerTakesAll, websterSainteMethod } from "./methods";
+import {
+  dHondtMethod,
+  winnerTakesAll,
+  websterSainteMethod,
+  largestRemainderMethod,
+} from "./methods";
 
 var data = require("../docs/elections.json");
 
@@ -64,6 +69,8 @@ const getMethod = (methodName) => {
       return dHondtMethod;
     case "websterSainteMethod":
       return websterSainteMethod;
+    case "largestRemainderMethod":
+      return largestRemainderMethod;
     default:
       return () => null;
   }

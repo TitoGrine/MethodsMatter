@@ -29,9 +29,10 @@ function Map() {
   ];
 
   const methodsOptions = [
-    { method: "winnerTakesAll", label: "Winner takes all seats" },
+    { method: "winnerTakesAll", label: "Winner takes all method" },
     { method: "dHondtMethod", label: "D'Hondt method" },
     { method: "websterSainteMethod", label: "Webster/Sainte-Laguë method" },
+    { method: "largestRemainderMethod", label: "Largest Remainder method" },
   ];
 
   /* mandatory */
