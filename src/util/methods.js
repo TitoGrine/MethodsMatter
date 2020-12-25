@@ -44,3 +44,29 @@ export const dHondtMethod = (electoral_votes, total_votes, results) => {
 
   return outcome;
 };
+
+export const websterSainteMethod = (electoral_votes, total_votes, results) => {
+  let allocated_electoral_votes = 0;
+  let outcome = results.map((candidate) => {
+    return {
+      candidate: candidate.candidate,
+      party: candidate.party,
+      votes: parseInt(candidate.votes),
+      electoral_votes: 0,
+    };
+  });
+
+  while (allocated_electoral_votes < electoral_votes) {
+    outcome.sort((a, b) => {
+      return (
+        b.votes / (2 * b.electoral_votes + 1) -
+        a.votes / (2 * a.electoral_votes + 1)
+      );
+    });
+
+    outcome[0].electoral_votes++;
+    allocated_electoral_votes++;
+  }
+
+  return outcome;
+};

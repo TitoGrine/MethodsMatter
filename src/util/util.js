@@ -1,4 +1,4 @@
-import { dHondtMethod, winnerTakesAll } from "./methods";
+import { dHondtMethod, winnerTakesAll, websterSainteMethod } from "./methods";
 
 var data = require("../docs/elections.json");
 
@@ -62,6 +62,8 @@ const getMethod = (methodName) => {
       return winnerTakesAll;
     case "dHondtMethod":
       return dHondtMethod;
+    case "websterSainteMethod":
+      return websterSainteMethod;
     default:
       return () => null;
   }
@@ -125,7 +127,12 @@ export const getOutcome = (year, methodName) => {
     });
   }
 
-  merged_candidates.sort((a, b) => b.electoral_votes - a.electoral_votes);
+  merged_candidates.sort((a, b) => {
+    let a_ev = a.electoral_votes;
+    let b_ev = b.electoral_votes;
+
+    return a_ev === b_ev ? b.votes - a.votes : b_ev - a_ev;
+  });
 
   return {
     candidates: merged_candidates,

@@ -1,6 +1,5 @@
 import React, { useEffect, useState } from "react";
 import USAMap from "react-usa-map";
-import { dHondtMethod, winnerTakesAll } from "../util/methods";
 import { getOutcome, getPartyColor } from "../util/util";
 
 import "./../assets/Map.scss";
@@ -32,6 +31,7 @@ function Map() {
   const methodsOptions = [
     { method: "winnerTakesAll", label: "Winner takes all seats" },
     { method: "dHondtMethod", label: "D'Hondt method" },
+    { method: "websterSainteMethod", label: "Webster/Sainte-Laguë method" },
   ];
 
   /* mandatory */

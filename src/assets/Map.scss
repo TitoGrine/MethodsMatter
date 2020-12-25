@@ -2,11 +2,14 @@
 
 .map-section {
   padding: 3em;
+  margin: auto;
   display: flex;
   justify-content: space-between;
 
   .map {
     border-right: 2px solid $secondaryColor;
+    flex-grow: 2;
+    margin: auto;
 
     path {
       cursor: pointer;
@@ -14,7 +17,7 @@
   }
 
   .settings {
-    width: 100%;
+    width: 25%;
     display: flex;
     flex-direction: column;
     align-items: flex-start;
@@ -32,7 +35,7 @@
       font-weight: 500;
 
       select {
-        margin-top: 0.5em;
+        margin-top: 0.75em;
       }
     }
   }
