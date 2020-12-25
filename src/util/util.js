@@ -3,6 +3,8 @@ import {
   winnerTakesAll,
   websterSainteMethod,
   largestRemainderMethod,
+  hareQuota,
+  droopQuota,
 } from "./methods";
 
 var data = require("../docs/elections.json");
@@ -72,7 +74,18 @@ const getMethod = (methodName) => {
     case "largestRemainderMethod":
       return largestRemainderMethod;
     default:
-      return () => null;
+      return () => 1;
+  }
+};
+
+const getQuotaFunc = (quotaName) => {
+  switch (quotaName) {
+    case "hareQuota":
+      return hareQuota;
+    case "droopQuota":
+      return droopQuota;
+    default:
+      return () => 1;
   }
 };
 
@@ -89,18 +102,20 @@ export const getPartyColor = (party) => {
   }
 };
 
-export const getOutcome = (year, methodName) => {
+export const getOutcome = (year, methodName, quotaName) => {
   let outcome = [];
   let candidates = {};
 
   let method = getMethod(methodName);
+  let quotaFunc = getQuotaFunc(quotaName);
 
   states.forEach((state) => {
     let results = data[year][state];
     let state_outcome = method(
       results.electoral_votes,
       results.total_votes,
-      results.results
+      results.results,
+      quotaFunc
     );
 
     state_outcome.forEach((candidate) => {

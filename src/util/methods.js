@@ -1,4 +1,19 @@
-export const winnerTakesAll = (electoral_votes, total_votes, results) => {
+// Quota Functions
+
+export const hareQuota = (total_votes, electoral_votes) =>
+  total_votes / electoral_votes;
+
+export const droopQuota = (total_votes, electoral_votes) =>
+  Math.floor(1 + total_votes / (1 + electoral_votes));
+
+// Allocation Algorithms
+
+export const winnerTakesAll = (
+  electoral_votes,
+  total_votes,
+  results,
+  quotaFunc
+) => {
   let maxVotes = -1;
 
   results.forEach((result) => {
@@ -20,7 +35,12 @@ export const winnerTakesAll = (electoral_votes, total_votes, results) => {
   return outcome;
 };
 
-export const dHondtMethod = (electoral_votes, total_votes, results) => {
+export const dHondtMethod = (
+  electoral_votes,
+  total_votes,
+  results,
+  quotaFunc
+) => {
   let allocated_electoral_votes = 0;
   let outcome = results.map((candidate) => {
     return {
@@ -45,7 +65,12 @@ export const dHondtMethod = (electoral_votes, total_votes, results) => {
   return outcome;
 };
 
-export const websterSainteMethod = (electoral_votes, total_votes, results) => {
+export const websterSainteMethod = (
+  electoral_votes,
+  total_votes,
+  results,
+  quotaFunc
+) => {
   let allocated_electoral_votes = 0;
   let outcome = results.map((candidate) => {
     return {
@@ -74,10 +99,11 @@ export const websterSainteMethod = (electoral_votes, total_votes, results) => {
 export const largestRemainderMethod = (
   electoral_votes,
   total_votes,
-  results
+  results,
+  quotaFunc
 ) => {
   let allocated_electoral_votes = 0;
-  let quota = total_votes / electoral_votes;
+  let quota = quotaFunc(parseInt(total_votes), parseInt(electoral_votes));
   let outcome = results.map((candidate) => {
     let assured_votes = Math.floor(parseInt(candidate.votes) / quota);
     allocated_electoral_votes += assured_votes;
@@ -87,7 +113,7 @@ export const largestRemainderMethod = (
       party: candidate.party,
       votes: parseInt(candidate.votes),
       electoral_votes: assured_votes,
-      remainder: parseInt(candidate.votes) % quota,
+      remainder: parseInt(candidate.votes) / quota - assured_votes,
     };
   });
 

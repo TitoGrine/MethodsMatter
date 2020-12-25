@@ -9,6 +9,7 @@ import StateModal from "./StateModal";
 function Map() {
   const [year, setYear] = useState("2016");
   const [method, setMethod] = useState("winnerTakesAll");
+  const [quota, setQuota] = useState("hareQuota");
   const [outcome, setOutcome] = useState([]);
   const [candidates, setCandidates] = useState(null);
   const [showModal, setShowModal] = useState(false);
@@ -33,6 +34,11 @@ function Map() {
     { method: "dHondtMethod", label: "D'Hondt method" },
     { method: "websterSainteMethod", label: "Webster/Sainte-Laguë method" },
     { method: "largestRemainderMethod", label: "Largest Remainder method" },
+  ];
+
+  const quotaOptions = [
+    { type: "hareQuota", label: "Hare quota" },
+    { type: "droopQuota", label: "Droop Quota" },
   ];
 
   /* mandatory */
@@ -71,17 +77,15 @@ function Map() {
       };
     });
 
-    console.log(stateConfig);
-
     return stateConfig;
   };
 
   useEffect(() => {
-    let data = getOutcome(year, method);
+    let data = getOutcome(year, method, quota);
 
     setOutcome(data.outcome);
     setCandidates(data.candidates);
-  }, [year, method]);
+  }, [year, method, quota]);
 
   return (
     <>
@@ -127,6 +131,23 @@ function Map() {
               })}
             </select>
           </div>
+          {["largestRemainderMethod"].includes(method) && (
+            <div className="quota" onChange={(e) => setQuota(e.target.value)}>
+              <label>Quota: </label>
+              <select name="quota" defaultValue={quota}>
+                {quotaOptions.map((option) => {
+                  return (
+                    <option
+                      value={option.type}
+                      selected={quota === option.type}
+                    >
+                      {option.label}
+                    </option>
+                  );
+                })}
+              </select>
+            </div>
+          )}
         </div>
         <StateModal
           showModal={showModal}
