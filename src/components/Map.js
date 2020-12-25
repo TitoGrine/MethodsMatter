@@ -1,6 +1,6 @@
 import React from "react";
 import USAMap from "react-usa-map";
-import { parseFile } from "../util/util";
+import { getOutcome, getPartyColor } from "../util/util";
 
 function Map() {
   /* mandatory */
@@ -8,17 +8,39 @@ function Map() {
     alert(event.target.dataset.name);
   };
 
+  const getStateWinner = (state_outcome) => {
+    let winner = {};
+    let max_votes = -1;
+
+    state_outcome.forEach((candidate) => {
+      if (max_votes < candidate.electoral_votes) {
+        max_votes = candidate.electoral_votes;
+        winner = {
+          candidate: candidate.candidate,
+          party: candidate.party,
+        };
+      }
+    });
+
+    return winner;
+  };
+
   /* optional customization of filling per state and calling custom callbacks per state */
   const statesCustomConfig = () => {
-    return {
-      NJ: {
-        fill: "#1405BD",
-        clickHandler: (event) => parseFile(2016),
-      },
-      NY: {
-        fill: "#ff0803",
-      },
-    };
+    let outcome = getOutcome(2008);
+    let stateConfig = {};
+
+    outcome.outcome.forEach((state) => {
+      let winner = getStateWinner(state.outcome);
+
+      console.log(winner);
+
+      stateConfig[state.state] = {
+        fill: getPartyColor(winner.party),
+      };
+    });
+
+    return stateConfig;
   };
 
   return (

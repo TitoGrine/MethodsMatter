@@ -2,8 +2,8 @@
   "1976": {
     "AL": {
       "name": "Alabama",
-      "seats": "9",
-      "totalVotes": "1182850",
+      "electoral_votes": "9",
+      "total_votes": "1182850",
       "results": [
         {
           "candidate": "Carter, Jimmy",
@@ -44,8 +44,8 @@
     },
     "AK": {
       "name": "Alaska",
-      "seats": "3",
-      "totalVotes": "123574",
+      "electoral_votes": "3",
+      "total_votes": "123574",
       "results": [
         {
           "candidate": "Ford, Gerald",
@@ -71,8 +71,8 @@
     },
     "AZ": {
       "name": "Arizona",
-      "seats": "6",
-      "totalVotes": "742719",
+      "electoral_votes": "6",
+      "total_votes": "742719",
       "results": [
         {
           "candidate": "Ford, Gerald",
@@ -118,8 +118,8 @@
     },
     "AR": {
       "name": "Arkansas",
-      "seats": "6",
-      "totalVotes": "767535",
+      "electoral_votes": "6",
+      "total_votes": "767535",
       "results": [
         {
           "candidate": "Carter, Jimmy",
@@ -145,8 +145,8 @@
     },
     "CA": {
       "name": "California",
-      "seats": "45",
-      "totalVotes": "7803770",
+      "electoral_votes": "45",
+      "total_votes": "7803770",
       "results": [
         {
           "candidate": "Ford, Gerald",
@@ -187,8 +187,8 @@
     },
     "CO": {
       "name": "Colorado",
-      "seats": "7",
-      "totalVotes": "1081440",
+      "electoral_votes": "7",
+      "total_votes": "1081440",
       "results": [
         {
           "candidate": "Ford, Gerald",
@@ -234,8 +234,8 @@
     },
     "CT": {
       "name": "Connecticut",
-      "seats": "8",
-      "totalVotes": "1386355",
+      "electoral_votes": "8",
+      "total_votes": "1386355",
       "results": [
         {
           "candidate": "Ford, Gerald",
@@ -266,8 +266,8 @@
     },
     "DE": {
       "name": "Delaware",
-      "seats": "3",
-      "totalVotes": "235642",
+      "electoral_votes": "3",
+      "total_votes": "235642",
       "results": [
         {
           "candidate": "Carter, Jimmy",
@@ -308,8 +308,8 @@
     },
     "DC": {
       "name": "District of Columbia",
-      "seats": "3",
-      "totalVotes": "168830",
+      "electoral_votes": "3",
+      "total_votes": "168830",
       "results": [
         {
           "candidate": "Carter, Jimmy",
@@ -340,8 +340,8 @@
     },
     "FL": {
       "name": "Florida",
-      "seats": "17",
-      "totalVotes": "3150631",
+      "electoral_votes": "17",
+      "total_votes": "3150631",
       "results": [
         {
           "candidate": "Carter, Jimmy",
@@ -372,8 +372,8 @@
     },
     "GA": {
       "name": "Georgia",
-      "seats": "12",
-      "totalVotes": "1463152",
+      "electoral_votes": "12",
+      "total_votes": "1463152",
       "results": [
         {
           "candidate": "Carter, Jimmy",
@@ -389,8 +389,8 @@
     },
     "HI": {
       "name": "Hawaii",
-      "seats": "4",
-      "totalVotes": "291301",
+      "electoral_votes": "4",
+      "total_votes": "291301",
       "results": [
         {
           "candidate": "Carter, Jimmy",
@@ -411,8 +411,8 @@
     },
     "ID": {
       "name": "Idaho",
-      "seats": "4",
-      "totalVotes": "340932",
+      "electoral_votes": "4",
+      "total_votes": "340932",
       "results": [
         {
           "candidate": "Ford, Gerald",
@@ -443,8 +443,8 @@
     },
     "IL": {
       "name": "Illinois",
-      "seats": "26",
-      "totalVotes": "4721282",
+      "electoral_votes": "26",
+      "total_votes": "4721282",
       "results": [
         {
           "candidate": "Ford, Gerald",
@@ -495,8 +495,8 @@
     },
     "IN": {
       "name": "Indiana",
-      "seats": "13",
-      "totalVotes": "2220362",
+      "electoral_votes": "13",
+      "total_votes": "2220362",
       "results": [
         {
           "candidate": "Ford, Gerald",
@@ -527,8 +527,8 @@
     },
     "IA": {
       "name": "Iowa",
-      "seats": "8",
-      "totalVotes": "1279303",
+      "electoral_votes": "8",
+      "total_votes": "1279303",
       "results": [
         {
           "candidate": "Ford, Gerald",
@@ -589,8 +589,8 @@
     },
     "KS": {
       "name": "Kansas",
-      "seats": "7",
-      "totalVotes": "957845",
+      "electoral_votes": "7",
+      "total_votes": "957845",
       "results": [
         {
           "candidate": "Ford, Gerald",
@@ -631,8 +631,8 @@
     },
     "KY": {
       "name": "Kentucky",
-      "seats": "9",
-      "totalVotes": "1167142",
+      "electoral_votes": "9",
+      "total_votes": "1167142",
       "results": [
         {
           "candidate": "Carter, Jimmy",
@@ -683,8 +683,8 @@
     },
     "LA": {
       "name": "Louisiana",
-      "seats": "10",
-      "totalVotes": "1277383",
+      "electoral_votes": "10",
+      "total_votes": "1277383",
       "results": [
         {
           "candidate": "Carter, Jimmy",
@@ -725,8 +725,8 @@
     },
     "ME": {
       "name": "Maine",
-      "seats": "4",
-      "totalVotes": "482968",
+      "electoral_votes": "4",
+      "total_votes": "482968",
       "results": [
         {
           "candidate": "Ford, Gerald",
@@ -752,8 +752,8 @@
     },
     "MD": {
       "name": "Maryland",
-      "seats": "10",
-      "totalVotes": "1432273",
+      "electoral_votes": "10",
+      "total_votes": "1432273",
       "results": [
         {
           "candidate": "Carter, Jimmy",
@@ -769,8 +769,8 @@
     },
     "MA": {
       "name": "Massachusetts",
-      "seats": "14",
-      "totalVotes": "2547558",
+      "electoral_votes": "14",
+      "total_votes": "2547558",
       "results": [
         {
           "candidate": "Carter, Jimmy",
@@ -821,8 +821,8 @@
     },
     "MI": {
       "name": "Michigan",
-      "seats": "21",
-      "totalVotes": "3651590",
+      "electoral_votes": "21",
+      "total_votes": "3651590",
       "results": [
         {
           "candidate": "Ford, Gerald",
@@ -868,8 +868,8 @@
     },
     "MN": {
       "name": "Minnesota",
-      "seats": "10",
-      "totalVotes": "1949931",
+      "electoral_votes": "10",
+      "total_votes": "1949931",
       "results": [
         {
           "candidate": "Carter, Jimmy",
@@ -935,8 +935,8 @@
     },
     "MS": {
       "name": "Mississippi",
-      "seats": "7",
-      "totalVotes": "768390",
+      "electoral_votes": "7",
+      "total_votes": "768390",
       "results": [
         {
           "candidate": "Carter, Jimmy",
@@ -977,8 +977,8 @@
     },
     "MO": {
       "name": "Missouri",
-      "seats": "12",
-      "totalVotes": "1953600",
+      "electoral_votes": "12",
+      "total_votes": "1953600",
       "results": [
         {
           "candidate": "Carter, Jimmy",
@@ -1004,8 +1004,8 @@
     },
     "MT": {
       "name": "Montana",
-      "seats": "4",
-      "totalVotes": "328734",
+      "electoral_votes": "4",
+      "total_votes": "328734",
       "results": [
         {
           "candidate": "Ford, Gerald",
@@ -1026,8 +1026,8 @@
     },
     "NE": {
       "name": "Nebraska",
-      "seats": "5",
-      "totalVotes": "606749",
+      "electoral_votes": "5",
+      "total_votes": "606749",
       "results": [
         {
           "candidate": "Ford, Gerald",
@@ -1058,8 +1058,8 @@
     },
     "NV": {
       "name": "Nevada",
-      "seats": "3",
-      "totalVotes": "201876",
+      "electoral_votes": "3",
+      "total_votes": "201876",
       "results": [
         {
           "candidate": "Ford, Gerald",
@@ -1090,8 +1090,8 @@
     },
     "NH": {
       "name": "New Hampshire",
-      "seats": "4",
-      "totalVotes": "339627",
+      "electoral_votes": "4",
+      "total_votes": "339627",
       "results": [
         {
           "candidate": "Ford, Gerald",
@@ -1137,8 +1137,8 @@
     },
     "NJ": {
       "name": "New Jersey",
-      "seats": "17",
-      "totalVotes": "3014472",
+      "electoral_votes": "17",
+      "total_votes": "3014472",
       "results": [
         {
           "candidate": "Ford, Gerald",
@@ -1204,8 +1204,8 @@
     },
     "NM": {
       "name": "New Mexico",
-      "seats": "4",
-      "totalVotes": "416590",
+      "electoral_votes": "4",
+      "total_votes": "416590",
       "results": [
         {
           "candidate": "Ford, Gerald",
@@ -1241,8 +1241,8 @@
     },
     "NY": {
       "name": "New York",
-      "seats": "41",
-      "totalVotes": "6668262",
+      "electoral_votes": "41",
+      "total_votes": "6668262",
       "results": [
         {
           "candidate": "Carter, Jimmy",
@@ -1293,8 +1293,8 @@
     },
     "NC": {
       "name": "North Carolina",
-      "seats": "13",
-      "totalVotes": "1677906",
+      "electoral_votes": "13",
+      "total_votes": "1677906",
       "results": [
         {
           "candidate": "Carter, Jimmy",
@@ -1325,8 +1325,8 @@
     },
     "ND": {
       "name": "North Dakota",
-      "seats": "3",
-      "totalVotes": "297308",
+      "electoral_votes": "3",
+      "total_votes": "297308",
       "results": [
         {
           "candidate": "Ford, Gerald",
@@ -1387,8 +1387,8 @@
     },
     "OH": {
       "name": "Ohio",
-      "seats": "25",
-      "totalVotes": "4110456",
+      "electoral_votes": "25",
+      "total_votes": "4110456",
       "results": [
         {
           "candidate": "Carter, Jimmy",
@@ -1444,8 +1444,8 @@
     },
     "OK": {
       "name": "Oklahoma",
-      "seats": "8",
-      "totalVotes": "1092251",
+      "electoral_votes": "8",
+      "total_votes": "1092251",
       "results": [
         {
           "candidate": "Ford, Gerald",
@@ -1466,8 +1466,8 @@
     },
     "OR": {
       "name": "Oregon",
-      "seats": "6",
-      "totalVotes": "1029876",
+      "electoral_votes": "6",
+      "total_votes": "1029876",
       "results": [
         {
           "candidate": "Ford, Gerald",
@@ -1498,8 +1498,8 @@
     },
     "PA": {
       "name": "Pennsylvania",
-      "seats": "27",
-      "totalVotes": "4620787",
+      "electoral_votes": "27",
+      "total_votes": "4620787",
       "results": [
         {
           "candidate": "Carter, Jimmy",
@@ -1545,8 +1545,8 @@
     },
     "RI": {
       "name": "Rhode Island",
-      "seats": "4",
-      "totalVotes": "410584",
+      "electoral_votes": "4",
+      "total_votes": "410584",
       "results": [
         {
           "candidate": "Carter, Jimmy",
@@ -1582,8 +1582,8 @@
     },
     "SC": {
       "name": "South Carolina",
-      "seats": "8",
-      "totalVotes": "802583",
+      "electoral_votes": "8",
+      "total_votes": "802583",
       "results": [
         {
           "candidate": "Carter, Jimmy",
@@ -1614,8 +1614,8 @@
     },
     "SD": {
       "name": "South Dakota",
-      "seats": "4",
-      "totalVotes": "300678",
+      "electoral_votes": "4",
+      "total_votes": "300678",
       "results": [
         {
           "candidate": "Ford, Gerald",
@@ -1646,8 +1646,8 @@
     },
     "TN": {
       "name": "Tennessee",
-      "seats": "10",
-      "totalVotes": "1476346",
+      "electoral_votes": "10",
+      "total_votes": "1476346",
       "results": [
         {
           "candidate": "Carter, Jimmy",
@@ -1708,8 +1708,8 @@
     },
     "TX": {
       "name": "Texas",
-      "seats": "26",
-      "totalVotes": "4071884",
+      "electoral_votes": "26",
+      "total_votes": "4071884",
       "results": [
         {
           "candidate": "Carter, Jimmy",
@@ -1745,8 +1745,8 @@
     },
     "UT": {
       "name": "Utah",
-      "seats": "4",
-      "totalVotes": "541218",
+      "electoral_votes": "4",
+      "total_votes": "541218",
       "results": [
         {
           "candidate": "Ford, Gerald",
@@ -1792,8 +1792,8 @@
     },
     "VT": {
       "name": "Vermont",
-      "seats": "3",
-      "totalVotes": "183902",
+      "electoral_votes": "3",
+      "total_votes": "183902",
       "results": [
         {
           "candidate": "Ford, Gerald",
@@ -1829,8 +1829,8 @@
     },
     "VA": {
       "name": "Virginia",
-      "seats": "12",
-      "totalVotes": "1697094",
+      "electoral_votes": "12",
+      "total_votes": "1697094",
       "results": [
         {
           "candidate": "Ford, Gerald",
@@ -1866,8 +1866,8 @@
     },
     "WA": {
       "name": "Washington",
-      "seats": "9",
-      "totalVotes": "1555534",
+      "electoral_votes": "9",
+      "total_votes": "1555534",
       "results": [
         {
           "candidate": "Ford, Gerald",
@@ -1928,8 +1928,8 @@
     },
     "WV": {
       "name": "West Virginia",
-      "seats": "6",
-      "totalVotes": "750590",
+      "electoral_votes": "6",
+      "total_votes": "750590",
       "results": [
         {
           "candidate": "Carter, Jimmy",
@@ -1945,8 +1945,8 @@
     },
     "WI": {
       "name": "Wisconsin",
-      "seats": "11",
-      "totalVotes": "2101336",
+      "electoral_votes": "11",
+      "total_votes": "2101336",
       "results": [
         {
           "candidate": "Carter, Jimmy",
@@ -1997,8 +1997,8 @@
     },
     "WY": {
       "name": "Wyoming",
-      "seats": "3",
-      "totalVotes": "156343",
+      "electoral_votes": "3",
+      "total_votes": "156343",
       "results": [
         {
           "candidate": "Ford, Gerald",
@@ -2021,8 +2021,8 @@
   "1980": {
     "AL": {
       "name": "Alabama",
-      "seats": "9",
-      "totalVotes": "1341929",
+      "electoral_votes": "9",
+      "total_votes": "1341929",
       "results": [
         {
           "candidate": "Reagan, Ronald",
@@ -2078,8 +2078,8 @@
     },
     "AK": {
       "name": "Alaska",
-      "seats": "3",
-      "totalVotes": "158445",
+      "electoral_votes": "3",
+      "total_votes": "158445",
       "results": [
         {
           "candidate": "Reagan, Ronald",
@@ -2110,8 +2110,8 @@
     },
     "AZ": {
       "name": "Arizona",
-      "seats": "6",
-      "totalVotes": "873945",
+      "electoral_votes": "6",
+      "total_votes": "873945",
       "results": [
         {
           "candidate": "Reagan, Ronald",
@@ -2157,8 +2157,8 @@
     },
     "AR": {
       "name": "Arkansas",
-      "seats": "6",
-      "totalVotes": "837582",
+      "electoral_votes": "6",
+      "total_votes": "837582",
       "results": [
         {
           "candidate": "Reagan, Ronald",
@@ -2199,8 +2199,8 @@
     },
     "CA": {
       "name": "California",
-      "seats": "45",
-      "totalVotes": "8582938",
+      "electoral_votes": "45",
+      "total_votes": "8582938",
       "results": [
         {
           "candidate": "Reagan, Ronald",
@@ -2241,8 +2241,8 @@
     },
     "CO": {
       "name": "Colorado",
-      "seats": "7",
-      "totalVotes": "1184450",
+      "electoral_votes": "7",
+      "total_votes": "1184450",
       "results": [
         {
           "candidate": "Reagan, Ronald",
@@ -2288,8 +2288,8 @@
     },
     "CT": {
       "name": "Connecticut",
-      "seats": "8",
-      "totalVotes": "1406285",
+      "electoral_votes": "8",
+      "total_votes": "1406285",
       "results": [
         {
           "candidate": "Reagan, Ronald",
@@ -2325,8 +2325,8 @@
     },
     "DE": {
       "name": "Delaware",
-      "seats": "3",
-      "totalVotes": "235668",
+      "electoral_votes": "3",
+      "total_votes": "235668",
       "results": [
         {
           "candidate": "Reagan, Ronald",
@@ -2357,8 +2357,8 @@
     },
     "DC": {
       "name": "District of Columbia",
-      "seats": "3",
-      "totalVotes": "173889",
+      "electoral_votes": "3",
+      "total_votes": "173889",
       "results": [
         {
           "candidate": "Carter, Jimmy",
@@ -2409,8 +2409,8 @@
     },
     "FL": {
       "name": "Florida",
-      "seats": "17",
-      "totalVotes": "3686927",
+      "electoral_votes": "17",
+      "total_votes": "3686927",
       "results": [
         {
           "candidate": "Reagan, Ronald",
@@ -2441,8 +2441,8 @@
     },
     "GA": {
       "name": "Georgia",
-      "seats": "12",
-      "totalVotes": "1596805",
+      "electoral_votes": "12",
+      "total_votes": "1596805",
       "results": [
         {
           "candidate": "Carter, Jimmy",
@@ -2468,8 +2468,8 @@
     },
     "HI": {
       "name": "Hawaii",
-      "seats": "4",
-      "totalVotes": "303287",
+      "electoral_votes": "4",
+      "total_votes": "303287",
       "results": [
         {
           "candidate": "Carter, Jimmy",
@@ -2505,8 +2505,8 @@
     },
     "ID": {
       "name": "Idaho",
-      "seats": "4",
-      "totalVotes": "437431",
+      "electoral_votes": "4",
+      "total_votes": "437431",
       "results": [
         {
           "candidate": "Reagan, Ronald",
@@ -2537,8 +2537,8 @@
     },
     "IL": {
       "name": "Illinois",
-      "seats": "26",
-      "totalVotes": "4749721",
+      "electoral_votes": "26",
+      "total_votes": "4749721",
       "results": [
         {
           "candidate": "Reagan, Ronald",
@@ -2589,8 +2589,8 @@
     },
     "IN": {
       "name": "Indiana",
-      "seats": "13",
-      "totalVotes": "2242033",
+      "electoral_votes": "13",
+      "total_votes": "2242033",
       "results": [
         {
           "candidate": "Reagan, Ronald",
@@ -2636,8 +2636,8 @@
     },
     "IA": {
       "name": "Iowa",
-      "seats": "8",
-      "totalVotes": "1317661",
+      "electoral_votes": "8",
+      "total_votes": "1317661",
       "results": [
         {
           "candidate": "Reagan, Ronald",
@@ -2698,8 +2698,8 @@
     },
     "KS": {
       "name": "Kansas",
-      "seats": "7",
-      "totalVotes": "979795",
+      "electoral_votes": "7",
+      "total_votes": "979795",
       "results": [
         {
           "candidate": "Reagan, Ronald",
@@ -2745,8 +2745,8 @@
     },
     "KY": {
       "name": "Kentucky",
-      "seats": "9",
-      "totalVotes": "1295627",
+      "electoral_votes": "9",
+      "total_votes": "1295627",
       "results": [
         {
           "candidate": "Reagan, Ronald",
@@ -2792,8 +2792,8 @@
     },
     "LA": {
       "name": "Louisiana",
-      "seats": "10",
-      "totalVotes": "1548591",
+      "electoral_votes": "10",
+      "total_votes": "1548591",
       "results": [
         {
           "candidate": "Reagan, Ronald",
@@ -2834,8 +2834,8 @@
     },
     "ME": {
       "name": "Maine",
-      "seats": "4",
-      "totalVotes": "523011",
+      "electoral_votes": "4",
+      "total_votes": "523011",
       "results": [
         {
           "candidate": "Reagan, Ronald",
@@ -2876,8 +2876,8 @@
     },
     "MD": {
       "name": "Maryland",
-      "seats": "10",
-      "totalVotes": "1540496",
+      "electoral_votes": "10",
+      "total_votes": "1540496",
       "results": [
         {
           "candidate": "Carter, Jimmy",
@@ -2903,8 +2903,8 @@
     },
     "MA": {
       "name": "Massachusetts",
-      "seats": "14",
-      "totalVotes": "2524090",
+      "electoral_votes": "14",
+      "total_votes": "2524090",
       "results": [
         {
           "candidate": "Reagan, Ronald",
@@ -2945,8 +2945,8 @@
     },
     "MI": {
       "name": "Michigan",
-      "seats": "21",
-      "totalVotes": "3909725",
+      "electoral_votes": "21",
+      "total_votes": "3909725",
       "results": [
         {
           "candidate": "Reagan, Ronald",
@@ -2987,8 +2987,8 @@
     },
     "MN": {
       "name": "Minnesota",
-      "seats": "10",
-      "totalVotes": "2051916",
+      "electoral_votes": "10",
+      "total_votes": "2051916",
       "results": [
         {
           "candidate": "Carter, Jimmy",
@@ -3049,8 +3049,8 @@
     },
     "MS": {
       "name": "Mississippi",
-      "seats": "7",
-      "totalVotes": "891750",
+      "electoral_votes": "7",
+      "total_votes": "891750",
       "results": [
         {
           "candidate": "Reagan, Ronald",
@@ -3086,8 +3086,8 @@
     },
     "MO": {
       "name": "Missouri",
-      "seats": "12",
-      "totalVotes": "2099824",
+      "electoral_votes": "12",
+      "total_votes": "2099824",
       "results": [
         {
           "candidate": "Reagan, Ronald",
@@ -3123,8 +3123,8 @@
     },
     "MT": {
       "name": "Montana",
-      "seats": "4",
-      "totalVotes": "363952",
+      "electoral_votes": "4",
+      "total_votes": "363952",
       "results": [
         {
           "candidate": "Reagan, Ronald",
@@ -3150,8 +3150,8 @@
     },
     "NE": {
       "name": "Nebraska",
-      "seats": "5",
-      "totalVotes": "639533",
+      "electoral_votes": "5",
+      "total_votes": "639533",
       "results": [
         {
           "candidate": "Reagan, Ronald",
@@ -3177,8 +3177,8 @@
     },
     "NV": {
       "name": "Nevada",
-      "seats": "3",
-      "totalVotes": "243692",
+      "electoral_votes": "3",
+      "total_votes": "243692",
       "results": [
         {
           "candidate": "Reagan, Ronald",
@@ -3204,8 +3204,8 @@
     },
     "NH": {
       "name": "New Hampshire",
-      "seats": "4",
-      "totalVotes": "383990",
+      "electoral_votes": "4",
+      "total_votes": "383990",
       "results": [
         {
           "candidate": "Reagan, Ronald",
@@ -3256,8 +3256,8 @@
     },
     "NJ": {
       "name": "New Jersey",
-      "seats": "17",
-      "totalVotes": "2975684",
+      "electoral_votes": "17",
+      "total_votes": "2975684",
       "results": [
         {
           "candidate": "Reagan, Ronald",
@@ -3328,8 +3328,8 @@
     },
     "NM": {
       "name": "New Mexico",
-      "seats": "4",
-      "totalVotes": "456237",
+      "electoral_votes": "4",
+      "total_votes": "456237",
       "results": [
         {
           "candidate": "Reagan, Ronald",
@@ -3370,8 +3370,8 @@
     },
     "NY": {
       "name": "New York",
-      "seats": "41",
-      "totalVotes": "6201959",
+      "electoral_votes": "41",
+      "total_votes": "6201959",
       "results": [
         {
           "candidate": "Carter, Jimmy",
@@ -3432,8 +3432,8 @@
     },
     "NC": {
       "name": "North Carolina",
-      "seats": "13",
-      "totalVotes": "1855833",
+      "electoral_votes": "13",
+      "total_votes": "1855833",
       "results": [
         {
           "candidate": "Reagan, Ronald",
@@ -3469,8 +3469,8 @@
     },
     "ND": {
       "name": "North Dakota",
-      "seats": "3",
-      "totalVotes": "301116",
+      "electoral_votes": "3",
+      "total_votes": "301116",
       "results": [
         {
           "candidate": "Reagan, Ronald",
@@ -3526,8 +3526,8 @@
     },
     "OH": {
       "name": "Ohio",
-      "seats": "25",
-      "totalVotes": "4283603",
+      "electoral_votes": "25",
+      "total_votes": "4283603",
       "results": [
         {
           "candidate": "Reagan, Ronald",
@@ -3578,8 +3578,8 @@
     },
     "OK": {
       "name": "Oklahoma",
-      "seats": "8",
-      "totalVotes": "1149708",
+      "electoral_votes": "8",
+      "total_votes": "1149708",
       "results": [
         {
           "candidate": "Reagan, Ronald",
@@ -3605,8 +3605,8 @@
     },
     "OR": {
       "name": "Oregon",
-      "seats": "6",
-      "totalVotes": "1181516",
+      "electoral_votes": "6",
+      "total_votes": "1181516",
       "results": [
         {
           "candidate": "Reagan, Ronald",
@@ -3642,8 +3642,8 @@
     },
     "PA": {
       "name": "Pennsylvania",
-      "seats": "27",
-      "totalVotes": "4561501",
+      "electoral_votes": "27",
+      "total_votes": "4561501",
       "results": [
         {
           "candidate": "Reagan, Ronald",
@@ -3684,8 +3684,8 @@
     },
     "RI": {
       "name": "Rhode Island",
-      "seats": "4",
-      "totalVotes": "415967",
+      "electoral_votes": "4",
+      "total_votes": "415967",
       "results": [
         {
           "candidate": "Carter, Jimmy",
@@ -3731,8 +3731,8 @@
     },
     "SC": {
       "name": "South Carolina",
-      "seats": "8",
-      "totalVotes": "888258",
+      "electoral_votes": "8",
+      "total_votes": "888258",
       "results": [
         {
           "candidate": "Reagan, Ronald",
@@ -3763,8 +3763,8 @@
     },
     "SD": {
       "name": "South Dakota",
-      "seats": "4",
-      "totalVotes": "327703",
+      "electoral_votes": "4",
+      "total_votes": "327703",
       "results": [
         {
           "candidate": "Reagan, Ronald",
@@ -3795,8 +3795,8 @@
     },
     "TN": {
       "name": "Tennessee",
-      "seats": "10",
-      "totalVotes": "1617616",
+      "electoral_votes": "10",
+      "total_votes": "1617616",
       "results": [
         {
           "candidate": "Reagan, Ronald",
@@ -3857,8 +3857,8 @@
     },
     "TX": {
       "name": "Texas",
-      "seats": "26",
-      "totalVotes": "4541636",
+      "electoral_votes": "26",
+      "total_votes": "4541636",
       "results": [
         {
           "candidate": "Reagan, Ronald",
@@ -3889,8 +3889,8 @@
     },
     "UT": {
       "name": "Utah",
-      "seats": "4",
-      "totalVotes": "604152",
+      "electoral_votes": "4",
+      "total_votes": "604152",
       "results": [
         {
           "candidate": "Reagan, Ronald",
@@ -3941,8 +3941,8 @@
     },
     "VT": {
       "name": "Vermont",
-      "seats": "3",
-      "totalVotes": "213299",
+      "electoral_votes": "3",
+      "total_votes": "213299",
       "results": [
         {
           "candidate": "Reagan, Ronald",
@@ -3993,8 +3993,8 @@
     },
     "VA": {
       "name": "Virginia",
-      "seats": "12",
-      "totalVotes": "1866032",
+      "electoral_votes": "12",
+      "total_votes": "1866032",
       "results": [
         {
           "candidate": "Reagan, Ronald",
@@ -4030,8 +4030,8 @@
     },
     "WA": {
       "name": "Washington",
-      "seats": "9",
-      "totalVotes": "1742394",
+      "electoral_votes": "9",
+      "total_votes": "1742394",
       "results": [
         {
           "candidate": "Reagan, Ronald",
@@ -4082,8 +4082,8 @@
     },
     "WV": {
       "name": "West Virginia",
-      "seats": "6",
-      "totalVotes": "737715",
+      "electoral_votes": "6",
+      "total_votes": "737715",
       "results": [
         {
           "candidate": "Carter, Jimmy",
@@ -4109,8 +4109,8 @@
     },
     "WI": {
       "name": "Wisconsin",
-      "seats": "11",
-      "totalVotes": "2273221",
+      "electoral_votes": "11",
+      "total_votes": "2273221",
       "results": [
         {
           "candidate": "Reagan, Ronald",
@@ -4171,8 +4171,8 @@
     },
     "WY": {
       "name": "Wyoming",
-      "seats": "3",
-      "totalVotes": "176713",
+      "electoral_votes": "3",
+      "total_votes": "176713",
       "results": [
         {
           "candidate": "Reagan, Ronald",
@@ -4200,8 +4200,8 @@
   "1984": {
     "AL": {
       "name": "Alabama",
-      "seats": "9",
-      "totalVotes": "1441713",
+      "electoral_votes": "9",
+      "total_votes": "1441713",
       "results": [
         {
           "candidate": "Reagan, Ronald",
@@ -4242,8 +4242,8 @@
     },
     "AK": {
       "name": "Alaska",
-      "seats": "3",
-      "totalVotes": "207605",
+      "electoral_votes": "3",
+      "total_votes": "207605",
       "results": [
         {
           "candidate": "Reagan, Ronald",
@@ -4269,8 +4269,8 @@
     },
     "AZ": {
       "name": "Arizona",
-      "seats": "7",
-      "totalVotes": "1025897",
+      "electoral_votes": "7",
+      "total_votes": "1025897",
       "results": [
         {
           "candidate": "Reagan, Ronald",
@@ -4296,8 +4296,8 @@
     },
     "AR": {
       "name": "Arkansas",
-      "seats": "6",
-      "totalVotes": "884406",
+      "electoral_votes": "6",
+      "total_votes": "884406",
       "results": [
         {
           "candidate": "Reagan, Ronald",
@@ -4353,8 +4353,8 @@
     },
     "CA": {
       "name": "California",
-      "seats": "47",
-      "totalVotes": "9505041",
+      "electoral_votes": "47",
+      "total_votes": "9505041",
       "results": [
         {
           "candidate": "Reagan, Ronald",
@@ -4385,8 +4385,8 @@
     },
     "CO": {
       "name": "Colorado",
-      "seats": "8",
-      "totalVotes": "1295380",
+      "electoral_votes": "8",
+      "total_votes": "1295380",
       "results": [
         {
           "candidate": "Reagan, Ronald",
@@ -4432,8 +4432,8 @@
     },
     "CT": {
       "name": "Connecticut",
-      "seats": "8",
-      "totalVotes": "1466900",
+      "electoral_votes": "8",
+      "total_votes": "1466900",
       "results": [
         {
           "candidate": "Reagan, Ronald",
@@ -4464,8 +4464,8 @@
     },
     "DE": {
       "name": "Delaware",
-      "seats": "3",
-      "totalVotes": "254572",
+      "electoral_votes": "3",
+      "total_votes": "254572",
       "results": [
         {
           "candidate": "Reagan, Ronald",
@@ -4501,8 +4501,8 @@
     },
     "DC": {
       "name": "District of Columbia",
-      "seats": "3",
-      "totalVotes": "211288",
+      "electoral_votes": "3",
+      "total_votes": "211288",
       "results": [
         {
           "candidate": "Mondale, Walter",
@@ -4553,8 +4553,8 @@
     },
     "FL": {
       "name": "Florida",
-      "seats": "21",
-      "totalVotes": "4180051",
+      "electoral_votes": "21",
+      "total_votes": "4180051",
       "results": [
         {
           "candidate": "Reagan, Ronald",
@@ -4575,8 +4575,8 @@
     },
     "GA": {
       "name": "Georgia",
-      "seats": "12",
-      "totalVotes": "1776103",
+      "electoral_votes": "12",
+      "total_votes": "1776103",
       "results": [
         {
           "candidate": "Reagan, Ronald",
@@ -4597,8 +4597,8 @@
     },
     "HI": {
       "name": "Hawaii",
-      "seats": "4",
-      "totalVotes": "335846",
+      "electoral_votes": "4",
+      "total_votes": "335846",
       "results": [
         {
           "candidate": "Reagan, Ronald",
@@ -4629,8 +4629,8 @@
     },
     "ID": {
       "name": "Idaho",
-      "seats": "4",
-      "totalVotes": "411144",
+      "electoral_votes": "4",
+      "total_votes": "411144",
       "results": [
         {
           "candidate": "Reagan, Ronald",
@@ -4656,8 +4656,8 @@
     },
     "IL": {
       "name": "Illinois",
-      "seats": "24",
-      "totalVotes": "4819088",
+      "electoral_votes": "24",
+      "total_votes": "4819088",
       "results": [
         {
           "candidate": "Reagan, Ronald",
@@ -4708,8 +4708,8 @@
     },
     "IN": {
       "name": "Indiana",
-      "seats": "12",
-      "totalVotes": "2233069",
+      "electoral_votes": "12",
+      "total_votes": "2233069",
       "results": [
         {
           "candidate": "Reagan, Ronald",
@@ -4735,8 +4735,8 @@
     },
     "IA": {
       "name": "Iowa",
-      "seats": "8",
-      "totalVotes": "1319805",
+      "electoral_votes": "8",
+      "total_votes": "1319805",
       "results": [
         {
           "candidate": "Reagan, Ronald",
@@ -4787,8 +4787,8 @@
     },
     "KS": {
       "name": "Kansas",
-      "seats": "7",
-      "totalVotes": "1021991",
+      "electoral_votes": "7",
+      "total_votes": "1021991",
       "results": [
         {
           "candidate": "Reagan, Ronald",
@@ -4824,8 +4824,8 @@
     },
     "KY": {
       "name": "Kentucky",
-      "seats": "9",
-      "totalVotes": "1369345",
+      "electoral_votes": "9",
+      "total_votes": "1369345",
       "results": [
         {
           "candidate": "Reagan, Ronald",
@@ -4876,8 +4876,8 @@
     },
     "LA": {
       "name": "Louisiana",
-      "seats": "10",
-      "totalVotes": "1706822",
+      "electoral_votes": "10",
+      "total_votes": "1706822",
       "results": [
         {
           "candidate": "Reagan, Ronald",
@@ -4923,8 +4923,8 @@
     },
     "ME": {
       "name": "Maine",
-      "seats": "4",
-      "totalVotes": "553144",
+      "electoral_votes": "4",
+      "total_votes": "553144",
       "results": [
         {
           "candidate": "Reagan, Ronald",
@@ -4955,8 +4955,8 @@
     },
     "MD": {
       "name": "Maryland",
-      "seats": "10",
-      "totalVotes": "1675873",
+      "electoral_votes": "10",
+      "total_votes": "1675873",
       "results": [
         {
           "candidate": "Reagan, Ronald",
@@ -4992,8 +4992,8 @@
     },
     "MA": {
       "name": "Massachusetts",
-      "seats": "13",
-      "totalVotes": "2559383",
+      "electoral_votes": "13",
+      "total_votes": "2559383",
       "results": [
         {
           "candidate": "Reagan, Ronald",
@@ -5019,8 +5019,8 @@
     },
     "MI": {
       "name": "Michigan",
-      "seats": "20",
-      "totalVotes": "3801658",
+      "electoral_votes": "20",
+      "total_votes": "3801658",
       "results": [
         {
           "candidate": "Reagan, Ronald",
@@ -5081,8 +5081,8 @@
     },
     "MN": {
       "name": "Minnesota",
-      "seats": "10",
-      "totalVotes": "2084449",
+      "electoral_votes": "10",
+      "total_votes": "2084449",
       "results": [
         {
           "candidate": "Mondale, Walter",
@@ -5143,8 +5143,8 @@
     },
     "MS": {
       "name": "Mississippi",
-      "seats": "7",
-      "totalVotes": "941104",
+      "electoral_votes": "7",
+      "total_votes": "941104",
       "results": [
         {
           "candidate": "Reagan, Ronald",
@@ -5190,8 +5190,8 @@
     },
     "MO": {
       "name": "Missouri",
-      "seats": "11",
-      "totalVotes": "2122771",
+      "electoral_votes": "11",
+      "total_votes": "2122771",
       "results": [
         {
           "candidate": "Reagan, Ronald",
@@ -5207,8 +5207,8 @@
     },
     "MT": {
       "name": "Montana",
-      "seats": "4",
-      "totalVotes": "384377",
+      "electoral_votes": "4",
+      "total_votes": "384377",
       "results": [
         {
           "candidate": "Reagan, Ronald",
@@ -5229,8 +5229,8 @@
     },
     "NE": {
       "name": "Nebraska",
-      "seats": "5",
-      "totalVotes": "652090",
+      "electoral_votes": "5",
+      "total_votes": "652090",
       "results": [
         {
           "candidate": "Reagan, Ronald",
@@ -5261,8 +5261,8 @@
     },
     "NV": {
       "name": "Nevada",
-      "seats": "4",
-      "totalVotes": "282717",
+      "electoral_votes": "4",
+      "total_votes": "282717",
       "results": [
         {
           "candidate": "Reagan, Ronald",
@@ -5283,8 +5283,8 @@
     },
     "NH": {
       "name": "New Hampshire",
-      "seats": "4",
-      "totalVotes": "388904",
+      "electoral_votes": "4",
+      "total_votes": "388904",
       "results": [
         {
           "candidate": "Reagan, Ronald",
@@ -5315,8 +5315,8 @@
     },
     "NJ": {
       "name": "New Jersey",
-      "seats": "16",
-      "totalVotes": "3217862",
+      "electoral_votes": "16",
+      "total_votes": "3217862",
       "results": [
         {
           "candidate": "Reagan, Ronald",
@@ -5367,8 +5367,8 @@
     },
     "NM": {
       "name": "New Mexico",
-      "seats": "5",
-      "totalVotes": "514370",
+      "electoral_votes": "5",
+      "total_votes": "514370",
       "results": [
         {
           "candidate": "Reagan, Ronald",
@@ -5414,8 +5414,8 @@
     },
     "NY": {
       "name": "New York",
-      "seats": "36",
-      "totalVotes": "6806810",
+      "electoral_votes": "36",
+      "total_votes": "6806810",
       "results": [
         {
           "candidate": "Reagan, Ronald",
@@ -5466,8 +5466,8 @@
     },
     "NC": {
       "name": "North Carolina",
-      "seats": "13",
-      "totalVotes": "2175361",
+      "electoral_votes": "13",
+      "total_votes": "2175361",
       "results": [
         {
           "candidate": "Reagan, Ronald",
@@ -5493,8 +5493,8 @@
     },
     "ND": {
       "name": "North Dakota",
-      "seats": "3",
-      "totalVotes": "308971",
+      "electoral_votes": "3",
+      "total_votes": "308971",
       "results": [
         {
           "candidate": "Reagan, Ronald",
@@ -5550,8 +5550,8 @@
     },
     "OH": {
       "name": "Ohio",
-      "seats": "23",
-      "totalVotes": "4563235",
+      "electoral_votes": "23",
+      "total_votes": "4563235",
       "results": [
         {
           "candidate": "Reagan, Ronald",
@@ -5602,8 +5602,8 @@
     },
     "OK": {
       "name": "Oklahoma",
-      "seats": "8",
-      "totalVotes": "1255676",
+      "electoral_votes": "8",
+      "total_votes": "1255676",
       "results": [
         {
           "candidate": "Reagan, Ronald",
@@ -5624,8 +5624,8 @@
     },
     "OR": {
       "name": "Oregon",
-      "seats": "7",
-      "totalVotes": "1226527",
+      "electoral_votes": "7",
+      "total_votes": "1226527",
       "results": [
         {
           "candidate": "Reagan, Ronald",
@@ -5646,8 +5646,8 @@
     },
     "PA": {
       "name": "Pennsylvania",
-      "seats": "25",
-      "totalVotes": "4844903",
+      "electoral_votes": "25",
+      "total_votes": "4844903",
       "results": [
         {
           "candidate": "Reagan, Ronald",
@@ -5683,8 +5683,8 @@
     },
     "RI": {
       "name": "Rhode Island",
-      "seats": "4",
-      "totalVotes": "410489",
+      "electoral_votes": "4",
+      "total_votes": "410489",
       "results": [
         {
           "candidate": "Reagan, Ronald",
@@ -5735,8 +5735,8 @@
     },
     "SC": {
       "name": "South Carolina",
-      "seats": "8",
-      "totalVotes": "968529",
+      "electoral_votes": "8",
+      "total_votes": "968529",
       "results": [
         {
           "candidate": "Reagan, Ronald",
@@ -5767,8 +5767,8 @@
     },
     "SD": {
       "name": "South Dakota",
-      "seats": "3",
-      "totalVotes": "317867",
+      "electoral_votes": "3",
+      "total_votes": "317867",
       "results": [
         {
           "candidate": "Reagan, Ronald",
@@ -5794,8 +5794,8 @@
     },
     "TN": {
       "name": "Tennessee",
-      "seats": "11",
-      "totalVotes": "1711993",
+      "electoral_votes": "11",
+      "total_votes": "1711993",
       "results": [
         {
           "candidate": "Reagan, Ronald",
@@ -5851,8 +5851,8 @@
     },
     "TX": {
       "name": "Texas",
-      "seats": "29",
-      "totalVotes": "5397571",
+      "electoral_votes": "29",
+      "total_votes": "5397571",
       "results": [
         {
           "candidate": "Reagan, Ronald",
@@ -5878,8 +5878,8 @@
     },
     "UT": {
       "name": "Utah",
-      "seats": "5",
-      "totalVotes": "629656",
+      "electoral_votes": "5",
+      "total_votes": "629656",
       "results": [
         {
           "candidate": "Reagan, Ronald",
@@ -5925,8 +5925,8 @@
     },
     "VT": {
       "name": "Vermont",
-      "seats": "3",
-      "totalVotes": "234561",
+      "electoral_votes": "3",
+      "total_votes": "234561",
       "results": [
         {
           "candidate": "Reagan, Ronald",
@@ -5977,8 +5977,8 @@
     },
     "VA": {
       "name": "Virginia",
-      "seats": "12",
-      "totalVotes": "2146635",
+      "electoral_votes": "12",
+      "total_votes": "2146635",
       "results": [
         {
           "candidate": "Reagan, Ronald",
@@ -5999,8 +5999,8 @@
     },
     "WA": {
       "name": "Washington",
-      "seats": "10",
-      "totalVotes": "1874910",
+      "electoral_votes": "10",
+      "total_votes": "1874910",
       "results": [
         {
           "candidate": "Reagan, Ronald",
@@ -6056,8 +6056,8 @@
     },
     "WV": {
       "name": "West Virginia",
-      "seats": "6",
-      "totalVotes": "735742",
+      "electoral_votes": "6",
+      "total_votes": "735742",
       "results": [
         {
           "candidate": "Reagan, Ronald",
@@ -6088,8 +6088,8 @@
     },
     "WI": {
       "name": "Wisconsin",
-      "seats": "11",
-      "totalVotes": "2211689",
+      "electoral_votes": "11",
+      "total_votes": "2211689",
       "results": [
         {
           "candidate": "Reagan, Ronald",
@@ -6150,8 +6150,8 @@
     },
     "WY": {
       "name": "Wyoming",
-      "seats": "3",
-      "totalVotes": "188968",
+      "electoral_votes": "3",
+      "total_votes": "188968",
       "results": [
         {
           "candidate": "Reagan, Ronald",
@@ -6174,8 +6174,8 @@
   "1988": {
     "AL": {
       "name": "Alabama",
-      "seats": "9",
-      "totalVotes": "1378476",
+      "electoral_votes": "9",
+      "total_votes": "1378476",
       "results": [
         {
           "candidate": "Bush, George H.W.",
@@ -6206,8 +6206,8 @@
     },
     "AK": {
       "name": "Alaska",
-      "seats": "3",
-      "totalVotes": "200116",
+      "electoral_votes": "3",
+      "total_votes": "200116",
       "results": [
         {
           "candidate": "Bush, George H.W.",
@@ -6243,8 +6243,8 @@
     },
     "AZ": {
       "name": "Arizona",
-      "seats": "7",
-      "totalVotes": "1171873",
+      "electoral_votes": "7",
+      "total_votes": "1171873",
       "results": [
         {
           "candidate": "Bush, George H.W.",
@@ -6275,8 +6275,8 @@
     },
     "AR": {
       "name": "Arkansas",
-      "seats": "6",
-      "totalVotes": "827738",
+      "electoral_votes": "6",
+      "total_votes": "827738",
       "results": [
         {
           "candidate": "Bush, George H.W.",
@@ -6312,8 +6312,8 @@
     },
     "CA": {
       "name": "California",
-      "seats": "47",
-      "totalVotes": "9887065",
+      "electoral_votes": "47",
+      "total_votes": "9887065",
       "results": [
         {
           "candidate": "Bush, George H.W.",
@@ -6344,8 +6344,8 @@
     },
     "CO": {
       "name": "Colorado",
-      "seats": "8",
-      "totalVotes": "1372394",
+      "electoral_votes": "8",
+      "total_votes": "1372394",
       "results": [
         {
           "candidate": "Bush, George H.W.",
@@ -6381,8 +6381,8 @@
     },
     "CT": {
       "name": "Connecticut",
-      "seats": "8",
-      "totalVotes": "1443394",
+      "electoral_votes": "8",
+      "total_votes": "1443394",
       "results": [
         {
           "candidate": "Bush, George H.W.",
@@ -6413,8 +6413,8 @@
     },
     "DE": {
       "name": "Delaware",
-      "seats": "3",
-      "totalVotes": "249891",
+      "electoral_votes": "3",
+      "total_votes": "249891",
       "results": [
         {
           "candidate": "Bush, George H.W.",
@@ -6440,8 +6440,8 @@
     },
     "DC": {
       "name": "District of Columbia",
-      "seats": "3",
-      "totalVotes": "192877",
+      "electoral_votes": "3",
+      "total_votes": "192877",
       "results": [
         {
           "candidate": "Dukakis, Michael",
@@ -6492,8 +6492,8 @@
     },
     "FL": {
       "name": "Florida",
-      "seats": "21",
-      "totalVotes": "4302313",
+      "electoral_votes": "21",
+      "total_votes": "4302313",
       "results": [
         {
           "candidate": "Bush, George H.W.",
@@ -6524,8 +6524,8 @@
     },
     "GA": {
       "name": "Georgia",
-      "seats": "12",
-      "totalVotes": "1809672",
+      "electoral_votes": "12",
+      "total_votes": "1809672",
       "results": [
         {
           "candidate": "Bush, George H.W.",
@@ -6556,8 +6556,8 @@
     },
     "HI": {
       "name": "Hawaii",
-      "seats": "4",
-      "totalVotes": "354461",
+      "electoral_votes": "4",
+      "total_votes": "354461",
       "results": [
         {
           "candidate": "Dukakis, Michael",
@@ -6588,8 +6588,8 @@
     },
     "ID": {
       "name": "Idaho",
-      "seats": "4",
-      "totalVotes": "408968",
+      "electoral_votes": "4",
+      "total_votes": "408968",
       "results": [
         {
           "candidate": "Bush, George H.W.",
@@ -6615,8 +6615,8 @@
     },
     "IL": {
       "name": "Illinois",
-      "seats": "24",
-      "totalVotes": "4559120",
+      "electoral_votes": "24",
+      "total_votes": "4559120",
       "results": [
         {
           "candidate": "Bush, George H.W.",
@@ -6647,8 +6647,8 @@
     },
     "IN": {
       "name": "Indiana",
-      "seats": "12",
-      "totalVotes": "2168621",
+      "electoral_votes": "12",
+      "total_votes": "2168621",
       "results": [
         {
           "candidate": "Bush, George H.W.",
@@ -6669,8 +6669,8 @@
     },
     "IA": {
       "name": "Iowa",
-      "seats": "8",
-      "totalVotes": "1225614",
+      "electoral_votes": "8",
+      "total_votes": "1225614",
       "results": [
         {
           "candidate": "Dukakis, Michael",
@@ -6726,8 +6726,8 @@
     },
     "KS": {
       "name": "Kansas",
-      "seats": "7",
-      "totalVotes": "993044",
+      "electoral_votes": "7",
+      "total_votes": "993044",
       "results": [
         {
           "candidate": "Bush, George H.W.",
@@ -6748,8 +6748,8 @@
     },
     "KY": {
       "name": "Kentucky",
-      "seats": "9",
-      "totalVotes": "1322517",
+      "electoral_votes": "9",
+      "total_votes": "1322517",
       "results": [
         {
           "candidate": "Bush, George H.W.",
@@ -6780,8 +6780,8 @@
     },
     "LA": {
       "name": "Louisiana",
-      "seats": "10",
-      "totalVotes": "1628202",
+      "electoral_votes": "10",
+      "total_votes": "1628202",
       "results": [
         {
           "candidate": "Bush, George H.W.",
@@ -6817,8 +6817,8 @@
     },
     "ME": {
       "name": "Maine",
-      "seats": "4",
-      "totalVotes": "555035",
+      "electoral_votes": "4",
+      "total_votes": "555035",
       "results": [
         {
           "candidate": "Bush, George H.W.",
@@ -6849,8 +6849,8 @@
     },
     "MD": {
       "name": "Maryland",
-      "seats": "10",
-      "totalVotes": "1714358",
+      "electoral_votes": "10",
+      "total_votes": "1714358",
       "results": [
         {
           "candidate": "Bush, George H.W.",
@@ -6881,8 +6881,8 @@
     },
     "MA": {
       "name": "Massachusetts",
-      "seats": "13",
-      "totalVotes": "2632801",
+      "electoral_votes": "13",
+      "total_votes": "2632801",
       "results": [
         {
           "candidate": "Dukakis, Michael",
@@ -6913,8 +6913,8 @@
     },
     "MI": {
       "name": "Michigan",
-      "seats": "20",
-      "totalVotes": "3669163",
+      "electoral_votes": "20",
+      "total_votes": "3669163",
       "results": [
         {
           "candidate": "Bush, George H.W.",
@@ -6945,8 +6945,8 @@
     },
     "MN": {
       "name": "Minnesota",
-      "seats": "10",
-      "totalVotes": "2096790",
+      "electoral_votes": "10",
+      "total_votes": "2096790",
       "results": [
         {
           "candidate": "Dukakis, Michael",
@@ -7012,8 +7012,8 @@
     },
     "MS": {
       "name": "Mississippi",
-      "seats": "7",
-      "totalVotes": "931527",
+      "electoral_votes": "7",
+      "total_votes": "931527",
       "results": [
         {
           "candidate": "Bush, George H.W.",
@@ -7039,8 +7039,8 @@
     },
     "MO": {
       "name": "Missouri",
-      "seats": "11",
-      "totalVotes": "2093228",
+      "electoral_votes": "11",
+      "total_votes": "2093228",
       "results": [
         {
           "candidate": "Bush, George H.W.",
@@ -7061,8 +7061,8 @@
     },
     "MT": {
       "name": "Montana",
-      "seats": "4",
-      "totalVotes": "365674",
+      "electoral_votes": "4",
+      "total_votes": "365674",
       "results": [
         {
           "candidate": "Bush, George H.W.",
@@ -7088,8 +7088,8 @@
     },
     "NE": {
       "name": "Nebraska",
-      "seats": "5",
-      "totalVotes": "661465",
+      "electoral_votes": "5",
+      "total_votes": "661465",
       "results": [
         {
           "candidate": "Bush, George H.W.",
@@ -7115,8 +7115,8 @@
     },
     "NV": {
       "name": "Nevada",
-      "seats": "4",
-      "totalVotes": "343133",
+      "electoral_votes": "4",
+      "total_votes": "343133",
       "results": [
         {
           "candidate": "Bush, George H.W.",
@@ -7142,8 +7142,8 @@
     },
     "NH": {
       "name": "New Hampshire",
-      "seats": "4",
-      "totalVotes": "450525",
+      "electoral_votes": "4",
+      "total_votes": "450525",
       "results": [
         {
           "candidate": "Bush, George H.W.",
@@ -7169,8 +7169,8 @@
     },
     "NJ": {
       "name": "New Jersey",
-      "seats": "16",
-      "totalVotes": "3099553",
+      "electoral_votes": "16",
+      "total_votes": "3099553",
       "results": [
         {
           "candidate": "Bush, George H.W.",
@@ -7231,8 +7231,8 @@
     },
     "NM": {
       "name": "New Mexico",
-      "seats": "5",
-      "totalVotes": "521387",
+      "electoral_votes": "5",
+      "total_votes": "521387",
       "results": [
         {
           "candidate": "Bush, George H.W.",
@@ -7278,8 +7278,8 @@
     },
     "NY": {
       "name": "New York",
-      "seats": "36",
-      "totalVotes": "6485683",
+      "electoral_votes": "36",
+      "total_votes": "6485683",
       "results": [
         {
           "candidate": "Dukakis, Michael",
@@ -7335,8 +7335,8 @@
     },
     "NC": {
       "name": "North Carolina",
-      "seats": "13",
-      "totalVotes": "2134370",
+      "electoral_votes": "13",
+      "total_votes": "2134370",
       "results": [
         {
           "candidate": "Bush, George H.W.",
@@ -7362,8 +7362,8 @@
     },
     "ND": {
       "name": "North Dakota",
-      "seats": "3",
-      "totalVotes": "297261",
+      "electoral_votes": "3",
+      "total_votes": "297261",
       "results": [
         {
           "candidate": "Bush, George H.W.",
@@ -7399,8 +7399,8 @@
     },
     "OH": {
       "name": "Ohio",
-      "seats": "23",
-      "totalVotes": "4393585",
+      "electoral_votes": "23",
+      "total_votes": "4393585",
       "results": [
         {
           "candidate": "Bush, George H.W.",
@@ -7441,8 +7441,8 @@
     },
     "OK": {
       "name": "Oklahoma",
-      "seats": "8",
-      "totalVotes": "1171036",
+      "electoral_votes": "8",
+      "total_votes": "1171036",
       "results": [
         {
           "candidate": "Bush, George H.W.",
@@ -7468,8 +7468,8 @@
     },
     "OR": {
       "name": "Oregon",
-      "seats": "7",
-      "totalVotes": "1201694",
+      "electoral_votes": "7",
+      "total_votes": "1201694",
       "results": [
         {
           "candidate": "Dukakis, Michael",
@@ -7500,8 +7500,8 @@
     },
     "PA": {
       "name": "Pennsylvania",
-      "seats": "25",
-      "totalVotes": "4536251",
+      "electoral_votes": "25",
+      "total_votes": "4536251",
       "results": [
         {
           "candidate": "Bush, George H.W.",
@@ -7542,8 +7542,8 @@
     },
     "RI": {
       "name": "Rhode Island",
-      "seats": "4",
-      "totalVotes": "404622",
+      "electoral_votes": "4",
+      "total_votes": "404622",
       "results": [
         {
           "candidate": "Dukakis, Michael",
@@ -7594,8 +7594,8 @@
     },
     "SC": {
       "name": "South Carolina",
-      "seats": "8",
-      "totalVotes": "986009",
+      "electoral_votes": "8",
+      "total_votes": "986009",
       "results": [
         {
           "candidate": "Bush, George H.W.",
@@ -7621,8 +7621,8 @@
     },
     "SD": {
       "name": "South Dakota",
-      "seats": "3",
-      "totalVotes": "312991",
+      "electoral_votes": "3",
+      "total_votes": "312991",
       "results": [
         {
           "candidate": "Bush, George H.W.",
@@ -7643,8 +7643,8 @@
     },
     "TN": {
       "name": "Tennessee",
-      "seats": "11",
-      "totalVotes": "1636250",
+      "electoral_votes": "11",
+      "total_votes": "1636250",
       "results": [
         {
           "candidate": "Bush, George H.W.",
@@ -7670,8 +7670,8 @@
     },
     "TX": {
       "name": "Texas",
-      "seats": "29",
-      "totalVotes": "5427410",
+      "electoral_votes": "29",
+      "total_votes": "5427410",
       "results": [
         {
           "candidate": "Bush, George H.W.",
@@ -7702,8 +7702,8 @@
     },
     "UT": {
       "name": "Utah",
-      "seats": "5",
-      "totalVotes": "647008",
+      "electoral_votes": "5",
+      "total_votes": "647008",
       "results": [
         {
           "candidate": "Bush, George H.W.",
@@ -7754,8 +7754,8 @@
     },
     "VT": {
       "name": "Vermont",
-      "seats": "3",
-      "totalVotes": "243328",
+      "electoral_votes": "3",
+      "total_votes": "243328",
       "results": [
         {
           "candidate": "Bush, George H.W.",
@@ -7811,8 +7811,8 @@
     },
     "VA": {
       "name": "Virginia",
-      "seats": "12",
-      "totalVotes": "2191609",
+      "electoral_votes": "12",
+      "total_votes": "2191609",
       "results": [
         {
           "candidate": "Bush, George H.W.",
@@ -7838,8 +7838,8 @@
     },
     "WA": {
       "name": "Washington",
-      "seats": "10",
-      "totalVotes": "1865253",
+      "electoral_votes": "10",
+      "total_votes": "1865253",
       "results": [
         {
           "candidate": "Dukakis, Michael",
@@ -7880,8 +7880,8 @@
     },
     "WV": {
       "name": "West Virginia",
-      "seats": "6",
-      "totalVotes": "653311",
+      "electoral_votes": "6",
+      "total_votes": "653311",
       "results": [
         {
           "candidate": "Dukakis, Michael",
@@ -7902,8 +7902,8 @@
     },
     "WI": {
       "name": "Wisconsin",
-      "seats": "11",
-      "totalVotes": "2191608",
+      "electoral_votes": "11",
+      "total_votes": "2191608",
       "results": [
         {
           "candidate": "Dukakis, Michael",
@@ -7929,8 +7929,8 @@
     },
     "WY": {
       "name": "Wyoming",
-      "seats": "3",
-      "totalVotes": "176551",
+      "electoral_votes": "3",
+      "total_votes": "176551",
       "results": [
         {
           "candidate": "Bush, George H.W.",
@@ -7958,8 +7958,8 @@
   "1992": {
     "AL": {
       "name": "Alabama",
-      "seats": "9",
-      "totalVotes": "1688060",
+      "electoral_votes": "9",
+      "total_votes": "1688060",
       "results": [
         {
           "candidate": "Bush, George H.W.",
@@ -7995,8 +7995,8 @@
     },
     "AK": {
       "name": "Alaska",
-      "seats": "3",
-      "totalVotes": "258506",
+      "electoral_votes": "3",
+      "total_votes": "258506",
       "results": [
         {
           "candidate": "Bush, George H.W.",
@@ -8052,8 +8052,8 @@
     },
     "AZ": {
       "name": "Arizona",
-      "seats": "8",
-      "totalVotes": "1486975",
+      "electoral_votes": "8",
+      "total_votes": "1486975",
       "results": [
         {
           "candidate": "Bush, George H.W.",
@@ -8099,8 +8099,8 @@
     },
     "AR": {
       "name": "Arkansas",
-      "seats": "6",
-      "totalVotes": "950653",
+      "electoral_votes": "6",
+      "total_votes": "950653",
       "results": [
         {
           "candidate": "Clinton, Bill",
@@ -8126,8 +8126,8 @@
     },
     "CA": {
       "name": "California",
-      "seats": "54",
-      "totalVotes": "11131721",
+      "electoral_votes": "54",
+      "total_votes": "11131721",
       "results": [
         {
           "candidate": "Clinton, Bill",
@@ -8168,8 +8168,8 @@
     },
     "CO": {
       "name": "Colorado",
-      "seats": "8",
-      "totalVotes": "1569180",
+      "electoral_votes": "8",
+      "total_votes": "1569180",
       "results": [
         {
           "candidate": "Clinton, Bill",
@@ -8220,8 +8220,8 @@
     },
     "CT": {
       "name": "Connecticut",
-      "seats": "8",
-      "totalVotes": "1616156",
+      "electoral_votes": "8",
+      "total_votes": "1616156",
       "results": [
         {
           "candidate": "Clinton, Bill",
@@ -8252,8 +8252,8 @@
     },
     "DE": {
       "name": "Delaware",
-      "seats": "3",
-      "totalVotes": "289620",
+      "electoral_votes": "3",
+      "total_votes": "289620",
       "results": [
         {
           "candidate": "Clinton, Bill",
@@ -8284,8 +8284,8 @@
     },
     "DC": {
       "name": "District of Columbia",
-      "seats": "3",
-      "totalVotes": "227572",
+      "electoral_votes": "3",
+      "total_votes": "227572",
       "results": [
         {
           "candidate": "Clinton, Bill",
@@ -8341,8 +8341,8 @@
     },
     "FL": {
       "name": "Florida",
-      "seats": "25",
-      "totalVotes": "5313392",
+      "electoral_votes": "25",
+      "total_votes": "5313392",
       "results": [
         {
           "candidate": "Bush, George H.W.",
@@ -8373,8 +8373,8 @@
     },
     "GA": {
       "name": "Georgia",
-      "seats": "13",
-      "totalVotes": "2321133",
+      "electoral_votes": "13",
+      "total_votes": "2321133",
       "results": [
         {
           "candidate": "Clinton, Bill",
@@ -8405,8 +8405,8 @@
     },
     "HI": {
       "name": "Hawaii",
-      "seats": "4",
-      "totalVotes": "372842",
+      "electoral_votes": "4",
+      "total_votes": "372842",
       "results": [
         {
           "candidate": "Clinton, Bill",
@@ -8447,8 +8447,8 @@
     },
     "ID": {
       "name": "Idaho",
-      "seats": "4",
-      "totalVotes": "482114",
+      "electoral_votes": "4",
+      "total_votes": "482114",
       "results": [
         {
           "candidate": "Bush, George H.W.",
@@ -8479,8 +8479,8 @@
     },
     "IL": {
       "name": "Illinois",
-      "seats": "22",
-      "totalVotes": "5050157",
+      "electoral_votes": "22",
+      "total_votes": "5050157",
       "results": [
         {
           "candidate": "Clinton, Bill",
@@ -8531,8 +8531,8 @@
     },
     "IN": {
       "name": "Indiana",
-      "seats": "12",
-      "totalVotes": "2305871",
+      "electoral_votes": "12",
+      "total_votes": "2305871",
       "results": [
         {
           "candidate": "Bush, George H.W.",
@@ -8568,8 +8568,8 @@
     },
     "IA": {
       "name": "Iowa",
-      "seats": "7",
-      "totalVotes": "1354607",
+      "electoral_votes": "7",
+      "total_votes": "1354607",
       "results": [
         {
           "candidate": "Clinton, Bill",
@@ -8645,8 +8645,8 @@
     },
     "KS": {
       "name": "Kansas",
-      "seats": "6",
-      "totalVotes": "1157236",
+      "electoral_votes": "6",
+      "total_votes": "1157236",
       "results": [
         {
           "candidate": "Bush, George H.W.",
@@ -8677,8 +8677,8 @@
     },
     "KY": {
       "name": "Kentucky",
-      "seats": "8",
-      "totalVotes": "1492900",
+      "electoral_votes": "8",
+      "total_votes": "1492900",
       "results": [
         {
           "candidate": "Clinton, Bill",
@@ -8724,8 +8724,8 @@
     },
     "LA": {
       "name": "Louisiana",
-      "seats": "9",
-      "totalVotes": "1790017",
+      "electoral_votes": "9",
+      "total_votes": "1790017",
       "results": [
         {
           "candidate": "Clinton, Bill",
@@ -8786,8 +8786,8 @@
     },
     "ME": {
       "name": "Maine",
-      "seats": "4",
-      "totalVotes": "679499",
+      "electoral_votes": "4",
+      "total_votes": "679499",
       "results": [
         {
           "candidate": "Clinton, Bill",
@@ -8828,8 +8828,8 @@
     },
     "MD": {
       "name": "Maryland",
-      "seats": "10",
-      "totalVotes": "1984580",
+      "electoral_votes": "10",
+      "total_votes": "1984580",
       "results": [
         {
           "candidate": "Clinton, Bill",
@@ -8860,8 +8860,8 @@
     },
     "MA": {
       "name": "Massachusetts",
-      "seats": "12",
-      "totalVotes": "2773664",
+      "electoral_votes": "12",
+      "total_votes": "2773664",
       "results": [
         {
           "candidate": "Clinton, Bill",
@@ -8922,8 +8922,8 @@
     },
     "MI": {
       "name": "Michigan",
-      "seats": "18",
-      "totalVotes": "4274673",
+      "electoral_votes": "18",
+      "total_votes": "4274673",
       "results": [
         {
           "candidate": "Clinton, Bill",
@@ -8969,8 +8969,8 @@
     },
     "MN": {
       "name": "Minnesota",
-      "seats": "10",
-      "totalVotes": "2347948",
+      "electoral_votes": "10",
+      "total_votes": "2347948",
       "results": [
         {
           "candidate": "Clinton, Bill",
@@ -9036,8 +9036,8 @@
     },
     "MS": {
       "name": "Mississippi",
-      "seats": "7",
-      "totalVotes": "981793",
+      "electoral_votes": "7",
+      "total_votes": "981793",
       "results": [
         {
           "candidate": "Bush, George H.W.",
@@ -9073,8 +9073,8 @@
     },
     "MO": {
       "name": "Missouri",
-      "seats": "11",
-      "totalVotes": "2391270",
+      "electoral_votes": "11",
+      "total_votes": "2391270",
       "results": [
         {
           "candidate": "Clinton, Bill",
@@ -9100,8 +9100,8 @@
     },
     "MT": {
       "name": "Montana",
-      "seats": "3",
-      "totalVotes": "410583",
+      "electoral_votes": "3",
+      "total_votes": "410583",
       "results": [
         {
           "candidate": "Clinton, Bill",
@@ -9132,8 +9132,8 @@
     },
     "NE": {
       "name": "Nebraska",
-      "seats": "5",
-      "totalVotes": "737546",
+      "electoral_votes": "5",
+      "total_votes": "737546",
       "results": [
         {
           "candidate": "Bush, George H.W.",
@@ -9164,8 +9164,8 @@
     },
     "NV": {
       "name": "Nevada",
-      "seats": "4",
-      "totalVotes": "506318",
+      "electoral_votes": "4",
+      "total_votes": "506318",
       "results": [
         {
           "candidate": "Clinton, Bill",
@@ -9216,8 +9216,8 @@
     },
     "NH": {
       "name": "New Hampshire",
-      "seats": "4",
-      "totalVotes": "537215",
+      "electoral_votes": "4",
+      "total_votes": "537215",
       "results": [
         {
           "candidate": "Clinton, Bill",
@@ -9253,8 +9253,8 @@
     },
     "NJ": {
       "name": "New Jersey",
-      "seats": "15",
-      "totalVotes": "3343594",
+      "electoral_votes": "15",
+      "total_votes": "3343594",
       "results": [
         {
           "candidate": "Clinton, Bill",
@@ -9325,8 +9325,8 @@
     },
     "NM": {
       "name": "New Mexico",
-      "seats": "5",
-      "totalVotes": "569986",
+      "electoral_votes": "5",
+      "total_votes": "569986",
       "results": [
         {
           "candidate": "Clinton, Bill",
@@ -9382,8 +9382,8 @@
     },
     "NY": {
       "name": "New York",
-      "seats": "33",
-      "totalVotes": "7079432",
+      "electoral_votes": "33",
+      "total_votes": "7079432",
       "results": [
         {
           "candidate": "Clinton, Bill",
@@ -9444,8 +9444,8 @@
     },
     "NC": {
       "name": "North Carolina",
-      "seats": "14",
-      "totalVotes": "2611850",
+      "electoral_votes": "14",
+      "total_votes": "2611850",
       "results": [
         {
           "candidate": "Bush, George H.W.",
@@ -9486,8 +9486,8 @@
     },
     "ND": {
       "name": "North Dakota",
-      "seats": "3",
-      "totalVotes": "308133",
+      "electoral_votes": "3",
+      "total_votes": "308133",
       "results": [
         {
           "candidate": "Bush, George H.W.",
@@ -9513,8 +9513,8 @@
     },
     "OH": {
       "name": "Ohio",
-      "seats": "21",
-      "totalVotes": "4939967",
+      "electoral_votes": "21",
+      "total_votes": "4939967",
       "results": [
         {
           "candidate": "Clinton, Bill",
@@ -9545,8 +9545,8 @@
     },
     "OK": {
       "name": "Oklahoma",
-      "seats": "8",
-      "totalVotes": "1390359",
+      "electoral_votes": "8",
+      "total_votes": "1390359",
       "results": [
         {
           "candidate": "Bush, George H.W.",
@@ -9572,8 +9572,8 @@
     },
     "OR": {
       "name": "Oregon",
-      "seats": "7",
-      "totalVotes": "1462643",
+      "electoral_votes": "7",
+      "total_votes": "1462643",
       "results": [
         {
           "candidate": "Clinton, Bill",
@@ -9614,8 +9614,8 @@
     },
     "PA": {
       "name": "Pennsylvania",
-      "seats": "23",
-      "totalVotes": "4959810",
+      "electoral_votes": "23",
+      "total_votes": "4959810",
       "results": [
         {
           "candidate": "Clinton, Bill",
@@ -9646,8 +9646,8 @@
     },
     "RI": {
       "name": "Rhode Island",
-      "seats": "4",
-      "totalVotes": "453365",
+      "electoral_votes": "4",
+      "total_votes": "453365",
       "results": [
         {
           "candidate": "Clinton, Bill",
@@ -9693,8 +9693,8 @@
     },
     "SC": {
       "name": "South Carolina",
-      "seats": "8",
-      "totalVotes": "1228912",
+      "electoral_votes": "8",
+      "total_votes": "1228912",
       "results": [
         {
           "candidate": "Bush, George H.W.",
@@ -9730,8 +9730,8 @@
     },
     "SD": {
       "name": "South Dakota",
-      "seats": "3",
-      "totalVotes": "336254",
+      "electoral_votes": "3",
+      "total_votes": "336254",
       "results": [
         {
           "candidate": "Bush, George H.W.",
@@ -9762,8 +9762,8 @@
     },
     "TN": {
       "name": "Tennessee",
-      "seats": "11",
-      "totalVotes": "1982638",
+      "electoral_votes": "11",
+      "total_votes": "1982638",
       "results": [
         {
           "candidate": "Clinton, Bill",
@@ -9794,8 +9794,8 @@
     },
     "TX": {
       "name": "Texas",
-      "seats": "32",
-      "totalVotes": "6154018",
+      "electoral_votes": "32",
+      "total_votes": "6154018",
       "results": [
         {
           "candidate": "Bush, George H.W.",
@@ -9826,8 +9826,8 @@
     },
     "UT": {
       "name": "Utah",
-      "seats": "5",
-      "totalVotes": "743998",
+      "electoral_votes": "5",
+      "total_votes": "743998",
       "results": [
         {
           "candidate": "Bush, George H.W.",
@@ -9898,8 +9898,8 @@
     },
     "VT": {
       "name": "Vermont",
-      "seats": "3",
-      "totalVotes": "289701",
+      "electoral_votes": "3",
+      "total_votes": "289701",
       "results": [
         {
           "candidate": "Clinton, Bill",
@@ -9960,8 +9960,8 @@
     },
     "VA": {
       "name": "Virginia",
-      "seats": "13",
-      "totalVotes": "2559129",
+      "electoral_votes": "13",
+      "total_votes": "2559129",
       "results": [
         {
           "candidate": "Bush, George H.W.",
@@ -9997,8 +9997,8 @@
     },
     "WA": {
       "name": "Washington",
-      "seats": "11",
-      "totalVotes": "2287565",
+      "electoral_votes": "11",
+      "total_votes": "2287565",
       "results": [
         {
           "candidate": "Clinton, Bill",
@@ -10054,8 +10054,8 @@
     },
     "WV": {
       "name": "West Virginia",
-      "seats": "5",
-      "totalVotes": "683677",
+      "electoral_votes": "5",
+      "total_votes": "683677",
       "results": [
         {
           "candidate": "Clinton, Bill",
@@ -10081,8 +10081,8 @@
     },
     "WI": {
       "name": "Wisconsin",
-      "seats": "11",
-      "totalVotes": "2531064",
+      "electoral_votes": "11",
+      "total_votes": "2531064",
       "results": [
         {
           "candidate": "Clinton, Bill",
@@ -10133,8 +10133,8 @@
     },
     "WY": {
       "name": "Wyoming",
-      "seats": "3",
-      "totalVotes": "199884",
+      "electoral_votes": "3",
+      "total_votes": "199884",
       "results": [
         {
           "candidate": "Bush, George H.W.",
@@ -10167,8 +10167,8 @@
   "1996": {
     "AL": {
       "name": "Alabama",
-      "seats": "9",
-      "totalVotes": "1534349",
+      "electoral_votes": "9",
+      "total_votes": "1534349",
       "results": [
         {
           "candidate": "Dole, Robert",
@@ -10204,8 +10204,8 @@
     },
     "AK": {
       "name": "Alaska",
-      "seats": "3",
-      "totalVotes": "241620",
+      "electoral_votes": "3",
+      "total_votes": "241620",
       "results": [
         {
           "candidate": "Dole, Robert",
@@ -10251,8 +10251,8 @@
     },
     "AZ": {
       "name": "Arizona",
-      "seats": "8",
-      "totalVotes": "1404405",
+      "electoral_votes": "8",
+      "total_votes": "1404405",
       "results": [
         {
           "candidate": "Clinton, Bill",
@@ -10288,8 +10288,8 @@
     },
     "AR": {
       "name": "Arkansas",
-      "seats": "6",
-      "totalVotes": "884262",
+      "electoral_votes": "6",
+      "total_votes": "884262",
       "results": [
         {
           "candidate": "Clinton, Bill",
@@ -10360,8 +10360,8 @@
     },
     "CA": {
       "name": "California",
-      "seats": "54",
-      "totalVotes": "10019469",
+      "electoral_votes": "54",
+      "total_votes": "10019469",
       "results": [
         {
           "candidate": "Clinton, Bill",
@@ -10412,8 +10412,8 @@
     },
     "CO": {
       "name": "Colorado",
-      "seats": "8",
-      "totalVotes": "1510702",
+      "electoral_votes": "8",
+      "total_votes": "1510702",
       "results": [
         {
           "candidate": "Dole, Robert",
@@ -10484,8 +10484,8 @@
     },
     "CT": {
       "name": "Connecticut",
-      "seats": "8",
-      "totalVotes": "1392614",
+      "electoral_votes": "8",
+      "total_votes": "1392614",
       "results": [
         {
           "candidate": "Clinton, Bill",
@@ -10531,8 +10531,8 @@
     },
     "DE": {
       "name": "Delaware",
-      "seats": "3",
-      "totalVotes": "270810",
+      "electoral_votes": "3",
+      "total_votes": "270810",
       "results": [
         {
           "candidate": "Clinton, Bill",
@@ -10568,8 +10568,8 @@
     },
     "DC": {
       "name": "District of Columbia",
-      "seats": "3",
-      "totalVotes": "185726",
+      "electoral_votes": "3",
+      "total_votes": "185726",
       "results": [
         {
           "candidate": "Clinton, Bill",
@@ -10615,8 +10615,8 @@
     },
     "FL": {
       "name": "Florida",
-      "seats": "25",
-      "totalVotes": "5303154",
+      "electoral_votes": "25",
+      "total_votes": "5303154",
       "results": [
         {
           "candidate": "Clinton, Bill",
@@ -10647,8 +10647,8 @@
     },
     "GA": {
       "name": "Georgia",
-      "seats": "13",
-      "totalVotes": "2298899",
+      "electoral_votes": "13",
+      "total_votes": "2298899",
       "results": [
         {
           "candidate": "Dole, Robert",
@@ -10674,8 +10674,8 @@
     },
     "HI": {
       "name": "Hawaii",
-      "seats": "4",
-      "totalVotes": "360120",
+      "electoral_votes": "4",
+      "total_votes": "360120",
       "results": [
         {
           "candidate": "Clinton, Bill",
@@ -10716,8 +10716,8 @@
     },
     "ID": {
       "name": "Idaho",
-      "seats": "4",
-      "totalVotes": "491711",
+      "electoral_votes": "4",
+      "total_votes": "491711",
       "results": [
         {
           "candidate": "Dole, Robert",
@@ -10753,8 +10753,8 @@
     },
     "IL": {
       "name": "Illinois",
-      "seats": "22",
-      "totalVotes": "4311391",
+      "electoral_votes": "22",
+      "total_votes": "4311391",
       "results": [
         {
           "candidate": "Clinton, Bill",
@@ -10795,8 +10795,8 @@
     },
     "IN": {
       "name": "Indiana",
-      "seats": "12",
-      "totalVotes": "2135431",
+      "electoral_votes": "12",
+      "total_votes": "2135431",
       "results": [
         {
           "candidate": "Dole, Robert",
@@ -10827,8 +10827,8 @@
     },
     "IA": {
       "name": "Iowa",
-      "seats": "7",
-      "totalVotes": "1234075",
+      "electoral_votes": "7",
+      "total_votes": "1234075",
       "results": [
         {
           "candidate": "Clinton, Bill",
@@ -10879,8 +10879,8 @@
     },
     "KS": {
       "name": "Kansas",
-      "seats": "6",
-      "totalVotes": "1074300",
+      "electoral_votes": "6",
+      "total_votes": "1074300",
       "results": [
         {
           "candidate": "Dole, Robert",
@@ -10916,8 +10916,8 @@
     },
     "KY": {
       "name": "Kentucky",
-      "seats": "8",
-      "totalVotes": "1388708",
+      "electoral_votes": "8",
+      "total_votes": "1388708",
       "results": [
         {
           "candidate": "Clinton, Bill",
@@ -10958,8 +10958,8 @@
     },
     "LA": {
       "name": "Louisiana",
-      "seats": "9",
-      "totalVotes": "1783959",
+      "electoral_votes": "9",
+      "total_votes": "1783959",
       "results": [
         {
           "candidate": "Clinton, Bill",
@@ -11005,8 +11005,8 @@
     },
     "ME": {
       "name": "Maine",
-      "seats": "4",
-      "totalVotes": "605897",
+      "electoral_votes": "4",
+      "total_votes": "605897",
       "results": [
         {
           "candidate": "Clinton, Bill",
@@ -11052,8 +11052,8 @@
     },
     "MD": {
       "name": "Maryland",
-      "seats": "10",
-      "totalVotes": "1780870",
+      "electoral_votes": "10",
+      "total_votes": "1780870",
       "results": [
         {
           "candidate": "Clinton, Bill",
@@ -11094,8 +11094,8 @@
     },
     "MA": {
       "name": "Massachusetts",
-      "seats": "12",
-      "totalVotes": "2556459",
+      "electoral_votes": "12",
+      "total_votes": "2556459",
       "results": [
         {
           "candidate": "Clinton, Bill",
@@ -11141,8 +11141,8 @@
     },
     "MI": {
       "name": "Michigan",
-      "seats": "18",
-      "totalVotes": "3848844",
+      "electoral_votes": "18",
+      "total_votes": "3848844",
       "results": [
         {
           "candidate": "Clinton, Bill",
@@ -11188,8 +11188,8 @@
     },
     "MN": {
       "name": "Minnesota",
-      "seats": "10",
-      "totalVotes": "2192492",
+      "electoral_votes": "10",
+      "total_votes": "2192492",
       "results": [
         {
           "candidate": "Clinton, Bill",
@@ -11255,8 +11255,8 @@
     },
     "MS": {
       "name": "Mississippi",
-      "seats": "7",
-      "totalVotes": "893857",
+      "electoral_votes": "7",
+      "total_votes": "893857",
       "results": [
         {
           "candidate": "Dole, Robert",
@@ -11292,8 +11292,8 @@
     },
     "MO": {
       "name": "Missouri",
-      "seats": "11",
-      "totalVotes": "2158065",
+      "electoral_votes": "11",
+      "total_votes": "2158065",
       "results": [
         {
           "candidate": "Clinton, Bill",
@@ -11334,8 +11334,8 @@
     },
     "MT": {
       "name": "Montana",
-      "seats": "3",
-      "totalVotes": "407083",
+      "electoral_votes": "3",
+      "total_votes": "407083",
       "results": [
         {
           "candidate": "Dole, Robert",
@@ -11366,8 +11366,8 @@
     },
     "NE": {
       "name": "Nebraska",
-      "seats": "5",
-      "totalVotes": "677415",
+      "electoral_votes": "5",
+      "total_votes": "677415",
       "results": [
         {
           "candidate": "Dole, Robert",
@@ -11403,8 +11403,8 @@
     },
     "NV": {
       "name": "Nevada",
-      "seats": "4",
-      "totalVotes": "464279",
+      "electoral_votes": "4",
+      "total_votes": "464279",
       "results": [
         {
           "candidate": "Clinton, Bill",
@@ -11450,8 +11450,8 @@
     },
     "NH": {
       "name": "New Hampshire",
-      "seats": "4",
-      "totalVotes": "496597",
+      "electoral_votes": "4",
+      "total_votes": "496597",
       "results": [
         {
           "candidate": "Clinton, Bill",
@@ -11482,8 +11482,8 @@
     },
     "NJ": {
       "name": "New Jersey",
-      "seats": "15",
-      "totalVotes": "3075860",
+      "electoral_votes": "15",
+      "total_votes": "3075860",
       "results": [
         {
           "candidate": "Clinton, Bill",
@@ -11504,8 +11504,8 @@
     },
     "NM": {
       "name": "New Mexico",
-      "seats": "5",
-      "totalVotes": "556074",
+      "electoral_votes": "5",
+      "total_votes": "556074",
       "results": [
         {
           "candidate": "Clinton, Bill",
@@ -11546,8 +11546,8 @@
     },
     "NY": {
       "name": "New York",
-      "seats": "33",
-      "totalVotes": "6439129",
+      "electoral_votes": "33",
+      "total_votes": "6439129",
       "results": [
         {
           "candidate": "Clinton, Bill",
@@ -11618,8 +11618,8 @@
     },
     "NC": {
       "name": "North Carolina",
-      "seats": "14",
-      "totalVotes": "2515807",
+      "electoral_votes": "14",
+      "total_votes": "2515807",
       "results": [
         {
           "candidate": "Dole, Robert",
@@ -11655,8 +11655,8 @@
     },
     "ND": {
       "name": "North Dakota",
-      "seats": "3",
-      "totalVotes": "266411",
+      "electoral_votes": "3",
+      "total_votes": "266411",
       "results": [
         {
           "candidate": "Dole, Robert",
@@ -11692,8 +11692,8 @@
     },
     "OH": {
       "name": "Ohio",
-      "seats": "21",
-      "totalVotes": "4534434",
+      "electoral_votes": "21",
+      "total_votes": "4534434",
       "results": [
         {
           "candidate": "Clinton, Bill",
@@ -11744,8 +11744,8 @@
     },
     "OK": {
       "name": "Oklahoma",
-      "seats": "8",
-      "totalVotes": "1206713",
+      "electoral_votes": "8",
+      "total_votes": "1206713",
       "results": [
         {
           "candidate": "Dole, Robert",
@@ -11771,8 +11771,8 @@
     },
     "OR": {
       "name": "Oregon",
-      "seats": "7",
-      "totalVotes": "1377760",
+      "electoral_votes": "7",
+      "total_votes": "1377760",
       "results": [
         {
           "candidate": "Clinton, Bill",
@@ -11823,8 +11823,8 @@
     },
     "PA": {
       "name": "Pennsylvania",
-      "seats": "23",
-      "totalVotes": "4501307",
+      "electoral_votes": "23",
+      "total_votes": "4501307",
       "results": [
         {
           "candidate": "Clinton, Bill",
@@ -11860,8 +11860,8 @@
     },
     "RI": {
       "name": "Rhode Island",
-      "seats": "4",
-      "totalVotes": "390247",
+      "electoral_votes": "4",
+      "total_votes": "390247",
       "results": [
         {
           "candidate": "Clinton, Bill",
@@ -11907,8 +11907,8 @@
     },
     "SC": {
       "name": "South Carolina",
-      "seats": "8",
-      "totalVotes": "1150182",
+      "electoral_votes": "8",
+      "total_votes": "1150182",
       "results": [
         {
           "candidate": "Dole, Robert",
@@ -11944,8 +11944,8 @@
     },
     "SD": {
       "name": "South Dakota",
-      "seats": "3",
-      "totalVotes": "323826",
+      "electoral_votes": "3",
+      "total_votes": "323826",
       "results": [
         {
           "candidate": "Dole, Robert",
@@ -11971,8 +11971,8 @@
     },
     "TN": {
       "name": "Tennessee",
-      "seats": "11",
-      "totalVotes": "1894105",
+      "electoral_votes": "11",
+      "total_votes": "1894105",
       "results": [
         {
           "candidate": "Clinton, Bill",
@@ -11998,8 +11998,8 @@
     },
     "TX": {
       "name": "Texas",
-      "seats": "32",
-      "totalVotes": "5611644",
+      "electoral_votes": "32",
+      "total_votes": "5611644",
       "results": [
         {
           "candidate": "Dole, Robert",
@@ -12040,8 +12040,8 @@
     },
     "UT": {
       "name": "Utah",
-      "seats": "5",
-      "totalVotes": "665629",
+      "electoral_votes": "5",
+      "total_votes": "665629",
       "results": [
         {
           "candidate": "Dole, Robert",
@@ -12112,8 +12112,8 @@
     },
     "VT": {
       "name": "Vermont",
-      "seats": "3",
-      "totalVotes": "258449",
+      "electoral_votes": "3",
+      "total_votes": "258449",
       "results": [
         {
           "candidate": "Clinton, Bill",
@@ -12174,8 +12174,8 @@
     },
     "VA": {
       "name": "Virginia",
-      "seats": "13",
-      "totalVotes": "2416642",
+      "electoral_votes": "13",
+      "total_votes": "2416642",
       "results": [
         {
           "candidate": "Dole, Robert",
@@ -12211,8 +12211,8 @@
     },
     "WA": {
       "name": "Washington",
-      "seats": "11",
-      "totalVotes": "2253837",
+      "electoral_votes": "11",
+      "total_votes": "2253837",
       "results": [
         {
           "candidate": "Clinton, Bill",
@@ -12263,8 +12263,8 @@
     },
     "WV": {
       "name": "West Virginia",
-      "seats": "5",
-      "totalVotes": "636459",
+      "electoral_votes": "5",
+      "total_votes": "636459",
       "results": [
         {
           "candidate": "Clinton, Bill",
@@ -12290,8 +12290,8 @@
     },
     "WI": {
       "name": "Wisconsin",
-      "seats": "11",
-      "totalVotes": "2196169",
+      "electoral_votes": "11",
+      "total_votes": "2196169",
       "results": [
         {
           "candidate": "Clinton, Bill",
@@ -12332,8 +12332,8 @@
     },
     "WY": {
       "name": "Wyoming",
-      "seats": "3",
-      "totalVotes": "211571",
+      "electoral_votes": "3",
+      "total_votes": "211571",
       "results": [
         {
           "candidate": "Dole, Robert",
@@ -12366,8 +12366,8 @@
   "2000": {
     "AL": {
       "name": "Alabama",
-      "seats": "9",
-      "totalVotes": "1666272",
+      "electoral_votes": "9",
+      "total_votes": "1666272",
       "results": [
         {
           "candidate": "Bush, George W.",
@@ -12398,8 +12398,8 @@
     },
     "AK": {
       "name": "Alaska",
-      "seats": "3",
-      "totalVotes": "285560",
+      "electoral_votes": "3",
+      "total_votes": "285560",
       "results": [
         {
           "candidate": "Bush, George W.",
@@ -12445,8 +12445,8 @@
     },
     "AZ": {
       "name": "Arizona",
-      "seats": "8",
-      "totalVotes": "1532016",
+      "electoral_votes": "8",
+      "total_votes": "1532016",
       "results": [
         {
           "candidate": "Bush, George W.",
@@ -12487,8 +12487,8 @@
     },
     "AR": {
       "name": "Arkansas",
-      "seats": "6",
-      "totalVotes": "921781",
+      "electoral_votes": "6",
+      "total_votes": "921781",
       "results": [
         {
           "candidate": "Bush, George W.",
@@ -12529,8 +12529,8 @@
     },
     "CA": {
       "name": "California",
-      "seats": "54",
-      "totalVotes": "10965822",
+      "electoral_votes": "54",
+      "total_votes": "10965822",
       "results": [
         {
           "candidate": "Gore, Al",
@@ -12571,8 +12571,8 @@
     },
     "CO": {
       "name": "Colorado",
-      "seats": "8",
-      "totalVotes": "1741368",
+      "electoral_votes": "8",
+      "total_votes": "1741368",
       "results": [
         {
           "candidate": "Bush, George W.",
@@ -12628,8 +12628,8 @@
     },
     "CT": {
       "name": "Connecticut",
-      "seats": "8",
-      "totalVotes": "1459525",
+      "electoral_votes": "8",
+      "total_votes": "1459525",
       "results": [
         {
           "candidate": "Gore, Al",
@@ -12670,8 +12670,8 @@
     },
     "DE": {
       "name": "Delaware",
-      "seats": "3",
-      "totalVotes": "327529",
+      "electoral_votes": "3",
+      "total_votes": "327529",
       "results": [
         {
           "candidate": "Gore, Al",
@@ -12712,8 +12712,8 @@
     },
     "DC": {
       "name": "District of Columbia",
-      "seats": "3",
-      "totalVotes": "201894",
+      "electoral_votes": "3",
+      "total_votes": "201894",
       "results": [
         {
           "candidate": "Gore, Al",
@@ -12749,8 +12749,8 @@
     },
     "FL": {
       "name": "Florida",
-      "seats": "25",
-      "totalVotes": "5963110",
+      "electoral_votes": "25",
+      "total_votes": "5963110",
       "results": [
         {
           "candidate": "Bush, George W.",
@@ -12811,8 +12811,8 @@
     },
     "GA": {
       "name": "Georgia",
-      "seats": "13",
-      "totalVotes": "2583208",
+      "electoral_votes": "13",
+      "total_votes": "2583208",
       "results": [
         {
           "candidate": "Bush, George W.",
@@ -12838,8 +12838,8 @@
     },
     "HI": {
       "name": "Hawaii",
-      "seats": "4",
-      "totalVotes": "367951",
+      "electoral_votes": "4",
+      "total_votes": "367951",
       "results": [
         {
           "candidate": "Gore, Al",
@@ -12880,8 +12880,8 @@
     },
     "ID": {
       "name": "Idaho",
-      "seats": "4",
-      "totalVotes": "501615",
+      "electoral_votes": "4",
+      "total_votes": "501615",
       "results": [
         {
           "candidate": "Bush, George W.",
@@ -12922,8 +12922,8 @@
     },
     "IL": {
       "name": "Illinois",
-      "seats": "22",
-      "totalVotes": "4742108",
+      "electoral_votes": "22",
+      "total_votes": "4742108",
       "results": [
         {
           "candidate": "Gore, Al",
@@ -12964,8 +12964,8 @@
     },
     "IN": {
       "name": "Indiana",
-      "seats": "12",
-      "totalVotes": "2199302",
+      "electoral_votes": "12",
+      "total_votes": "2199302",
       "results": [
         {
           "candidate": "Bush, George W.",
@@ -12996,8 +12996,8 @@
     },
     "IA": {
       "name": "Iowa",
-      "seats": "7",
-      "totalVotes": "1353022",
+      "electoral_votes": "7",
+      "total_votes": "1353022",
       "results": [
         {
           "candidate": "Gore, Al",
@@ -13058,8 +13058,8 @@
     },
     "KS": {
       "name": "Kansas",
-      "seats": "6",
-      "totalVotes": "1072216",
+      "electoral_votes": "6",
+      "total_votes": "1072216",
       "results": [
         {
           "candidate": "Bush, George W.",
@@ -13095,8 +13095,8 @@
     },
     "KY": {
       "name": "Kentucky",
-      "seats": "8",
-      "totalVotes": "1544106",
+      "electoral_votes": "8",
+      "total_votes": "1544106",
       "results": [
         {
           "candidate": "Bush, George W.",
@@ -13142,8 +13142,8 @@
     },
     "LA": {
       "name": "Louisiana",
-      "seats": "9",
-      "totalVotes": "1765656",
+      "electoral_votes": "9",
+      "total_votes": "1765656",
       "results": [
         {
           "candidate": "Bush, George W.",
@@ -13189,8 +13189,8 @@
     },
     "ME": {
       "name": "Maine",
-      "seats": "4",
-      "totalVotes": "651817",
+      "electoral_votes": "4",
+      "total_votes": "651817",
       "results": [
         {
           "candidate": "Gore, Al",
@@ -13231,8 +13231,8 @@
     },
     "MD": {
       "name": "Maryland",
-      "seats": "10",
-      "totalVotes": "2025212",
+      "electoral_votes": "10",
+      "total_votes": "2025212",
       "results": [
         {
           "candidate": "Gore, Al",
@@ -13278,8 +13278,8 @@
     },
     "MA": {
       "name": "Massachusetts",
-      "seats": "12",
-      "totalVotes": "2733964",
+      "electoral_votes": "12",
+      "total_votes": "2733964",
       "results": [
         {
           "candidate": "Gore, Al",
@@ -13325,8 +13325,8 @@
     },
     "MI": {
       "name": "Michigan",
-      "seats": "18",
-      "totalVotes": "4232501",
+      "electoral_votes": "18",
+      "total_votes": "4232501",
       "results": [
         {
           "candidate": "Gore, Al",
@@ -13367,8 +13367,8 @@
     },
     "MN": {
       "name": "Minnesota",
-      "seats": "10",
-      "totalVotes": "2438685",
+      "electoral_votes": "10",
+      "total_votes": "2438685",
       "results": [
         {
           "candidate": "Gore, Al",
@@ -13419,8 +13419,8 @@
     },
     "MS": {
       "name": "Mississippi",
-      "seats": "7",
-      "totalVotes": "994184",
+      "electoral_votes": "7",
+      "total_votes": "994184",
       "results": [
         {
           "candidate": "Bush, George W.",
@@ -13461,8 +13461,8 @@
     },
     "MO": {
       "name": "Missouri",
-      "seats": "11",
-      "totalVotes": "2359892",
+      "electoral_votes": "11",
+      "total_votes": "2359892",
       "results": [
         {
           "candidate": "Bush, George W.",
@@ -13503,8 +13503,8 @@
     },
     "MT": {
       "name": "Montana",
-      "seats": "3",
-      "totalVotes": "410986",
+      "electoral_votes": "3",
+      "total_votes": "410986",
       "results": [
         {
           "candidate": "Bush, George W.",
@@ -13545,8 +13545,8 @@
     },
     "NE": {
       "name": "Nebraska",
-      "seats": "5",
-      "totalVotes": "697019",
+      "electoral_votes": "5",
+      "total_votes": "697019",
       "results": [
         {
           "candidate": "Bush, George W.",
@@ -13582,8 +13582,8 @@
     },
     "NV": {
       "name": "Nevada",
-      "seats": "4",
-      "totalVotes": "609426",
+      "electoral_votes": "4",
+      "total_votes": "609426",
       "results": [
         {
           "candidate": "Bush, George W.",
@@ -13639,8 +13639,8 @@
     },
     "NH": {
       "name": "New Hampshire",
-      "seats": "4",
-      "totalVotes": "569081",
+      "electoral_votes": "4",
+      "total_votes": "569081",
       "results": [
         {
           "candidate": "Bush, George W.",
@@ -13681,8 +13681,8 @@
     },
     "NJ": {
       "name": "New Jersey",
-      "seats": "15",
-      "totalVotes": "3187226",
+      "electoral_votes": "15",
+      "total_votes": "3187226",
       "results": [
         {
           "candidate": "Gore, Al",
@@ -13703,8 +13703,8 @@
     },
     "NM": {
       "name": "New Mexico",
-      "seats": "5",
-      "totalVotes": "598605",
+      "electoral_votes": "5",
+      "total_votes": "598605",
       "results": [
         {
           "candidate": "Gore, Al",
@@ -13745,8 +13745,8 @@
     },
     "NY": {
       "name": "New York",
-      "seats": "33",
-      "totalVotes": "6960215",
+      "electoral_votes": "33",
+      "total_votes": "6960215",
       "results": [
         {
           "candidate": "Gore, Al",
@@ -13822,8 +13822,8 @@
     },
     "NC": {
       "name": "North Carolina",
-      "seats": "14",
-      "totalVotes": "2914990",
+      "electoral_votes": "14",
+      "total_votes": "2914990",
       "results": [
         {
           "candidate": "Bush, George W.",
@@ -13854,8 +13854,8 @@
     },
     "ND": {
       "name": "North Dakota",
-      "seats": "3",
-      "totalVotes": "288256",
+      "electoral_votes": "3",
+      "total_votes": "288256",
       "results": [
         {
           "candidate": "Bush, George W.",
@@ -13886,8 +13886,8 @@
     },
     "OH": {
       "name": "Ohio",
-      "seats": "21",
-      "totalVotes": "4701998",
+      "electoral_votes": "21",
+      "total_votes": "4701998",
       "results": [
         {
           "candidate": "Bush, George W.",
@@ -13918,8 +13918,8 @@
     },
     "OK": {
       "name": "Oklahoma",
-      "seats": "8",
-      "totalVotes": "1234229",
+      "electoral_votes": "8",
+      "total_votes": "1234229",
       "results": [
         {
           "candidate": "Bush, George W.",
@@ -13945,8 +13945,8 @@
     },
     "OR": {
       "name": "Oregon",
-      "seats": "7",
-      "totalVotes": "1533950",
+      "electoral_votes": "7",
+      "total_votes": "1533950",
       "results": [
         {
           "candidate": "Gore, Al",
@@ -13992,8 +13992,8 @@
     },
     "PA": {
       "name": "Pennsylvania",
-      "seats": "23",
-      "totalVotes": "4912185",
+      "electoral_votes": "23",
+      "total_votes": "4912185",
       "results": [
         {
           "candidate": "Gore, Al",
@@ -14029,8 +14029,8 @@
     },
     "RI": {
       "name": "Rhode Island",
-      "seats": "4",
-      "totalVotes": "409112",
+      "electoral_votes": "4",
+      "total_votes": "409112",
       "results": [
         {
           "candidate": "Gore, Al",
@@ -14091,8 +14091,8 @@
     },
     "SC": {
       "name": "South Carolina",
-      "seats": "8",
-      "totalVotes": "1383902",
+      "electoral_votes": "8",
+      "total_votes": "1383902",
       "results": [
         {
           "candidate": "Bush, George W.",
@@ -14133,8 +14133,8 @@
     },
     "SD": {
       "name": "South Dakota",
-      "seats": "3",
-      "totalVotes": "316269",
+      "electoral_votes": "3",
+      "total_votes": "316269",
       "results": [
         {
           "candidate": "Bush, George W.",
@@ -14165,8 +14165,8 @@
     },
     "TN": {
       "name": "Tennessee",
-      "seats": "11",
-      "totalVotes": "2076181",
+      "electoral_votes": "11",
+      "total_votes": "2076181",
       "results": [
         {
           "candidate": "Bush, George W.",
@@ -14192,8 +14192,8 @@
     },
     "TX": {
       "name": "Texas",
-      "seats": "32",
-      "totalVotes": "6407637",
+      "electoral_votes": "32",
+      "total_votes": "6407637",
       "results": [
         {
           "candidate": "Bush, George W.",
@@ -14229,8 +14229,8 @@
     },
     "UT": {
       "name": "Utah",
-      "seats": "5",
-      "totalVotes": "770754",
+      "electoral_votes": "5",
+      "total_votes": "770754",
       "results": [
         {
           "candidate": "Bush, George W.",
@@ -14286,8 +14286,8 @@
     },
     "VT": {
       "name": "Vermont",
-      "seats": "3",
-      "totalVotes": "294308",
+      "electoral_votes": "3",
+      "total_votes": "294308",
       "results": [
         {
           "candidate": "Gore, Al",
@@ -14348,8 +14348,8 @@
     },
     "VA": {
       "name": "Virginia",
-      "seats": "13",
-      "totalVotes": "2739447",
+      "electoral_votes": "13",
+      "total_votes": "2739447",
       "results": [
         {
           "candidate": "Bush, George W.",
@@ -14390,8 +14390,8 @@
     },
     "WA": {
       "name": "Washington",
-      "seats": "11",
-      "totalVotes": "2487433",
+      "electoral_votes": "11",
+      "total_votes": "2487433",
       "results": [
         {
           "candidate": "Gore, Al",
@@ -14447,8 +14447,8 @@
     },
     "WV": {
       "name": "West Virginia",
-      "seats": "5",
-      "totalVotes": "648124",
+      "electoral_votes": "5",
+      "total_votes": "648124",
       "results": [
         {
           "candidate": "Bush, George W.",
@@ -14489,8 +14489,8 @@
     },
     "WI": {
       "name": "Wisconsin",
-      "seats": "11",
-      "totalVotes": "2598607",
+      "electoral_votes": "11",
+      "total_votes": "2598607",
       "results": [
         {
           "candidate": "Gore, Al",
@@ -14531,8 +14531,8 @@
     },
     "WY": {
       "name": "Wyoming",
-      "seats": "3",
-      "totalVotes": "213726",
+      "electoral_votes": "3",
+      "total_votes": "213726",
       "results": [
         {
           "candidate": "Bush, George W.",
@@ -14570,8 +14570,8 @@
   "2004": {
     "AL": {
       "name": "Alabama",
-      "seats": "9",
-      "totalVotes": "1883415",
+      "electoral_votes": "9",
+      "total_votes": "1883415",
       "results": [
         {
           "candidate": "Bush, George W.",
@@ -14597,8 +14597,8 @@
     },
     "AK": {
       "name": "Alaska",
-      "seats": "3",
-      "totalVotes": "312598",
+      "electoral_votes": "3",
+      "total_votes": "312598",
       "results": [
         {
           "candidate": "Bush, George W.",
@@ -14639,8 +14639,8 @@
     },
     "AZ": {
       "name": "Arizona",
-      "seats": "10",
-      "totalVotes": "2012585",
+      "electoral_votes": "10",
+      "total_votes": "2012585",
       "results": [
         {
           "candidate": "Bush, George W.",
@@ -14666,8 +14666,8 @@
     },
     "AR": {
       "name": "Arkansas",
-      "seats": "6",
-      "totalVotes": "1054945",
+      "electoral_votes": "6",
+      "total_votes": "1054945",
       "results": [
         {
           "candidate": "Bush, George W.",
@@ -14703,8 +14703,8 @@
     },
     "CA": {
       "name": "California",
-      "seats": "55",
-      "totalVotes": "12421353",
+      "electoral_votes": "55",
+      "total_votes": "12421353",
       "results": [
         {
           "candidate": "Kerry, John",
@@ -14745,8 +14745,8 @@
     },
     "CO": {
       "name": "Colorado",
-      "seats": "9",
-      "totalVotes": "2129630",
+      "electoral_votes": "9",
+      "total_votes": "2129630",
       "results": [
         {
           "candidate": "Bush, George W.",
@@ -14812,8 +14812,8 @@
     },
     "CT": {
       "name": "Connecticut",
-      "seats": "7",
-      "totalVotes": "1578769",
+      "electoral_votes": "7",
+      "total_votes": "1578769",
       "results": [
         {
           "candidate": "Kerry, John",
@@ -14854,8 +14854,8 @@
     },
     "DE": {
       "name": "Delaware",
-      "seats": "3",
-      "totalVotes": "375190",
+      "electoral_votes": "3",
+      "total_votes": "375190",
       "results": [
         {
           "candidate": "Kerry, John",
@@ -14896,8 +14896,8 @@
     },
     "DC": {
       "name": "District of Columbia",
-      "seats": "3",
-      "totalVotes": "227586",
+      "electoral_votes": "3",
+      "total_votes": "227586",
       "results": [
         {
           "candidate": "Kerry, John",
@@ -14938,8 +14938,8 @@
     },
     "FL": {
       "name": "Florida",
-      "seats": "27",
-      "totalVotes": "7609810",
+      "electoral_votes": "27",
+      "total_votes": "7609810",
       "results": [
         {
           "candidate": "Bush, George W.",
@@ -14985,8 +14985,8 @@
     },
     "GA": {
       "name": "Georgia",
-      "seats": "15",
-      "totalVotes": "3301875",
+      "electoral_votes": "15",
+      "total_votes": "3301875",
       "results": [
         {
           "candidate": "Bush, George W.",
@@ -15012,8 +15012,8 @@
     },
     "HI": {
       "name": "Hawaii",
-      "seats": "4",
-      "totalVotes": "429013",
+      "electoral_votes": "4",
+      "total_votes": "429013",
       "results": [
         {
           "candidate": "Kerry, John",
@@ -15039,8 +15039,8 @@
     },
     "ID": {
       "name": "Idaho",
-      "seats": "4",
-      "totalVotes": "598376",
+      "electoral_votes": "4",
+      "total_votes": "598376",
       "results": [
         {
           "candidate": "Bush, George W.",
@@ -15071,8 +15071,8 @@
     },
     "IL": {
       "name": "Illinois",
-      "seats": "21",
-      "totalVotes": "5274322",
+      "electoral_votes": "21",
+      "total_votes": "5274322",
       "results": [
         {
           "candidate": "Kerry, John",
@@ -15098,8 +15098,8 @@
     },
     "IN": {
       "name": "Indiana",
-      "seats": "11",
-      "totalVotes": "2468002",
+      "electoral_votes": "11",
+      "total_votes": "2468002",
       "results": [
         {
           "candidate": "Bush, George W.",
@@ -15125,8 +15125,8 @@
     },
     "IA": {
       "name": "Iowa",
-      "seats": "7",
-      "totalVotes": "1506908",
+      "electoral_votes": "7",
+      "total_votes": "1506908",
       "results": [
         {
           "candidate": "Bush, George W.",
@@ -15172,8 +15172,8 @@
     },
     "KS": {
       "name": "Kansas",
-      "seats": "6",
-      "totalVotes": "1187756",
+      "electoral_votes": "6",
+      "total_votes": "1187756",
       "results": [
         {
           "candidate": "Bush, George W.",
@@ -15209,8 +15209,8 @@
     },
     "KY": {
       "name": "Kentucky",
-      "seats": "8",
-      "totalVotes": "1795882",
+      "electoral_votes": "8",
+      "total_votes": "1795882",
       "results": [
         {
           "candidate": "Bush, George W.",
@@ -15246,8 +15246,8 @@
     },
     "LA": {
       "name": "Louisiana",
-      "seats": "9",
-      "totalVotes": "1943106",
+      "electoral_votes": "9",
+      "total_votes": "1943106",
       "results": [
         {
           "candidate": "Bush, George W.",
@@ -15298,8 +15298,8 @@
     },
     "ME": {
       "name": "Maine",
-      "seats": "4",
-      "totalVotes": "740752",
+      "electoral_votes": "4",
+      "total_votes": "740752",
       "results": [
         {
           "candidate": "Kerry, John",
@@ -15340,8 +15340,8 @@
     },
     "MD": {
       "name": "Maryland",
-      "seats": "10",
-      "totalVotes": "2384238",
+      "electoral_votes": "10",
+      "total_votes": "2384238",
       "results": [
         {
           "candidate": "Kerry, John",
@@ -15387,8 +15387,8 @@
     },
     "MA": {
       "name": "Massachusetts",
-      "seats": "12",
-      "totalVotes": "2927455",
+      "electoral_votes": "12",
+      "total_votes": "2927455",
       "results": [
         {
           "candidate": "Kerry, John",
@@ -15429,8 +15429,8 @@
     },
     "MI": {
       "name": "Michigan",
-      "seats": "17",
-      "totalVotes": "4839252",
+      "electoral_votes": "17",
+      "total_votes": "4839252",
       "results": [
         {
           "candidate": "Kerry, John",
@@ -15471,8 +15471,8 @@
     },
     "MN": {
       "name": "Minnesota",
-      "seats": "10",
-      "totalVotes": "2828387",
+      "electoral_votes": "10",
+      "total_votes": "2828387",
       "results": [
         {
           "candidate": "Kerry, John",
@@ -15528,8 +15528,8 @@
     },
     "MS": {
       "name": "Mississippi",
-      "seats": "6",
-      "totalVotes": "1139824",
+      "electoral_votes": "6",
+      "total_votes": "1139824",
       "results": [
         {
           "candidate": "Bush, George W.",
@@ -15570,8 +15570,8 @@
     },
     "MO": {
       "name": "Missouri",
-      "seats": "11",
-      "totalVotes": "2731364",
+      "electoral_votes": "11",
+      "total_votes": "2731364",
       "results": [
         {
           "candidate": "Bush, George W.",
@@ -15602,8 +15602,8 @@
     },
     "MT": {
       "name": "Montana",
-      "seats": "3",
-      "totalVotes": "450434",
+      "electoral_votes": "3",
+      "total_votes": "450434",
       "results": [
         {
           "candidate": "Bush, George W.",
@@ -15639,8 +15639,8 @@
     },
     "NE": {
       "name": "Nebraska",
-      "seats": "5",
-      "totalVotes": "778186",
+      "electoral_votes": "5",
+      "total_votes": "778186",
       "results": [
         {
           "candidate": "Bush, George W.",
@@ -15681,8 +15681,8 @@
     },
     "NV": {
       "name": "Nevada",
-      "seats": "5",
-      "totalVotes": "829587",
+      "electoral_votes": "5",
+      "total_votes": "829587",
       "results": [
         {
           "candidate": "Bush, George W.",
@@ -15723,8 +15723,8 @@
     },
     "NH": {
       "name": "New Hampshire",
-      "seats": "4",
-      "totalVotes": "678287",
+      "electoral_votes": "4",
+      "total_votes": "678287",
       "results": [
         {
           "candidate": "Kerry, John",
@@ -15755,8 +15755,8 @@
     },
     "NJ": {
       "name": "New Jersey",
-      "seats": "15",
-      "totalVotes": "3611691",
+      "electoral_votes": "15",
+      "total_votes": "3611691",
       "results": [
         {
           "candidate": "Kerry, John",
@@ -15777,8 +15777,8 @@
     },
     "NM": {
       "name": "New Mexico",
-      "seats": "5",
-      "totalVotes": "756304",
+      "electoral_votes": "5",
+      "total_votes": "756304",
       "results": [
         {
           "candidate": "Bush, George W.",
@@ -15814,8 +15814,8 @@
     },
     "NY": {
       "name": "New York",
-      "seats": "31",
-      "totalVotes": "7448266",
+      "electoral_votes": "31",
+      "total_votes": "7448266",
       "results": [
         {
           "candidate": "Kerry, John",
@@ -15871,8 +15871,8 @@
     },
     "NC": {
       "name": "North Carolina",
-      "seats": "15",
-      "totalVotes": "3501007",
+      "electoral_votes": "15",
+      "total_votes": "3501007",
       "results": [
         {
           "candidate": "Bush, George W.",
@@ -15898,8 +15898,8 @@
     },
     "ND": {
       "name": "North Dakota",
-      "seats": "3",
-      "totalVotes": "312833",
+      "electoral_votes": "3",
+      "total_votes": "312833",
       "results": [
         {
           "candidate": "Bush, George W.",
@@ -15935,8 +15935,8 @@
     },
     "OH": {
       "name": "Ohio",
-      "seats": "20",
-      "totalVotes": "5627903",
+      "electoral_votes": "20",
+      "total_votes": "5627903",
       "results": [
         {
           "candidate": "Bush, George W.",
@@ -15962,8 +15962,8 @@
     },
     "OK": {
       "name": "Oklahoma",
-      "seats": "7",
-      "totalVotes": "1463758",
+      "electoral_votes": "7",
+      "total_votes": "1463758",
       "results": [
         {
           "candidate": "Bush, George W.",
@@ -15979,8 +15979,8 @@
     },
     "OR": {
       "name": "Oregon",
-      "seats": "7",
-      "totalVotes": "1836782",
+      "electoral_votes": "7",
+      "total_votes": "1836782",
       "results": [
         {
           "candidate": "Kerry, John",
@@ -16016,8 +16016,8 @@
     },
     "PA": {
       "name": "Pennsylvania",
-      "seats": "21",
-      "totalVotes": "5769590",
+      "electoral_votes": "21",
+      "total_votes": "5769590",
       "results": [
         {
           "candidate": "Kerry, John",
@@ -16058,8 +16058,8 @@
     },
     "RI": {
       "name": "Rhode Island",
-      "seats": "4",
-      "totalVotes": "437134",
+      "electoral_votes": "4",
+      "total_votes": "437134",
       "results": [
         {
           "candidate": "Kerry, John",
@@ -16105,8 +16105,8 @@
     },
     "SC": {
       "name": "South Carolina",
-      "seats": "8",
-      "totalVotes": "1617700",
+      "electoral_votes": "8",
+      "total_votes": "1617700",
       "results": [
         {
           "candidate": "Bush, George W.",
@@ -16147,8 +16147,8 @@
     },
     "SD": {
       "name": "South Dakota",
-      "seats": "3",
-      "totalVotes": "388215",
+      "electoral_votes": "3",
+      "total_votes": "388215",
       "results": [
         {
           "candidate": "Bush, George W.",
@@ -16179,8 +16179,8 @@
     },
     "TN": {
       "name": "Tennessee",
-      "seats": "11",
-      "totalVotes": "2437319",
+      "electoral_votes": "11",
+      "total_votes": "2437319",
       "results": [
         {
           "candidate": "Bush, George W.",
@@ -16206,8 +16206,8 @@
     },
     "TX": {
       "name": "Texas",
-      "seats": "34",
-      "totalVotes": "7410749",
+      "electoral_votes": "34",
+      "total_votes": "7410749",
       "results": [
         {
           "candidate": "Bush, George W.",
@@ -16233,8 +16233,8 @@
     },
     "UT": {
       "name": "Utah",
-      "seats": "5",
-      "totalVotes": "927844",
+      "electoral_votes": "5",
+      "total_votes": "927844",
       "results": [
         {
           "candidate": "Bush, George W.",
@@ -16280,8 +16280,8 @@
     },
     "VT": {
       "name": "Vermont",
-      "seats": "3",
-      "totalVotes": "312309",
+      "electoral_votes": "3",
+      "total_votes": "312309",
       "results": [
         {
           "candidate": "Kerry, John",
@@ -16322,8 +16322,8 @@
     },
     "VA": {
       "name": "Virginia",
-      "seats": "13",
-      "totalVotes": "3195415",
+      "electoral_votes": "13",
+      "total_votes": "3195415",
       "results": [
         {
           "candidate": "Bush, George W.",
@@ -16354,8 +16354,8 @@
     },
     "WA": {
       "name": "Washington",
-      "seats": "11",
-      "totalVotes": "2859084",
+      "electoral_votes": "11",
+      "total_votes": "2859084",
       "results": [
         {
           "candidate": "Kerry, John",
@@ -16406,8 +16406,8 @@
     },
     "WV": {
       "name": "West Virginia",
-      "seats": "5",
-      "totalVotes": "755792",
+      "electoral_votes": "5",
+      "total_votes": "755792",
       "results": [
         {
           "candidate": "Bush, George W.",
@@ -16438,8 +16438,8 @@
     },
     "WI": {
       "name": "Wisconsin",
-      "seats": "10",
-      "totalVotes": "2997007",
+      "electoral_votes": "10",
+      "total_votes": "2997007",
       "results": [
         {
           "candidate": "Kerry, John",
@@ -16475,8 +16475,8 @@
     },
     "WY": {
       "name": "Wyoming",
-      "seats": "3",
-      "totalVotes": "243861",
+      "electoral_votes": "3",
+      "total_votes": "243861",
       "results": [
         {
           "candidate": "Bush, George W.",
@@ -16514,8 +16514,8 @@
   "2008": {
     "AL": {
       "name": "Alabama",
-      "seats": "9",
-      "totalVotes": "2099819",
+      "electoral_votes": "9",
+      "total_votes": "2099819",
       "results": [
         {
           "candidate": "McCain, John",
@@ -16541,8 +16541,8 @@
     },
     "AK": {
       "name": "Alaska",
-      "seats": "3",
-      "totalVotes": "326197",
+      "electoral_votes": "3",
+      "total_votes": "326197",
       "results": [
         {
           "candidate": "McCain, John",
@@ -16578,8 +16578,8 @@
     },
     "AZ": {
       "name": "Arizona",
-      "seats": "10",
-      "totalVotes": "2293475",
+      "electoral_votes": "10",
+      "total_votes": "2293475",
       "results": [
         {
           "candidate": "McCain, John",
@@ -16615,8 +16615,8 @@
     },
     "AR": {
       "name": "Arkansas",
-      "seats": "6",
-      "totalVotes": "1086617",
+      "electoral_votes": "6",
+      "total_votes": "1086617",
       "results": [
         {
           "candidate": "McCain, John",
@@ -16657,8 +16657,8 @@
     },
     "CA": {
       "name": "California",
-      "seats": "55",
-      "totalVotes": "13561900",
+      "electoral_votes": "55",
+      "total_votes": "13561900",
       "results": [
         {
           "candidate": "Obama, Barack H.",
@@ -16699,8 +16699,8 @@
     },
     "CO": {
       "name": "Colorado",
-      "seats": "9",
-      "totalVotes": "2401361",
+      "electoral_votes": "9",
+      "total_votes": "2401361",
       "results": [
         {
           "candidate": "Obama, Barack H.",
@@ -16786,8 +16786,8 @@
     },
     "CT": {
       "name": "Connecticut",
-      "seats": "7",
-      "totalVotes": "1646792",
+      "electoral_votes": "7",
+      "total_votes": "1646792",
       "results": [
         {
           "candidate": "Obama, Barack H.",
@@ -16813,8 +16813,8 @@
     },
     "DE": {
       "name": "Delaware",
-      "seats": "3",
-      "totalVotes": "412412",
+      "electoral_votes": "3",
+      "total_votes": "412412",
       "results": [
         {
           "candidate": "Obama, Barack H.",
@@ -16855,8 +16855,8 @@
     },
     "DC": {
       "name": "District of Columbia",
-      "seats": "3",
-      "totalVotes": "265853",
+      "electoral_votes": "3",
+      "total_votes": "265853",
       "results": [
         {
           "candidate": "Obama, Barack H.",
@@ -16887,8 +16887,8 @@
     },
     "FL": {
       "name": "Florida",
-      "seats": "27",
-      "totalVotes": "8390744",
+      "electoral_votes": "27",
+      "total_votes": "8390744",
       "results": [
         {
           "candidate": "Obama, Barack H.",
@@ -16964,8 +16964,8 @@
     },
     "GA": {
       "name": "Georgia",
-      "seats": "15",
-      "totalVotes": "3924486",
+      "electoral_votes": "15",
+      "total_votes": "3924486",
       "results": [
         {
           "candidate": "McCain, John",
@@ -16996,8 +16996,8 @@
     },
     "HI": {
       "name": "Hawaii",
-      "seats": "4",
-      "totalVotes": "456064",
+      "electoral_votes": "4",
+      "total_votes": "456064",
       "results": [
         {
           "candidate": "Obama, Barack H.",
@@ -17043,8 +17043,8 @@
     },
     "ID": {
       "name": "Idaho",
-      "seats": "4",
-      "totalVotes": "655122",
+      "electoral_votes": "4",
+      "total_votes": "655122",
       "results": [
         {
           "candidate": "McCain, John",
@@ -17080,8 +17080,8 @@
     },
     "IL": {
       "name": "Illinois",
-      "seats": "21",
-      "totalVotes": "5522371",
+      "electoral_votes": "21",
+      "total_votes": "5522371",
       "results": [
         {
           "candidate": "Obama, Barack H.",
@@ -17127,8 +17127,8 @@
     },
     "IN": {
       "name": "Indiana",
-      "seats": "11",
-      "totalVotes": "2751054",
+      "electoral_votes": "11",
+      "total_votes": "2751054",
       "results": [
         {
           "candidate": "Obama, Barack H.",
@@ -17159,8 +17159,8 @@
     },
     "IA": {
       "name": "Iowa",
-      "seats": "7",
-      "totalVotes": "1537123",
+      "electoral_votes": "7",
+      "total_votes": "1537123",
       "results": [
         {
           "candidate": "Obama, Barack H.",
@@ -17216,8 +17216,8 @@
     },
     "KS": {
       "name": "Kansas",
-      "seats": "6",
-      "totalVotes": "1235872",
+      "electoral_votes": "6",
+      "total_votes": "1235872",
       "results": [
         {
           "candidate": "McCain, John",
@@ -17248,8 +17248,8 @@
     },
     "KY": {
       "name": "Kentucky",
-      "seats": "8",
-      "totalVotes": "1826620",
+      "electoral_votes": "8",
+      "total_votes": "1826620",
       "results": [
         {
           "candidate": "McCain, John",
@@ -17285,8 +17285,8 @@
     },
     "LA": {
       "name": "Louisiana",
-      "seats": "9",
-      "totalVotes": "1960761",
+      "electoral_votes": "9",
+      "total_votes": "1960761",
       "results": [
         {
           "candidate": "McCain, John",
@@ -17337,8 +17337,8 @@
     },
     "ME": {
       "name": "Maine",
-      "seats": "4",
-      "totalVotes": "731163",
+      "electoral_votes": "4",
+      "total_votes": "731163",
       "results": [
         {
           "candidate": "Obama, Barack H.",
@@ -17369,8 +17369,8 @@
     },
     "MD": {
       "name": "Maryland",
-      "seats": "10",
-      "totalVotes": "2631596",
+      "electoral_votes": "10",
+      "total_votes": "2631596",
       "results": [
         {
           "candidate": "Obama, Barack H.",
@@ -17411,8 +17411,8 @@
     },
     "MA": {
       "name": "Massachusetts",
-      "seats": "12",
-      "totalVotes": "3102995",
+      "electoral_votes": "12",
+      "total_votes": "3102995",
       "results": [
         {
           "candidate": "Obama, Barack H.",
@@ -17458,8 +17458,8 @@
     },
     "MI": {
       "name": "Michigan",
-      "seats": "17",
-      "totalVotes": "5001596",
+      "electoral_votes": "17",
+      "total_votes": "5001596",
       "results": [
         {
           "candidate": "Obama, Barack H.",
@@ -17495,8 +17495,8 @@
     },
     "MN": {
       "name": "Minnesota",
-      "seats": "10",
-      "totalVotes": "2910369",
+      "electoral_votes": "10",
+      "total_votes": "2910369",
       "results": [
         {
           "candidate": "Obama, Barack H.",
@@ -17542,8 +17542,8 @@
     },
     "MS": {
       "name": "Mississippi",
-      "seats": "6",
-      "totalVotes": "1289865",
+      "electoral_votes": "6",
+      "total_votes": "1289865",
       "results": [
         {
           "candidate": "McCain, John",
@@ -17584,8 +17584,8 @@
     },
     "MO": {
       "name": "Missouri",
-      "seats": "11",
-      "totalVotes": "2925205",
+      "electoral_votes": "11",
+      "total_votes": "2925205",
       "results": [
         {
           "candidate": "McCain, John",
@@ -17621,8 +17621,8 @@
     },
     "MT": {
       "name": "Montana",
-      "seats": "3",
-      "totalVotes": "490109",
+      "electoral_votes": "3",
+      "total_votes": "490109",
       "results": [
         {
           "candidate": "McCain, John",
@@ -17653,8 +17653,8 @@
     },
     "NE": {
       "name": "Nebraska",
-      "seats": "5",
-      "totalVotes": "801281",
+      "electoral_votes": "5",
+      "total_votes": "801281",
       "results": [
         {
           "candidate": "McCain, John",
@@ -17695,8 +17695,8 @@
     },
     "NV": {
       "name": "Nevada",
-      "seats": "5",
-      "totalVotes": "967848",
+      "electoral_votes": "5",
+      "total_votes": "967848",
       "results": [
         {
           "candidate": "Obama, Barack H.",
@@ -17737,8 +17737,8 @@
     },
     "NH": {
       "name": "New Hampshire",
-      "seats": "4",
-      "totalVotes": "710970",
+      "electoral_votes": "4",
+      "total_votes": "710970",
       "results": [
         {
           "candidate": "Obama, Barack H.",
@@ -17769,8 +17769,8 @@
     },
     "NJ": {
       "name": "New Jersey",
-      "seats": "15",
-      "totalVotes": "3868237",
+      "electoral_votes": "15",
+      "total_votes": "3868237",
       "results": [
         {
           "candidate": "Obama, Barack H.",
@@ -17826,8 +17826,8 @@
     },
     "NM": {
       "name": "New Mexico",
-      "seats": "5",
-      "totalVotes": "830158",
+      "electoral_votes": "5",
+      "total_votes": "830158",
       "results": [
         {
           "candidate": "Obama, Barack H.",
@@ -17863,8 +17863,8 @@
     },
     "NY": {
       "name": "New York",
-      "seats": "31",
-      "totalVotes": "7722019",
+      "electoral_votes": "31",
+      "total_votes": "7722019",
       "results": [
         {
           "candidate": "Obama, Barack H.",
@@ -17930,8 +17930,8 @@
     },
     "NC": {
       "name": "North Carolina",
-      "seats": "15",
-      "totalVotes": "4310851",
+      "electoral_votes": "15",
+      "total_votes": "4310851",
       "results": [
         {
           "candidate": "Obama, Barack H.",
@@ -17962,8 +17962,8 @@
     },
     "ND": {
       "name": "North Dakota",
-      "seats": "3",
-      "totalVotes": "316621",
+      "electoral_votes": "3",
+      "total_votes": "316621",
       "results": [
         {
           "candidate": "McCain, John",
@@ -17994,8 +17994,8 @@
     },
     "OH": {
       "name": "Ohio",
-      "seats": "20",
-      "totalVotes": "5708350",
+      "electoral_votes": "20",
+      "total_votes": "5708350",
       "results": [
         {
           "candidate": "Obama, Barack H.",
@@ -18041,8 +18041,8 @@
     },
     "OK": {
       "name": "Oklahoma",
-      "seats": "7",
-      "totalVotes": "1462661",
+      "electoral_votes": "7",
+      "total_votes": "1462661",
       "results": [
         {
           "candidate": "McCain, John",
@@ -18058,8 +18058,8 @@
     },
     "OR": {
       "name": "Oregon",
-      "seats": "7",
-      "totalVotes": "1827864",
+      "electoral_votes": "7",
+      "total_votes": "1827864",
       "results": [
         {
           "candidate": "Obama, Barack H.",
@@ -18100,8 +18100,8 @@
     },
     "PA": {
       "name": "Pennsylvania",
-      "seats": "21",
-      "totalVotes": "6013272",
+      "electoral_votes": "21",
+      "total_votes": "6013272",
       "results": [
         {
           "candidate": "Obama, Barack H.",
@@ -18137,8 +18137,8 @@
     },
     "RI": {
       "name": "Rhode Island",
-      "seats": "4",
-      "totalVotes": "471766",
+      "electoral_votes": "4",
+      "total_votes": "471766",
       "results": [
         {
           "candidate": "Obama, Barack H.",
@@ -18184,8 +18184,8 @@
     },
     "SC": {
       "name": "South Carolina",
-      "seats": "8",
-      "totalVotes": "1920969",
+      "electoral_votes": "8",
+      "total_votes": "1920969",
       "results": [
         {
           "candidate": "McCain, John",
@@ -18221,8 +18221,8 @@
     },
     "SD": {
       "name": "South Dakota",
-      "seats": "3",
-      "totalVotes": "381975",
+      "electoral_votes": "3",
+      "total_votes": "381975",
       "results": [
         {
           "candidate": "McCain, John",
@@ -18253,8 +18253,8 @@
     },
     "TN": {
       "name": "Tennessee",
-      "seats": "11",
-      "totalVotes": "2599749",
+      "electoral_votes": "11",
+      "total_votes": "2599749",
       "results": [
         {
           "candidate": "McCain, John",
@@ -18275,8 +18275,8 @@
     },
     "TX": {
       "name": "Texas",
-      "seats": "34",
-      "totalVotes": "8077795",
+      "electoral_votes": "34",
+      "total_votes": "8077795",
       "results": [
         {
           "candidate": "McCain, John",
@@ -18307,8 +18307,8 @@
     },
     "UT": {
       "name": "Utah",
-      "seats": "5",
-      "totalVotes": "952370",
+      "electoral_votes": "5",
+      "total_votes": "952370",
       "results": [
         {
           "candidate": "McCain, John",
@@ -18354,8 +18354,8 @@
     },
     "VT": {
       "name": "Vermont",
-      "seats": "3",
-      "totalVotes": "325046",
+      "electoral_votes": "3",
+      "total_votes": "325046",
       "results": [
         {
           "candidate": "Obama, Barack H.",
@@ -18406,8 +18406,8 @@
     },
     "VA": {
       "name": "Virginia",
-      "seats": "13",
-      "totalVotes": "3723260",
+      "electoral_votes": "13",
+      "total_votes": "3723260",
       "results": [
         {
           "candidate": "Obama, Barack H.",
@@ -18448,8 +18448,8 @@
     },
     "WA": {
       "name": "Washington",
-      "seats": "11",
-      "totalVotes": "3036878",
+      "electoral_votes": "11",
+      "total_votes": "3036878",
       "results": [
         {
           "candidate": "Obama, Barack H.",
@@ -18495,8 +18495,8 @@
     },
     "WV": {
       "name": "West Virginia",
-      "seats": "5",
-      "totalVotes": "713451",
+      "electoral_votes": "5",
+      "total_votes": "713451",
       "results": [
         {
           "candidate": "McCain, John",
@@ -18532,8 +18532,8 @@
     },
     "WI": {
       "name": "Wisconsin",
-      "seats": "10",
-      "totalVotes": "2983417",
+      "electoral_votes": "10",
+      "total_votes": "2983417",
       "results": [
         {
           "candidate": "Obama, Barack H.",
@@ -18589,8 +18589,8 @@
     },
     "WY": {
       "name": "Wyoming",
-      "seats": "3",
-      "totalVotes": "254904",
+      "electoral_votes": "3",
+      "total_votes": "254904",
       "results": [
         {
           "candidate": "McCain, John",
@@ -18628,8 +18628,8 @@
   "2012": {
     "AL": {
       "name": "Alabama",
-      "seats": "9",
-      "totalVotes": "2074338",
+      "electoral_votes": "9",
+      "total_votes": "2074338",
       "results": [
         {
           "candidate": "Romney, Mitt",
@@ -18655,8 +18655,8 @@
     },
     "AK": {
       "name": "Alaska",
-      "seats": "3",
-      "totalVotes": "300495",
+      "electoral_votes": "3",
+      "total_votes": "300495",
       "results": [
         {
           "candidate": "Romney, Mitt",
@@ -18687,8 +18687,8 @@
     },
     "AZ": {
       "name": "Arizona",
-      "seats": "11",
-      "totalVotes": "2299254",
+      "electoral_votes": "11",
+      "total_votes": "2299254",
       "results": [
         {
           "candidate": "Romney, Mitt",
@@ -18719,8 +18719,8 @@
     },
     "AR": {
       "name": "Arkansas",
-      "seats": "6",
-      "totalVotes": "1069468",
+      "electoral_votes": "6",
+      "total_votes": "1069468",
       "results": [
         {
           "candidate": "Romney, Mitt",
@@ -18751,8 +18751,8 @@
     },
     "CA": {
       "name": "California",
-      "seats": "55",
-      "totalVotes": "13038547",
+      "electoral_votes": "55",
+      "total_votes": "13038547",
       "results": [
         {
           "candidate": "Obama, Barack H.",
@@ -18793,8 +18793,8 @@
     },
     "CO": {
       "name": "Colorado",
-      "seats": "9",
-      "totalVotes": "2569516",
+      "electoral_votes": "9",
+      "total_votes": "2569516",
       "results": [
         {
           "candidate": "Obama, Barack H.",
@@ -18880,8 +18880,8 @@
     },
     "CT": {
       "name": "Connecticut",
-      "seats": "7",
-      "totalVotes": "1558204",
+      "electoral_votes": "7",
+      "total_votes": "1558204",
       "results": [
         {
           "candidate": "Obama, Barack H.",
@@ -18912,8 +18912,8 @@
     },
     "DE": {
       "name": "Delaware",
-      "seats": "3",
-      "totalVotes": "413890",
+      "electoral_votes": "3",
+      "total_votes": "413890",
       "results": [
         {
           "candidate": "Obama, Barack H.",
@@ -18939,8 +18939,8 @@
     },
     "DC": {
       "name": "District of Columbia",
-      "seats": "3",
-      "totalVotes": "293764",
+      "electoral_votes": "3",
+      "total_votes": "293764",
       "results": [
         {
           "candidate": "Obama, Barack H.",
@@ -18971,8 +18971,8 @@
     },
     "FL": {
       "name": "Florida",
-      "seats": "29",
-      "totalVotes": "8474179",
+      "electoral_votes": "29",
+      "total_votes": "8474179",
       "results": [
         {
           "candidate": "Obama, Barack H.",
@@ -19043,8 +19043,8 @@
     },
     "GA": {
       "name": "Georgia",
-      "seats": "16",
-      "totalVotes": "3897839",
+      "electoral_votes": "16",
+      "total_votes": "3897839",
       "results": [
         {
           "candidate": "Romney, Mitt",
@@ -19065,8 +19065,8 @@
     },
     "HI": {
       "name": "Hawaii",
-      "seats": "4",
-      "totalVotes": "437159",
+      "electoral_votes": "4",
+      "total_votes": "437159",
       "results": [
         {
           "candidate": "Obama, Barack H.",
@@ -19102,8 +19102,8 @@
     },
     "ID": {
       "name": "Idaho",
-      "seats": "4",
-      "totalVotes": "652274",
+      "electoral_votes": "4",
+      "total_votes": "652274",
       "results": [
         {
           "candidate": "Romney, Mitt",
@@ -19134,8 +19134,8 @@
     },
     "IL": {
       "name": "Illinois",
-      "seats": "20",
-      "totalVotes": "5242014",
+      "electoral_votes": "20",
+      "total_votes": "5242014",
       "results": [
         {
           "candidate": "Obama, Barack H.",
@@ -19166,8 +19166,8 @@
     },
     "IN": {
       "name": "Indiana",
-      "seats": "11",
-      "totalVotes": "2624534",
+      "electoral_votes": "11",
+      "total_votes": "2624534",
       "results": [
         {
           "candidate": "Romney, Mitt",
@@ -19193,8 +19193,8 @@
     },
     "IA": {
       "name": "Iowa",
-      "seats": "6",
-      "totalVotes": "1582180",
+      "electoral_votes": "6",
+      "total_votes": "1582180",
       "results": [
         {
           "candidate": "Obama, Barack H.",
@@ -19245,8 +19245,8 @@
     },
     "KS": {
       "name": "Kansas",
-      "seats": "6",
-      "totalVotes": "1159971",
+      "electoral_votes": "6",
+      "total_votes": "1159971",
       "results": [
         {
           "candidate": "Romney, Mitt",
@@ -19277,8 +19277,8 @@
     },
     "KY": {
       "name": "Kentucky",
-      "seats": "8",
-      "totalVotes": "1797212",
+      "electoral_votes": "8",
+      "total_votes": "1797212",
       "results": [
         {
           "candidate": "Romney, Mitt",
@@ -19314,8 +19314,8 @@
     },
     "LA": {
       "name": "Louisiana",
-      "seats": "8",
-      "totalVotes": "1994065",
+      "electoral_votes": "8",
+      "total_votes": "1994065",
       "results": [
         {
           "candidate": "Romney, Mitt",
@@ -19376,8 +19376,8 @@
     },
     "ME": {
       "name": "Maine",
-      "seats": "4",
-      "totalVotes": "724758",
+      "electoral_votes": "4",
+      "total_votes": "724758",
       "results": [
         {
           "candidate": "Obama, Barack H.",
@@ -19413,8 +19413,8 @@
     },
     "MD": {
       "name": "Maryland",
-      "seats": "10",
-      "totalVotes": "2707327",
+      "electoral_votes": "10",
+      "total_votes": "2707327",
       "results": [
         {
           "candidate": "Obama, Barack H.",
@@ -19445,8 +19445,8 @@
     },
     "MA": {
       "name": "Massachusetts",
-      "seats": "11",
-      "totalVotes": "3184196",
+      "electoral_votes": "11",
+      "total_votes": "3184196",
       "results": [
         {
           "candidate": "Obama, Barack H.",
@@ -19482,8 +19482,8 @@
     },
     "MI": {
       "name": "Michigan",
-      "seats": "16",
-      "totalVotes": "4730961",
+      "electoral_votes": "16",
+      "total_votes": "4730961",
       "results": [
         {
           "candidate": "Obama, Barack H.",
@@ -19519,8 +19519,8 @@
     },
     "MN": {
       "name": "Minnesota",
-      "seats": "10",
-      "totalVotes": "2936561",
+      "electoral_votes": "10",
+      "total_votes": "2936561",
       "results": [
         {
           "candidate": "Obama, Barack H.",
@@ -19581,8 +19581,8 @@
     },
     "MS": {
       "name": "Mississippi",
-      "seats": "6",
-      "totalVotes": "1285584",
+      "electoral_votes": "6",
+      "total_votes": "1285584",
       "results": [
         {
           "candidate": "Romney, Mitt",
@@ -19618,8 +19618,8 @@
     },
     "MO": {
       "name": "Missouri",
-      "seats": "10",
-      "totalVotes": "2757323",
+      "electoral_votes": "10",
+      "total_votes": "2757323",
       "results": [
         {
           "candidate": "Romney, Mitt",
@@ -19645,8 +19645,8 @@
     },
     "MT": {
       "name": "Montana",
-      "seats": "3",
-      "totalVotes": "484048",
+      "electoral_votes": "3",
+      "total_votes": "484048",
       "results": [
         {
           "candidate": "Romney, Mitt",
@@ -19672,8 +19672,8 @@
     },
     "NE": {
       "name": "Nebraska",
-      "seats": "5",
-      "totalVotes": "794379",
+      "electoral_votes": "5",
+      "total_votes": "794379",
       "results": [
         {
           "candidate": "Romney, Mitt",
@@ -19704,8 +19704,8 @@
     },
     "NV": {
       "name": "Nevada",
-      "seats": "6",
-      "totalVotes": "1014918",
+      "electoral_votes": "6",
+      "total_votes": "1014918",
       "results": [
         {
           "candidate": "Obama, Barack H.",
@@ -19736,8 +19736,8 @@
     },
     "NH": {
       "name": "New Hampshire",
-      "seats": "4",
-      "totalVotes": "710972",
+      "electoral_votes": "4",
+      "total_votes": "710972",
       "results": [
         {
           "candidate": "Obama, Barack H.",
@@ -19773,8 +19773,8 @@
     },
     "NJ": {
       "name": "New Jersey",
-      "seats": "14",
-      "totalVotes": "3638499",
+      "electoral_votes": "14",
+      "total_votes": "3638499",
       "results": [
         {
           "candidate": "Obama, Barack H.",
@@ -19830,8 +19830,8 @@
     },
     "NM": {
       "name": "New Mexico",
-      "seats": "5",
-      "totalVotes": "783758",
+      "electoral_votes": "5",
+      "total_votes": "783758",
       "results": [
         {
           "candidate": "Obama, Barack H.",
@@ -19867,8 +19867,8 @@
     },
     "NY": {
       "name": "New York",
-      "seats": "29",
-      "totalVotes": "7116784",
+      "electoral_votes": "29",
+      "total_votes": "7116784",
       "results": [
         {
           "candidate": "Obama, Barack H.",
@@ -19924,8 +19924,8 @@
     },
     "NC": {
       "name": "North Carolina",
-      "seats": "15",
-      "totalVotes": "4505372",
+      "electoral_votes": "15",
+      "total_votes": "4505372",
       "results": [
         {
           "candidate": "Romney, Mitt",
@@ -19951,8 +19951,8 @@
     },
     "ND": {
       "name": "North Dakota",
-      "seats": "3",
-      "totalVotes": "322932",
+      "electoral_votes": "3",
+      "total_votes": "322932",
       "results": [
         {
           "candidate": "Romney, Mitt",
@@ -19988,8 +19988,8 @@
     },
     "OH": {
       "name": "Ohio",
-      "seats": "18",
-      "totalVotes": "5580822",
+      "electoral_votes": "18",
+      "total_votes": "5580822",
       "results": [
         {
           "candidate": "Obama, Barack H.",
@@ -20035,8 +20035,8 @@
     },
     "OK": {
       "name": "Oklahoma",
-      "seats": "7",
-      "totalVotes": "1334872",
+      "electoral_votes": "7",
+      "total_votes": "1334872",
       "results": [
         {
           "candidate": "Romney, Mitt",
@@ -20052,8 +20052,8 @@
     },
     "OR": {
       "name": "Oregon",
-      "seats": "7",
-      "totalVotes": "1789270",
+      "electoral_votes": "7",
+      "total_votes": "1789270",
       "results": [
         {
           "candidate": "Obama, Barack H.",
@@ -20094,8 +20094,8 @@
     },
     "PA": {
       "name": "Pennsylvania",
-      "seats": "20",
-      "totalVotes": "5742040",
+      "electoral_votes": "20",
+      "total_votes": "5742040",
       "results": [
         {
           "candidate": "Obama, Barack H.",
@@ -20121,8 +20121,8 @@
     },
     "RI": {
       "name": "Rhode Island",
-      "seats": "4",
-      "totalVotes": "446049",
+      "electoral_votes": "4",
+      "total_votes": "446049",
       "results": [
         {
           "candidate": "Obama, Barack H.",
@@ -20168,8 +20168,8 @@
     },
     "SC": {
       "name": "South Carolina",
-      "seats": "9",
-      "totalVotes": "1964118",
+      "electoral_votes": "9",
+      "total_votes": "1964118",
       "results": [
         {
           "candidate": "Romney, Mitt",
@@ -20200,8 +20200,8 @@
     },
     "SD": {
       "name": "South Dakota",
-      "seats": "3",
-      "totalVotes": "363815",
+      "electoral_votes": "3",
+      "total_votes": "363815",
       "results": [
         {
           "candidate": "Romney, Mitt",
@@ -20227,8 +20227,8 @@
     },
     "TN": {
       "name": "Tennessee",
-      "seats": "11",
-      "totalVotes": "2458577",
+      "electoral_votes": "11",
+      "total_votes": "2458577",
       "results": [
         {
           "candidate": "Romney, Mitt",
@@ -20259,8 +20259,8 @@
     },
     "TX": {
       "name": "Texas",
-      "seats": "38",
-      "totalVotes": "7993851",
+      "electoral_votes": "38",
+      "total_votes": "7993851",
       "results": [
         {
           "candidate": "Romney, Mitt",
@@ -20291,8 +20291,8 @@
     },
     "UT": {
       "name": "Utah",
-      "seats": "6",
-      "totalVotes": "1017440",
+      "electoral_votes": "6",
+      "total_votes": "1017440",
       "results": [
         {
           "candidate": "Romney, Mitt",
@@ -20338,8 +20338,8 @@
     },
     "VT": {
       "name": "Vermont",
-      "seats": "3",
-      "totalVotes": "299290",
+      "electoral_votes": "3",
+      "total_votes": "299290",
       "results": [
         {
           "candidate": "Obama, Barack H.",
@@ -20375,8 +20375,8 @@
     },
     "VA": {
       "name": "Virginia",
-      "seats": "13",
-      "totalVotes": "3854489",
+      "electoral_votes": "13",
+      "total_votes": "3854489",
       "results": [
         {
           "candidate": "Obama, Barack H.",
@@ -20412,8 +20412,8 @@
     },
     "WA": {
       "name": "Washington",
-      "seats": "12",
-      "totalVotes": "3125516",
+      "electoral_votes": "12",
+      "total_votes": "3125516",
       "results": [
         {
           "candidate": "Obama, Barack H.",
@@ -20459,8 +20459,8 @@
     },
     "WV": {
       "name": "West Virginia",
-      "seats": "5",
-      "totalVotes": "670438",
+      "electoral_votes": "5",
+      "total_votes": "670438",
       "results": [
         {
           "candidate": "Romney, Mitt",
@@ -20491,8 +20491,8 @@
     },
     "WI": {
       "name": "Wisconsin",
-      "seats": "10",
-      "totalVotes": "3071434",
+      "electoral_votes": "10",
+      "total_votes": "3071434",
       "results": [
         {
           "candidate": "Obama, Barack H.",
@@ -20523,8 +20523,8 @@
     },
     "WY": {
       "name": "Wyoming",
-      "seats": "3",
-      "totalVotes": "250701",
+      "electoral_votes": "3",
+      "total_votes": "250701",
       "results": [
         {
           "candidate": "Romney, Mitt",
@@ -20567,8 +20567,8 @@
   "2016": {
     "AL": {
       "name": "Alabama",
-      "seats": "9",
-      "totalVotes": "2123372",
+      "electoral_votes": "9",
+      "total_votes": "2123372",
       "results": [
         {
           "candidate": "Trump, Donald J.",
@@ -20599,8 +20599,8 @@
     },
     "AK": {
       "name": "Alaska",
-      "seats": "3",
-      "totalVotes": "318608",
+      "electoral_votes": "3",
+      "total_votes": "318608",
       "results": [
         {
           "candidate": "Trump, Donald J.",
@@ -20641,8 +20641,8 @@
     },
     "AZ": {
       "name": "Arizona",
-      "seats": "11",
-      "totalVotes": "2573165",
+      "electoral_votes": "11",
+      "total_votes": "2573165",
       "results": [
         {
           "candidate": "Trump, Donald J.",
@@ -20698,8 +20698,8 @@
     },
     "AR": {
       "name": "Arkansas",
-      "seats": "6",
-      "totalVotes": "1130635",
+      "electoral_votes": "6",
+      "total_votes": "1130635",
       "results": [
         {
           "candidate": "Trump, Donald J.",
@@ -20745,8 +20745,8 @@
     },
     "CA": {
       "name": "California",
-      "seats": "55",
-      "totalVotes": "14181595",
+      "electoral_votes": "55",
+      "total_votes": "14181595",
       "results": [
         {
           "candidate": "Clinton, Hillary",
@@ -20782,8 +20782,8 @@
     },
     "CO": {
       "name": "Colorado",
-      "seats": "9",
-      "totalVotes": "2780220",
+      "electoral_votes": "9",
+      "total_votes": "2780220",
       "results": [
         {
           "candidate": "Clinton, Hillary",
@@ -20889,8 +20889,8 @@
     },
     "CT": {
       "name": "Connecticut",
-      "seats": "7",
-      "totalVotes": "1644920",
+      "electoral_votes": "7",
+      "total_votes": "1644920",
       "results": [
         {
           "candidate": "Clinton, Hillary",
@@ -20921,8 +20921,8 @@
     },
     "DE": {
       "name": "Delaware",
-      "seats": "3",
-      "totalVotes": "441590",
+      "electoral_votes": "3",
+      "total_votes": "441590",
       "results": [
         {
           "candidate": "Clinton, Hillary",
@@ -20948,8 +20948,8 @@
     },
     "DC": {
       "name": "District of Columbia",
-      "seats": "3",
-      "totalVotes": "312575",
+      "electoral_votes": "3",
+      "total_votes": "312575",
       "results": [
         {
           "candidate": "Clinton, Hillary",
@@ -20990,8 +20990,8 @@
     },
     "FL": {
       "name": "Florida",
-      "seats": "29",
-      "totalVotes": "9420039",
+      "electoral_votes": "29",
+      "total_votes": "9420039",
       "results": [
         {
           "candidate": "Trump, Donald J.",
@@ -21032,8 +21032,8 @@
     },
     "GA": {
       "name": "Georgia",
-      "seats": "16",
-      "totalVotes": "4114732",
+      "electoral_votes": "16",
+      "total_votes": "4114732",
       "results": [
         {
           "candidate": "Trump, Donald J.",
@@ -21059,8 +21059,8 @@
     },
     "HI": {
       "name": "Hawaii",
-      "seats": "4",
-      "totalVotes": "437664",
+      "electoral_votes": "4",
+      "total_votes": "437664",
       "results": [
         {
           "candidate": "Clinton, Hillary",
@@ -21101,8 +21101,8 @@
     },
     "ID": {
       "name": "Idaho",
-      "seats": "4",
-      "totalVotes": "690255",
+      "electoral_votes": "4",
+      "total_votes": "690255",
       "results": [
         {
           "candidate": "Trump, Donald J.",
@@ -21133,8 +21133,8 @@
     },
     "IL": {
       "name": "Illinois",
-      "seats": "20",
-      "totalVotes": "5536424",
+      "electoral_votes": "20",
+      "total_votes": "5536424",
       "results": [
         {
           "candidate": "Clinton, Hillary",
@@ -21165,8 +21165,8 @@
     },
     "IN": {
       "name": "Indiana",
-      "seats": "11",
-      "totalVotes": "2734958",
+      "electoral_votes": "11",
+      "total_votes": "2734958",
       "results": [
         {
           "candidate": "Trump, Donald J.",
@@ -21207,8 +21207,8 @@
     },
     "IA": {
       "name": "Iowa",
-      "seats": "6",
-      "totalVotes": "1565580",
+      "electoral_votes": "6",
+      "total_votes": "1565580",
       "results": [
         {
           "candidate": "Trump, Donald J.",
@@ -21264,8 +21264,8 @@
     },
     "KS": {
       "name": "Kansas",
-      "seats": "6",
-      "totalVotes": "1184402",
+      "electoral_votes": "6",
+      "total_votes": "1184402",
       "results": [
         {
           "candidate": "Trump, Donald J.",
@@ -21296,8 +21296,8 @@
     },
     "KY": {
       "name": "Kentucky",
-      "seats": "8",
-      "totalVotes": "1924149",
+      "electoral_votes": "8",
+      "total_votes": "1924149",
       "results": [
         {
           "candidate": "Trump, Donald J.",
@@ -21338,8 +21338,8 @@
     },
     "LA": {
       "name": "Louisiana",
-      "seats": "8",
-      "totalVotes": "2029032",
+      "electoral_votes": "8",
+      "total_votes": "2029032",
       "results": [
         {
           "candidate": "Trump, Donald J.",
@@ -21370,8 +21370,8 @@
     },
     "ME": {
       "name": "Maine",
-      "seats": "4",
-      "totalVotes": "771892",
+      "electoral_votes": "4",
+      "total_votes": "771892",
       "results": [
         {
           "candidate": "Clinton, Hillary",
@@ -21407,8 +21407,8 @@
     },
     "MD": {
       "name": "Maryland",
-      "seats": "10",
-      "totalVotes": "2781446",
+      "electoral_votes": "10",
+      "total_votes": "2781446",
       "results": [
         {
           "candidate": "Clinton, Hillary",
@@ -21459,8 +21459,8 @@
     },
     "MA": {
       "name": "Massachusetts",
-      "seats": "11",
-      "totalVotes": "3378821",
+      "electoral_votes": "11",
+      "total_votes": "3378821",
       "results": [
         {
           "candidate": "Clinton, Hillary",
@@ -21501,8 +21501,8 @@
     },
     "MI": {
       "name": "Michigan",
-      "seats": "16",
-      "totalVotes": "4799284",
+      "electoral_votes": "16",
+      "total_votes": "4799284",
       "results": [
         {
           "candidate": "Trump, Donald J.",
@@ -21543,8 +21543,8 @@
     },
     "MN": {
       "name": "Minnesota",
-      "seats": "10",
-      "totalVotes": "2944782",
+      "electoral_votes": "10",
+      "total_votes": "2944782",
       "results": [
         {
           "candidate": "Clinton, Hillary",
@@ -21600,8 +21600,8 @@
     },
     "MS": {
       "name": "Mississippi",
-      "seats": "6",
-      "totalVotes": "1209357",
+      "electoral_votes": "6",
+      "total_votes": "1209357",
       "results": [
         {
           "candidate": "Trump, Donald J.",
@@ -21642,8 +21642,8 @@
     },
     "MO": {
       "name": "Missouri",
-      "seats": "10",
-      "totalVotes": "2808605",
+      "electoral_votes": "10",
+      "total_votes": "2808605",
       "results": [
         {
           "candidate": "Trump, Donald J.",
@@ -21679,8 +21679,8 @@
     },
     "MT": {
       "name": "Montana",
-      "seats": "3",
-      "totalVotes": "494526",
+      "electoral_votes": "3",
+      "total_votes": "494526",
       "results": [
         {
           "candidate": "Trump, Donald J.",
@@ -21711,8 +21711,8 @@
     },
     "NE": {
       "name": "Nebraska",
-      "seats": "5",
-      "totalVotes": "844227",
+      "electoral_votes": "5",
+      "total_votes": "844227",
       "results": [
         {
           "candidate": "Trump, Donald J.",
@@ -21743,8 +21743,8 @@
     },
     "NV": {
       "name": "Nevada",
-      "seats": "6",
-      "totalVotes": "1125385",
+      "electoral_votes": "6",
+      "total_votes": "1125385",
       "results": [
         {
           "candidate": "Clinton, Hillary",
@@ -21780,8 +21780,8 @@
     },
     "NH": {
       "name": "New Hampshire",
-      "seats": "4",
-      "totalVotes": "744296",
+      "electoral_votes": "4",
+      "total_votes": "744296",
       "results": [
         {
           "candidate": "Clinton, Hillary",
@@ -21822,8 +21822,8 @@
     },
     "NJ": {
       "name": "New Jersey",
-      "seats": "14",
-      "totalVotes": "3874046",
+      "electoral_votes": "14",
+      "total_votes": "3874046",
       "results": [
         {
           "candidate": "Clinton, Hillary",
@@ -21874,8 +21874,8 @@
     },
     "NM": {
       "name": "New Mexico",
-      "seats": "5",
-      "totalVotes": "798319",
+      "electoral_votes": "5",
+      "total_votes": "798319",
       "results": [
         {
           "candidate": "Clinton, Hillary",
@@ -21921,8 +21921,8 @@
     },
     "NY": {
       "name": "New York",
-      "seats": "29",
-      "totalVotes": "7802084",
+      "electoral_votes": "29",
+      "total_votes": "7802084",
       "results": [
         {
           "candidate": "Clinton, Hillary",
@@ -21988,8 +21988,8 @@
     },
     "NC": {
       "name": "North Carolina",
-      "seats": "15",
-      "totalVotes": "4741564",
+      "electoral_votes": "15",
+      "total_votes": "4741564",
       "results": [
         {
           "candidate": "Trump, Donald J.",
@@ -22020,8 +22020,8 @@
     },
     "ND": {
       "name": "North Dakota",
-      "seats": "3",
-      "totalVotes": "344360",
+      "electoral_votes": "3",
+      "total_votes": "344360",
       "results": [
         {
           "candidate": "Trump, Donald J.",
@@ -22062,8 +22062,8 @@
     },
     "OH": {
       "name": "Ohio",
-      "seats": "18",
-      "totalVotes": "5496487",
+      "electoral_votes": "18",
+      "total_votes": "5496487",
       "results": [
         {
           "candidate": "Trump, Donald J.",
@@ -22094,8 +22094,8 @@
     },
     "OK": {
       "name": "Oklahoma",
-      "seats": "7",
-      "totalVotes": "1452992",
+      "electoral_votes": "7",
+      "total_votes": "1452992",
       "results": [
         {
           "candidate": "Trump, Donald J.",
@@ -22116,8 +22116,8 @@
     },
     "OR": {
       "name": "Oregon",
-      "seats": "7",
-      "totalVotes": "2001336",
+      "electoral_votes": "7",
+      "total_votes": "2001336",
       "results": [
         {
           "candidate": "Clinton, Hillary",
@@ -22148,8 +22148,8 @@
     },
     "PA": {
       "name": "Pennsylvania",
-      "seats": "20",
-      "totalVotes": "6115402",
+      "electoral_votes": "20",
+      "total_votes": "6115402",
       "results": [
         {
           "candidate": "Trump, Donald J.",
@@ -22180,8 +22180,8 @@
     },
     "RI": {
       "name": "Rhode Island",
-      "seats": "4",
-      "totalVotes": "464144",
+      "electoral_votes": "4",
+      "total_votes": "464144",
       "results": [
         {
           "candidate": "Clinton, Hillary",
@@ -22217,8 +22217,8 @@
     },
     "SC": {
       "name": "South Carolina",
-      "seats": "9",
-      "totalVotes": "2103027",
+      "electoral_votes": "9",
+      "total_votes": "2103027",
       "results": [
         {
           "candidate": "Trump, Donald J.",
@@ -22259,8 +22259,8 @@
     },
     "SD": {
       "name": "South Dakota",
-      "seats": "3",
-      "totalVotes": "370093",
+      "electoral_votes": "3",
+      "total_votes": "370093",
       "results": [
         {
           "candidate": "Trump, Donald J.",
@@ -22286,8 +22286,8 @@
     },
     "TN": {
       "name": "Tennessee",
-      "seats": "11",
-      "totalVotes": "2508027",
+      "electoral_votes": "11",
+      "total_votes": "2508027",
       "results": [
         {
           "candidate": "Trump, Donald J.",
@@ -22313,8 +22313,8 @@
     },
     "TX": {
       "name": "Texas",
-      "seats": "38",
-      "totalVotes": "8969226",
+      "electoral_votes": "38",
+      "total_votes": "8969226",
       "results": [
         {
           "candidate": "Trump, Donald J.",
@@ -22345,8 +22345,8 @@
     },
     "UT": {
       "name": "Utah",
-      "seats": "6",
-      "totalVotes": "1131317",
+      "electoral_votes": "6",
+      "total_votes": "1131317",
       "results": [
         {
           "candidate": "Trump, Donald J.",
@@ -22382,8 +22382,8 @@
     },
     "VT": {
       "name": "Vermont",
-      "seats": "3",
-      "totalVotes": "320467",
+      "electoral_votes": "3",
+      "total_votes": "320467",
       "results": [
         {
           "candidate": "Clinton, Hillary",
@@ -22434,8 +22434,8 @@
     },
     "VA": {
       "name": "Virginia",
-      "seats": "13",
-      "totalVotes": "3982752",
+      "electoral_votes": "13",
+      "total_votes": "3982752",
       "results": [
         {
           "candidate": "Clinton, Hillary",
@@ -22471,8 +22471,8 @@
     },
     "WA": {
       "name": "Washington",
-      "seats": "12",
-      "totalVotes": "3317019",
+      "electoral_votes": "12",
+      "total_votes": "3317019",
       "results": [
         {
           "candidate": "Clinton, Hillary",
@@ -22518,8 +22518,8 @@
     },
     "WV": {
       "name": "West Virginia",
-      "seats": "5",
-      "totalVotes": "713051",
+      "electoral_votes": "5",
+      "total_votes": "713051",
       "results": [
         {
           "candidate": "Trump, Donald J.",
@@ -22550,8 +22550,8 @@
     },
     "WI": {
       "name": "Wisconsin",
-      "seats": "10",
-      "totalVotes": "2976150",
+      "electoral_votes": "10",
+      "total_votes": "2976150",
       "results": [
         {
           "candidate": "Trump, Donald J.",
@@ -22602,8 +22602,8 @@
     },
     "WY": {
       "name": "Wyoming",
-      "seats": "3",
-      "totalVotes": "258788",
+      "electoral_votes": "3",
+      "total_votes": "258788",
       "results": [
         {
           "candidate": "Trump, Donald J.",
