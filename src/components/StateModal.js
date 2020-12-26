@@ -6,12 +6,15 @@ import CandidateTable from "./CandidateTable";
 function StateModal({ showModal, setShowModal, stateInfo }) {
   return (
     <Modal
-      className="state_modal"
+      className="method_modal"
       isOpen={showModal}
       onRequestClose={() => setShowModal(false)}
     >
       <CandidateTable candidates={stateInfo} />
-      <button onClick={() => setShowModal(false)}>
+      <button
+        className="modal_close_button"
+        onClick={() => setShowModal(false)}
+      >
         <svg
           width="30"
           height="30"

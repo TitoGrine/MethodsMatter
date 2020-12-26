@@ -1,0 +1,16 @@
+@import "variables.scss";
+
+.winner_banner {
+  font-weight: 500;
+  margin: 0.5em auto;
+  padding: 1em 0;
+  width: 80%;
+  border-top: 2px dotted $secondaryColor;
+  border-bottom: 2px dotted $secondaryColor;
+  color: $textColor;
+
+  .winner_votes {
+    font-weight: 500;
+    text-decoration: underline;
+  }
+}

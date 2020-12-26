@@ -4,6 +4,8 @@ import { getOutcome, getPartyColor } from "../util/util";
 
 import "./../assets/Map.scss";
 import CandidateTable from "./CandidateTable";
+import InformationButton from "./InformationButton";
+import OutcomeBanner from "./OutcomeBanner";
 import StateModal from "./StateModal";
 
 function Map() {
@@ -11,6 +13,7 @@ function Map() {
   const [method, setMethod] = useState("winnerTakesAll");
   const [quota, setQuota] = useState("hareQuota");
   const [outcome, setOutcome] = useState([]);
+  const [winner, setWinner] = useState(null);
   const [candidates, setCandidates] = useState(null);
   const [showModal, setShowModal] = useState(false);
   const [stateInfo, setStateInfo] = useState("");
@@ -30,7 +33,7 @@ function Map() {
   ];
 
   const methodsOptions = [
-    { method: "winnerTakesAll", label: "Winner takes all method" },
+    { method: "winnerTakesAll", label: "Winner-Take-All method" },
     { method: "dHondtMethod", label: "D'Hondt method" },
     { method: "websterSainteMethod", label: "Webster/Sainte-Laguë method" },
     { method: "largestRemainderMethod", label: "Largest Remainder method" },
@@ -45,6 +48,26 @@ function Map() {
   const mapHandler = (event) => {
     console.log(event.target);
     alert(event.target.dataset.name);
+  };
+
+  const getElectionWinner = (candidates) => {
+    console.log(candidates);
+    if (
+      candidates.length > 0 &&
+      parseInt(candidates[0].electoral_votes) >= 270
+    ) {
+      let names = candidates[0].candidate.split(", ");
+      setWinner({
+        name: `${names[1]} ${names[0]}`,
+        party: candidates[0].party,
+        electoral_votes: candidates[0].electoral_votes,
+        coalition: false,
+      });
+    } else {
+      setWinner({
+        coalition: true,
+      });
+    }
   };
 
   const getStateWinner = (state_outcome) => {
@@ -83,6 +106,7 @@ function Map() {
   useEffect(() => {
     let data = getOutcome(year, method, quota);
 
+    getElectionWinner(data.candidates);
     setOutcome(data.outcome);
     setCandidates(data.candidates);
   }, [year, method, quota]);
@@ -92,49 +116,53 @@ function Map() {
       <div className="map-section">
         <div className="map">
           <USAMap
-            height={"60vh"}
+            height={"50vh"}
             customize={statesCustomConfig()}
             onClick={mapHandler}
           />
         </div>
-        <div className="settings">
-          <div
-            className="election_year"
-            onChange={(e) => setYear(e.target.value)}
-          >
-            <label>Election Year: </label>
-            <select name="year" defaultValue={year}>
-              {yearOptions.map((option) => {
-                return (
-                  <option value={option.year} selected={year === option.year}>
-                    {option.label}
-                  </option>
-                );
-              })}
-            </select>
-          </div>
-          <div
-            className="allocation_method"
-            onChange={(e) => setMethod(e.target.value)}
-          >
-            <label>Allocation Method: </label>
-            <select name="year" defaultValue={year}>
-              {methodsOptions.map((option) => {
-                return (
-                  <option
-                    value={option.method}
-                    selected={method === option.method}
-                  >
-                    {option.label}
-                  </option>
-                );
-              })}
-            </select>
-          </div>
-          {["largestRemainderMethod"].includes(method) && (
+        <section className="sidebar">
+          <div className="settings">
+            <div
+              className="election_year"
+              onChange={(e) => setYear(e.target.value)}
+            >
+              <label>Election Year: </label>
+              <select name="year" defaultValue={year}>
+                {yearOptions.map((option) => {
+                  return (
+                    <option value={option.year} selected={year === option.year}>
+                      {option.label}
+                    </option>
+                  );
+                })}
+              </select>
+            </div>
+            <div
+              className="allocation_method"
+              onChange={(e) => setMethod(e.target.value)}
+            >
+              <label>Allocation Method: </label>
+              <select name="year" defaultValue={year}>
+                {methodsOptions.map((option) => {
+                  return (
+                    <option
+                      value={option.method}
+                      selected={method === option.method}
+                    >
+                      {option.label}
+                    </option>
+                  );
+                })}
+              </select>
+            </div>
             <div className="quota" onChange={(e) => setQuota(e.target.value)}>
               <label>Quota: </label>
-              <select name="quota" defaultValue={quota}>
+              <select
+                name="quota"
+                defaultValue={quota}
+                disabled={!["largestRemainderMethod"].includes(method)}
+              >
                 {quotaOptions.map((option) => {
                   return (
                     <option
@@ -147,14 +175,16 @@ function Map() {
                 })}
               </select>
             </div>
-          )}
-        </div>
+          </div>
+          <InformationButton method={method} />
+        </section>
         <StateModal
           showModal={showModal}
           setShowModal={setShowModal}
           stateInfo={stateInfo}
         />
       </div>
+      {winner && <OutcomeBanner winner={winner} year={year} />}
       {candidates && <CandidateTable candidates={candidates} />}
     </>
   );

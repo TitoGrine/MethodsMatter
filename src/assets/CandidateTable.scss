@@ -18,6 +18,11 @@
   td {
     padding: 0.5rem 1rem;
     height: 2.5em;
+    color: $textColor;
+
+    a {
+      color: $secondaryColor;
+    }
   }
 
   td:nth-child(3) {

@@ -22647,5 +22647,313 @@
         }
       ]
     }
+  },
+  "2020": {
+    "AL": {
+      "name": "Alabama",
+      "electoral_votes": "9",
+      "total_votes": "",
+      "results": []
+    },
+    "AK": {
+      "name": "Alaska",
+      "electoral_votes": "3",
+      "total_votes": "",
+      "results": []
+    },
+    "AZ": {
+      "name": "Arizona",
+      "electoral_votes": "11",
+      "total_votes": "",
+      "results": []
+    },
+    "AR": {
+      "name": "Arkansas",
+      "electoral_votes": "6",
+      "total_votes": "",
+      "results": []
+    },
+    "CA": {
+      "name": "California",
+      "electoral_votes": "55",
+      "total_votes": "",
+      "results": []
+    },
+    "CO": {
+      "name": "Colorado",
+      "electoral_votes": "9",
+      "total_votes": "",
+      "results": []
+    },
+    "CT": {
+      "name": "Connecticut",
+      "electoral_votes": "7",
+      "total_votes": "",
+      "results": []
+    },
+    "DE": {
+      "name": "Delaware",
+      "electoral_votes": "3",
+      "total_votes": "",
+      "results": []
+    },
+    "DC": {
+      "name": "District of Columbia",
+      "electoral_votes": "3",
+      "total_votes": "",
+      "results": []
+    },
+    "FL": {
+      "name": "Florida",
+      "electoral_votes": "29",
+      "total_votes": "",
+      "results": []
+    },
+    "GA": {
+      "name": "Georgia",
+      "electoral_votes": "16",
+      "total_votes": "",
+      "results": []
+    },
+    "HI": {
+      "name": "Hawaii",
+      "electoral_votes": "4",
+      "total_votes": "",
+      "results": []
+    },
+    "ID": {
+      "name": "Idaho",
+      "electoral_votes": "4",
+      "total_votes": "",
+      "results": []
+    },
+    "IL": {
+      "name": "Illinois",
+      "electoral_votes": "20",
+      "total_votes": "",
+      "results": []
+    },
+    "IN": {
+      "name": "Indiana",
+      "electoral_votes": "11",
+      "total_votes": "",
+      "results": []
+    },
+    "IA": {
+      "name": "Iowa",
+      "electoral_votes": "6",
+      "total_votes": "",
+      "results": []
+    },
+    "KS": {
+      "name": "Kansas",
+      "electoral_votes": "6",
+      "total_votes": "",
+      "results": []
+    },
+    "KY": {
+      "name": "Kentucky",
+      "electoral_votes": "8",
+      "total_votes": "",
+      "results": []
+    },
+    "LA": {
+      "name": "Louisiana",
+      "electoral_votes": "8",
+      "total_votes": "",
+      "results": []
+    },
+    "ME": {
+      "name": "Maine",
+      "electoral_votes": "4",
+      "total_votes": "",
+      "results": []
+    },
+    "MD": {
+      "name": "Maryland",
+      "electoral_votes": "10",
+      "total_votes": "",
+      "results": []
+    },
+    "MA": {
+      "name": "Massachusetts",
+      "electoral_votes": "11",
+      "total_votes": "",
+      "results": []
+    },
+    "MI": {
+      "name": "Michigan",
+      "electoral_votes": "16",
+      "total_votes": "",
+      "results": []
+    },
+    "MN": {
+      "name": "Minnesota",
+      "electoral_votes": "10",
+      "total_votes": "",
+      "results": []
+    },
+    "MS": {
+      "name": "Mississippi",
+      "electoral_votes": "6",
+      "total_votes": "",
+      "results": []
+    },
+    "MO": {
+      "name": "Missouri",
+      "electoral_votes": "10",
+      "total_votes": "",
+      "results": []
+    },
+    "MT": {
+      "name": "Montana",
+      "electoral_votes": "3",
+      "total_votes": "",
+      "results": []
+    },
+    "NE": {
+      "name": "Nebraska",
+      "electoral_votes": "5",
+      "total_votes": "",
+      "results": []
+    },
+    "NV": {
+      "name": "Nevada",
+      "electoral_votes": "6",
+      "total_votes": "",
+      "results": []
+    },
+    "NH": {
+      "name": "New Hampshire",
+      "electoral_votes": "4",
+      "total_votes": "",
+      "results": []
+    },
+    "NJ": {
+      "name": "New Jersey",
+      "electoral_votes": "14",
+      "total_votes": "",
+      "results": []
+    },
+    "NM": {
+      "name": "New Mexico",
+      "electoral_votes": "5",
+      "total_votes": "",
+      "results": []
+    },
+    "NY": {
+      "name": "New York",
+      "electoral_votes": "29",
+      "total_votes": "",
+      "results": []
+    },
+    "NC": {
+      "name": "North Carolina",
+      "electoral_votes": "15",
+      "total_votes": "",
+      "results": []
+    },
+    "ND": {
+      "name": "North Dakota",
+      "electoral_votes": "3",
+      "total_votes": "",
+      "results": []
+    },
+    "OH": {
+      "name": "Ohio",
+      "electoral_votes": "18",
+      "total_votes": "",
+      "results": []
+    },
+    "OK": {
+      "name": "Oklahoma",
+      "electoral_votes": "7",
+      "total_votes": "",
+      "results": []
+    },
+    "OR": {
+      "name": "Oregon",
+      "electoral_votes": "7",
+      "total_votes": "",
+      "results": []
+    },
+    "PA": {
+      "name": "Pennsylvania",
+      "electoral_votes": "20",
+      "total_votes": "",
+      "results": []
+    },
+    "RI": {
+      "name": "Rhode Island",
+      "electoral_votes": "4",
+      "total_votes": "",
+      "results": []
+    },
+    "SC": {
+      "name": "South Carolina",
+      "electoral_votes": "9",
+      "total_votes": "",
+      "results": []
+    },
+    "SD": {
+      "name": "South Dakota",
+      "electoral_votes": "3",
+      "total_votes": "",
+      "results": []
+    },
+    "TN": {
+      "name": "Tennessee",
+      "electoral_votes": "11",
+      "total_votes": "",
+      "results": []
+    },
+    "TX": {
+      "name": "Texas",
+      "electoral_votes": "38",
+      "total_votes": "",
+      "results": []
+    },
+    "UT": {
+      "name": "Utah",
+      "electoral_votes": "6",
+      "total_votes": "",
+      "results": []
+    },
+    "VT": {
+      "name": "Vermont",
+      "electoral_votes": "3",
+      "total_votes": "",
+      "results": []
+    },
+    "VA": {
+      "name": "Virginia",
+      "electoral_votes": "13",
+      "total_votes": "",
+      "results": []
+    },
+    "WA": {
+      "name": "Washington",
+      "electoral_votes": "12",
+      "total_votes": "",
+      "results": []
+    },
+    "WV": {
+      "name": "West Virginia",
+      "electoral_votes": "5",
+      "total_votes": "",
+      "results": []
+    },
+    "WI": {
+      "name": "Wisconsin",
+      "electoral_votes": "10",
+      "total_votes": "",
+      "results": []
+    },
+    "WY": {
+      "name": "Wyoming",
+      "electoral_votes": "3",
+      "total_votes": "",
+      "results": []
+    }
   }
 }
