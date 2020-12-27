@@ -5,7 +5,10 @@ function CandidateTableRow({ name, party, votes, electoral_votes }) {
   const [wikiLink, setWikiLink] = useState(null);
 
   const getWikiPage = useCallback(async () => {
-    if (!name.includes(",")) return;
+    if (!name.includes(",")) {
+      setWikiLink(null);
+      return;
+    }
 
     let query = name.split(", ");
 
@@ -23,7 +26,7 @@ function CandidateTableRow({ name, party, votes, electoral_votes }) {
               wiki({ apiUrl: "https://en.wikipedia.org/w/api.php" })
                 .page(`${query[1]}`)
                 .then((page) => setWikiLink(page.raw.fullurl))
-                .catch(() => null);
+                .catch(() => setWikiLink(null));
             });
         });
   }, [name]);

@@ -11,7 +11,7 @@ function MethodModal({ showModal, setShowModal, method }) {
             <h2>Winner-Take-All method</h2>
             <h4>Description</h4>
             <p>
-              The <strong>winner-take-all method</strong> or
+              The <strong>winner-take-all method</strong> or{" "}
               <strong>block voting</strong> is a non-proportional voting system
               where, in the case of the United States, the party that has the
               most votes in a state gets all the electoral votes from that

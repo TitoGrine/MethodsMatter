@@ -58,7 +58,9 @@ export const dHondtMethod = (
       );
     });
 
-    outcome[0].electoral_votes++;
+    let i = 0;
+    for (i; outcome[i].party === ""; i++) {}
+    outcome[i].electoral_votes++;
     allocated_electoral_votes++;
   }
 
@@ -89,7 +91,9 @@ export const websterSainteMethod = (
       );
     });
 
-    outcome[0].electoral_votes++;
+    let i = 0;
+    for (i; outcome[i].party === ""; i++) {}
+    outcome[i].electoral_votes++;
     allocated_electoral_votes++;
   }
 
@@ -124,8 +128,10 @@ export const largestRemainderMethod = (
     allocated_electoral_votes < electoral_votes;
     i = (i + 1) % outcome.length
   ) {
-    outcome[i].electoral_votes++;
-    allocated_electoral_votes++;
+    if (outcome[i].party !== "") {
+      outcome[i].electoral_votes++;
+      allocated_electoral_votes++;
+    }
   }
 
   return outcome.map((result) => {
