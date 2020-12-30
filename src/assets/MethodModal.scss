@@ -3,22 +3,21 @@
 .method_modal {
   position: absolute;
   top: 20vh;
-  left: 20%;
-  right: 20%;
+  left: 15%;
+  right: 15%;
   bottom: 20vh;
   overflow-y: auto;
   border-radius: 5px;
 
   background-color: $primaryColor;
-  padding: 2em;
+  padding: 1.5em 2em;
 
   display: flex;
   flex-direction: column;
   justify-content: space-between;
 
   h2 {
-    margin: 0;
-    text-align: center;
+    margin: 0 auto;
     font-weight: 500;
   }
 

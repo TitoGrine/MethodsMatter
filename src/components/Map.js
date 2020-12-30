@@ -14,8 +14,10 @@ function Map() {
   const [quota, setQuota] = useState("hareQuota");
   const [outcome, setOutcome] = useState([]);
   const [winner, setWinner] = useState(null);
+  const [residualVotes, setResidualVotes] = useState(0);
   const [candidates, setCandidates] = useState(null);
   const [showModal, setShowModal] = useState(false);
+  const [stateName, setStateName] = useState("");
   const [stateInfo, setStateInfo] = useState("");
 
   const yearOptions = [
@@ -45,13 +47,15 @@ function Map() {
   ];
 
   /* mandatory */
-  const mapHandler = (event) => {
-    console.log(event.target);
-    alert(event.target.dataset.name);
+  const DCHandler = () => {
+    if (outcome.length > 0) {
+      setStateInfo(outcome.find((state) => state.state === "DC").outcome);
+      setStateName("District of Columbia");
+      setShowModal(true);
+    }
   };
 
   const getElectionWinner = (candidates) => {
-    console.log(candidates);
     if (
       candidates.length > 0 &&
       parseInt(candidates[0].electoral_votes) >= 270
@@ -68,6 +72,18 @@ function Map() {
         coalition: true,
       });
     }
+  };
+
+  const getResidualVotes = (candidates) => {
+    let totalVotes = 0;
+    let totalResidualVotes = 0;
+
+    candidates.forEach((candidate) => {
+      totalVotes += candidate.votes;
+      totalResidualVotes += candidate.residual_votes;
+    });
+
+    setResidualVotes(((totalResidualVotes / totalVotes) * 100).toFixed(1));
   };
 
   const getStateWinner = (state_outcome) => {
@@ -91,10 +107,11 @@ function Map() {
     outcome.forEach((state) => {
       let winner = getStateWinner(state.outcome);
 
-      stateConfig[state.state] = {
+      stateConfig[state.state === "DC" ? "DC2" : state.state] = {
         fill: getPartyColor(winner.party),
         clickHandler: () => {
           setStateInfo(state.outcome);
+          setStateName(state.name);
           setShowModal(true);
         },
       };
@@ -107,6 +124,7 @@ function Map() {
     let data = getOutcome(year, method, quota);
 
     getElectionWinner(data.candidates);
+    getResidualVotes(data.candidates);
     setOutcome(data.outcome);
     setCandidates(data.candidates);
   }, [year, method, quota]);
@@ -118,7 +136,7 @@ function Map() {
           <USAMap
             height={"50vh"}
             customize={statesCustomConfig()}
-            onClick={mapHandler}
+            onClick={DCHandler}
           />
         </div>
         <section className="sidebar">
@@ -181,9 +199,11 @@ function Map() {
         <StateModal
           showModal={showModal}
           setShowModal={setShowModal}
+          stateName={stateName}
           stateInfo={stateInfo}
         />
       </div>
+      <h1>Residual Votes: {residualVotes}%</h1>
       {winner && <OutcomeBanner winner={winner} year={year} />}
       {candidates && <CandidateTable candidates={candidates} />}
     </>

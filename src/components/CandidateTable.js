@@ -11,6 +11,7 @@ function CandidateTable({ candidates }) {
           <th>Party</th>
           <th>Votes</th>
           <th>Electoral Votes</th>
+          <th>Residual Votes</th>
         </tr>
       </thead>
       <tbody>
@@ -21,6 +22,7 @@ function CandidateTable({ candidates }) {
               party={candidate.party}
               votes={candidate.votes}
               electoral_votes={candidate.electoral_votes}
+              residual_votes={candidate.residual_votes}
             />
           );
         })}

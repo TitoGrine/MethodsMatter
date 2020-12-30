@@ -14,4 +14,8 @@
   border: none;
   cursor: pointer;
   padding: 0;
+
+  svg {
+    fill: $secondaryColor;
+  }
 }

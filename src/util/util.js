@@ -123,17 +123,21 @@ export const getOutcome = (year, methodName, quotaName) => {
         candidates[candidate.candidate].electoral_votes +=
           candidate.electoral_votes;
         candidates[candidate.candidate].votes += candidate.votes;
+        candidates[candidate.candidate].residual_votes +=
+          candidate.residual_votes;
       } else {
         candidates[candidate.candidate] = {
           party: candidate.party,
           votes: candidate.votes,
           electoral_votes: candidate.electoral_votes,
+          residual_votes: candidate.residual_votes,
         };
       }
     });
 
     outcome.push({
       state,
+      name: data[year][state].name,
       outcome: state_outcome,
     });
   });
@@ -146,6 +150,7 @@ export const getOutcome = (year, methodName, quotaName) => {
       party: candidates[candidate].party,
       votes: candidates[candidate].votes,
       electoral_votes: candidates[candidate].electoral_votes,
+      residual_votes: candidates[candidate].residual_votes,
     });
   }
 
