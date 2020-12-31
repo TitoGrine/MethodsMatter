@@ -195,6 +195,9 @@ function Map() {
             </div>
           </div>
           <InformationButton method={method} />
+          <h3>
+            Total Residual Votes: <span>{residualVotes}%</span>
+          </h3>
         </section>
         <StateModal
           showModal={showModal}
@@ -203,7 +206,6 @@ function Map() {
           stateInfo={stateInfo}
         />
       </div>
-      <h1>Residual Votes: {residualVotes}%</h1>
       {winner && <OutcomeBanner winner={winner} year={year} />}
       {candidates && <CandidateTable candidates={candidates} />}
     </>

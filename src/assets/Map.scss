@@ -4,12 +4,11 @@
   padding: 3em;
   margin: auto;
   display: flex;
-  justify-content: space-between;
+  justify-content: center;
 
   .map {
-    border-right: 2px solid $secondaryColor;
-    flex-grow: 2;
-    margin: auto;
+    //border-right: 2px solid $secondaryColor;
+    margin: 0;
 
     path,
     circle {
@@ -23,6 +22,7 @@
     flex-direction: column;
     justify-content: space-evenly;
     padding-left: 2em;
+    // border: 2px solid $secondaryColor;
 
     .settings {
       display: flex;
@@ -47,6 +47,7 @@
     }
 
     button {
+      margin: 0.75em 0;
       align-self: left;
       max-width: 70%;
       font-size: medium;
@@ -67,6 +68,17 @@
     button:hover {
       animation: fadeIn 0.2s linear;
       animation-fill-mode: forwards;
+    }
+
+    h3 {
+      margin: 0.75em 0;
+      text-align: left;
+      font-size: 20px;
+      font-weight: 500;
+
+      span {
+        color: $textColor;
+      }
     }
   }
 }
