@@ -1,19 +1,30 @@
-import React from "react";
+import React, { useState } from "react";
 import CandidateTableRow from "./CandidateTableRow";
 import "./../assets/CandidateTable.scss";
+import VisibilitySensor from "react-visibility-sensor";
 
-function CandidateTable({ candidates }) {
+function CandidateTable({ candidates, offset }) {
+  const [visible, setVisible] = useState(true);
+
+  const getStyle = () =>
+    visible ? { position: "inherit" } : { position: "sticky", top: "0" };
+
   return (
     <table className="candidate_table">
-      <thead>
-        <tr>
-          <th>Candidate</th>
-          <th>Party</th>
-          <th>Votes</th>
-          <th>Electoral Votes</th>
-          <th>Residual Votes</th>
-        </tr>
-      </thead>
+      <VisibilitySensor
+        onChange={setVisible}
+        offset={offset ? { top: "20vh" } : { top: 0 }}
+      >
+        <thead>
+          <tr>
+            <th style={getStyle()}>Candidate</th>
+            <th style={getStyle()}>Party</th>
+            <th style={getStyle()}>Votes</th>
+            <th style={getStyle()}>Electoral Votes</th>
+            <th style={getStyle()}>Residual Votes</th>
+          </tr>
+        </thead>
+      </VisibilitySensor>
       <tbody>
         {candidates.map((candidate) => {
           return (

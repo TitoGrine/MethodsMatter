@@ -11,7 +11,7 @@ function StateModal({ showModal, setShowModal, stateName, stateInfo }) {
       onRequestClose={() => setShowModal(false)}
     >
       <h1>· {stateName} ·</h1>
-      <CandidateTable candidates={stateInfo} />
+      <CandidateTable candidates={stateInfo} offset={true} />
       <button
         className="modal_close_button"
         onClick={() => setShowModal(false)}

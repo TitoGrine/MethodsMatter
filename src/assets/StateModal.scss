@@ -10,13 +10,13 @@
   border-radius: 5px;
 
   background-color: $primaryColor;
-  padding: 1.5em 2em;
+  padding: 0em 2em 1.5em 2em;
 
   display: flex;
   flex-direction: column;
 
   h1 {
-    margin: 0 auto 0.5em auto;
+    margin: 1.5em auto 0.5em auto;
     font-weight: 400;
     color: $textColor;
   }
