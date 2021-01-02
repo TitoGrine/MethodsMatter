@@ -19,3 +19,28 @@
     fill: $secondaryColor;
   }
 }
+
+.tooltip_icon {
+  margin-left: 8px;
+  svg {
+    circle {
+      stroke: $secondaryColor;
+    }
+
+    path {
+      fill: $secondaryColor;
+    }
+  }
+}
+
+.__react_component_tooltip {
+  text-align: left;
+  background-color: $primaryColor !important;
+  opacity: 1 !important;
+  color: $textColor !important;
+  font-weight: 400 !important;
+
+  a {
+    color: $secondaryColor;
+  }
+}

@@ -1,11 +1,11 @@
 import React, { useEffect, useState } from "react";
 import USAMap from "react-usa-map";
 import { getOutcome, getPartyColor } from "../util/util";
-
 import "./../assets/Map.scss";
 import CandidateTable from "./CandidateTable";
 import InformationButton from "./InformationButton";
 import OutcomeBanner from "./OutcomeBanner";
+import ResidualVotesTooltip from "./ResidualVotesTooltip";
 import StateModal from "./StateModal";
 
 function Map() {
@@ -197,6 +197,7 @@ function Map() {
           <InformationButton method={method} />
           <h3>
             Total Residual Votes: <span>{residualVotes}%</span>
+            <ResidualVotesTooltip verticalOffset={2} />
           </h3>
         </section>
         <StateModal

@@ -2,6 +2,7 @@ import React, { useState } from "react";
 import CandidateTableRow from "./CandidateTableRow";
 import "./../assets/CandidateTable.scss";
 import VisibilitySensor from "react-visibility-sensor";
+import ResidualVotesTooltip from "./ResidualVotesTooltip";
 
 function CandidateTable({ candidates, offset }) {
   const [visible, setVisible] = useState(true);
@@ -21,7 +22,10 @@ function CandidateTable({ candidates, offset }) {
             <th style={getStyle()}>Party</th>
             <th style={getStyle()}>Votes</th>
             <th style={getStyle()}>Electoral Votes</th>
-            <th style={getStyle()}>Residual Votes</th>
+            <th style={getStyle()}>
+              <span>Residual Votes</span>
+              <ResidualVotesTooltip verticalOffset={4} />
+            </th>
           </tr>
         </thead>
       </VisibilitySensor>

@@ -14,6 +14,10 @@
     padding: 0.5rem;
     height: 2.5em;
     background-color: $primaryColor;
+
+    span {
+      vertical-align: -4px;
+    }
   }
 
   td {
