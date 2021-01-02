@@ -21,17 +21,17 @@ function Map() {
   const [stateInfo, setStateInfo] = useState("");
 
   const yearOptions = [
-    { year: "1976", label: "1976 elections" },
-    { year: "1980", label: "1980 elections" },
-    { year: "1984", label: "1984 elections" },
-    { year: "1988", label: "1988 elections" },
-    { year: "1992", label: "1992 elections" },
-    { year: "1996", label: "1996 elections" },
-    { year: "2000", label: "2000 elections" },
-    { year: "2004", label: "2004 elections" },
-    { year: "2008", label: "2008 elections" },
-    { year: "2012", label: "2012 elections" },
-    { year: "2016", label: "2016 elections" },
+    { year: "1976", label: "1976 election" },
+    { year: "1980", label: "1980 election" },
+    { year: "1984", label: "1984 election" },
+    { year: "1988", label: "1988 election" },
+    { year: "1992", label: "1992 election" },
+    { year: "1996", label: "1996 election" },
+    { year: "2000", label: "2000 election" },
+    { year: "2004", label: "2004 election" },
+    { year: "2008", label: "2008 election" },
+    { year: "2012", label: "2012 election" },
+    { year: "2016", label: "2016 election" },
   ];
 
   const methodsOptions = [
@@ -149,7 +149,7 @@ function Map() {
               <select
                 name="year"
                 defaultValue={year}
-                placeholder={`${year} elections`}
+                placeholder={`${year} election`}
               >
                 {yearOptions.map((option) => {
                   return (

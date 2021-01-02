@@ -14,7 +14,7 @@ function OutcomeBanner({ winner, year }) {
   const getOutcomeText = () => {
     return coalition ? (
       <h2 className="winner_banner">
-        The {year} election would require a coalition.
+        The {year} election would require a coalition or runoff.
       </h2>
     ) : (
       <h2 className="winner_banner">
