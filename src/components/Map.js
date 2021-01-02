@@ -145,8 +145,12 @@ function Map() {
               className="election_year"
               onChange={(e) => setYear(e.target.value)}
             >
-              <label>Election Year: </label>
-              <select name="year" defaultValue={year}>
+              <label for="year">Election Year: </label>
+              <select
+                name="year"
+                defaultValue={year}
+                placeholder={`${year} elections`}
+              >
                 {yearOptions.map((option) => {
                   return (
                     <option value={option.year} selected={year === option.year}>
@@ -160,8 +164,8 @@ function Map() {
               className="allocation_method"
               onChange={(e) => setMethod(e.target.value)}
             >
-              <label>Allocation Method: </label>
-              <select name="year" defaultValue={year}>
+              <label for="year">Allocation Method: </label>
+              <select name="method" defaultValue={method}>
                 {methodsOptions.map((option) => {
                   return (
                     <option
@@ -175,7 +179,7 @@ function Map() {
               </select>
             </div>
             <div className="quota" onChange={(e) => setQuota(e.target.value)}>
-              <label>Quota: </label>
+              <label for="quota">Quota: </label>
               <select
                 name="quota"
                 defaultValue={quota}
@@ -194,11 +198,11 @@ function Map() {
               </select>
             </div>
           </div>
-          <InformationButton method={method} />
           <h3>
             Total Residual Votes: <span>{residualVotes}%</span>
             <ResidualVotesTooltip verticalOffset={2} />
           </h3>
+          <InformationButton method={method} />
         </section>
         <StateModal
           showModal={showModal}
