@@ -29,9 +29,9 @@ function AboutModal({ showModal, setShowModal }) {
       <h2>About Methods Matter</h2>
       <h4>Description</h4>
       <p>
-        Have you ever wondered what the outcome of US elections would be were
-        they not to use the winner takes all seats approach? Specially after the
-        2016 election it was evident that the current method wasn't the most
+        Have you ever wondered what the outcome of US elections would be if they
+        didn't use the winner takes all seats approach? Specially after the 2016
+        election it was evident that the current method wasn't the most
         representative, after Hillary Clinton won the popular vote by nearly 3
         million votes but failed to win the election.
       </p>
@@ -44,9 +44,9 @@ function AboutModal({ showModal, setShowModal }) {
         Of course, this is more of a though experiment than an actual depiction
         of what would happen, since both candiates and voters would have
         different strategies depending on how the elections work. For example,
-        the existence of "flip" states is a consequence of the winner-take-all
+        the existence of "flip" states is a consequence of the Winner-Take-All
         method, that allows all electoral votes from a state to go to only one
-        candidate and therefore there is an clear advantage to campaing in these
+        candidate and therefore there is a clear advantage to campaing in these
         states far more than in states that are more partisan. Were the process
         different, then candidates would probably not be as incentivised to
         campaing in these states, and instead have a more broad reach approach.
@@ -62,54 +62,57 @@ function AboutModal({ showModal, setShowModal }) {
         outcome in each state. The color represents the party that had the most
         electoral votes in that state, red being republican and blue being
         democrat. In the case of a tie, the color is of the party that had the
-        popular vote, that is, the most votes. You can click any of the 50
-        states to see a breakdown of the votes and electoral votes each
-        candidate had according to the selected method.
+        popular vote, that is, the most votes.
+        <br />
+        You can click any of the 50 states to see a breakdown of the votes and
+        electoral votes each candidate had according to the selected method.
       </p>
       <p>
         The <strong>settings</strong> is where you can set the parameters. The
-        first dropdown allows you to choose and election year, from 1976 to
-        2016. The second is where you can choose the seat allocation method. The
+        first dropdown allows you to choose an election year, from 1976 to 2016.
+        The second is where you can choose the seat allocation method. The
         default one is the Winner-Take-All method, currently the one used by
         most states in the presedential elections. If you select the Largest
         Remainder method, the third dropdown will enable you to choose the quota
-        used in the algorithm. If you want to know how each method works and
-        some of the countries that use it you can click the "Learn About Method"
-        button, when the method you want to know about is selected. This
-        includes an explanation of the quotas in the Largest Remainder method.
-        Lastly you have the total percentage of residual votes given that seat
+        used in the algorithm.
+        <br />
+        If you want to know how each method works and some of the countries that
+        use it, you can click the "Learn About Method" button. It will give you
+        information about the method that is currently selected. This includes
+        an explanation of the quotas in the Largest Remainder method. Lastly you
+        have the total percentage of residual votes given the current seat
         allocation method. If you want to know more about residual votes click
         the information icon next to the value.
       </p>
       <p>
         The <strong>outcome breakdown</strong>, as the name suggests, contains
         information on the outcome of the election when using the given
-        parameters. This inlcudes a banner telling you who the winner would be
-        and the number of electoral votes had. If no candidate reached the 270
-        electoral votes necessary to win the election, the banner suggests that
-        either a coalition or a runoff wouldd need to happen.
+        parameters. This includes a banner telling you who the winner would be
+        and the number of electoral votes gotten. If no candidate reached the
+        270 electoral votes necessary to win the election, the banner suggests
+        that either a coalition or a runoff would need to happen.
         <br />
         Bellow the banner you have a table with all the candidates, their
         respective party, the total number of votes they had, the electoral
-        votes they managed to have and the percentage of their votes that were
+        votes they managed to get and the percentage of their votes that were
         residual.
       </p>
       <h4>Questions</h4>
       <ol>
         <li>
-          Why are some the number of electoral votes allocated to each candidate
-          different from reality when using the Winner-Take-All method?
+          Why do some of the electoral votes allocated to a candidate differ
+          from reality when using the Winner-Take-All method?
         </li>
         <p>
-          It's expected that when using the Winner-Take-All method the results
-          would match the ones from the actual election. However, things are not
-          that simples, even though most states use the the Winner-Take-All
-          method, currently both Maine and Nebraska, have the possibility to
-          split their electoral votes to multiple candidates. This is because
-          they use the Winner-Take-All method on a district base, meaning if
-          different parties win the popular vote in different districts, they
-          both get electoral votes, eventhough only one of them won the popular
-          vote in the state.
+          It would be expected that when using the Winner-Take-All method the
+          results gotten would match the ones from the actual election. However,
+          things are not that simple. Even though most states use the the
+          Winner-Take-All method, currently both Maine and Nebraska, have the
+          possibility to split their electoral votes to multiple candidates.
+          This is because they use the Winner-Take-All method on a district
+          base, meaning if different parties win the popular vote in different
+          districts, they both get electoral votes, eventhough only one of them
+          won the popular vote in the state.
         </p>
         <p>
           This model doesn't contemplate this difference in these two states and
@@ -165,13 +168,13 @@ function AboutModal({ showModal, setShowModal }) {
         </li>
         <p>
           You can check the Sources section next to see where I got the election
-          data. The short answer is the source didn't have information regarding
-          election prior to 1976 and the 2020 election is still to recent to
-          have all the data organized and available to the public.
+          data. The short answer is that the source didn't have information
+          regarding election prior to 1976 and the 2020 election is still to
+          recent to have all the data organized and available to the public.
         </p>
         <p>
           If you have or know of a source of data for years that are not
-          available get in contact with me or open an issue in the github
+          available get in contact with me or open an issue in the Github
           project page and I'll see if I can add it!
         </p>
         <li>So, which is the best method?</li>
@@ -192,10 +195,10 @@ function AboutModal({ showModal, setShowModal }) {
           On the other hand, the other methods are more representative of the
           people's will and as such can be seen as fairer. Coalitions can also
           be great to make reforms that would otherwise not happen under one
-          party. As part of the caolition it's common that the smaller party
+          party. As part of a coalition it's common that the smaller party
           approves or abstains from most of the proposals made by the larger
           party in exchange to pass some proposals of their own that can
-          sometimes have a meaningful impact in people's life.
+          sometimes have a meaningful impact on people's lives.
         </p>
       </ol>
       <h4>Sources</h4>
@@ -254,7 +257,7 @@ function AboutModal({ showModal, setShowModal }) {
         >
           wikijs
         </a>{" "}
-        package. The US map representation is made using the{" "}
+        package. The US map representation is made possible using the{" "}
         <a
           href="https://github.com/gabidavila/react-usa-map"
           target="_blank"
@@ -265,7 +268,7 @@ function AboutModal({ showModal, setShowModal }) {
         package.
       </p>
       <p>
-        It is currently being hosted on{" "}
+        The wbsite is currently hosted on{" "}
         <a
           href="https://www.netlify.com"
           target="_blank"
@@ -285,8 +288,8 @@ function AboutModal({ showModal, setShowModal }) {
           here
         </a>
         . If you encounter any bugs or have some suggestions to improve the site
-        feel free to open an issue! If you liked the website, consider giving it
-        a star{" "}
+        feel free to open an issue! If you liked the website, consider giving
+        the project a star{" "}
         <span role="img" aria-label="Friendly emoji.">
           😊
         </span>
