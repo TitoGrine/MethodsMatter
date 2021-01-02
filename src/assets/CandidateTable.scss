@@ -2,7 +2,7 @@
 
 .candidate_table {
   width: 100%;
-  max-width: 60vw;
+  max-width: 70vw;
   border-color: $secondaryColor;
   margin: 0 auto;
   padding-bottom: 0.5em;
@@ -13,6 +13,11 @@
     border-bottom: 1px solid $secondaryColor;
     padding: 0.5rem;
     height: 2.5em;
+    background-color: $primaryColor;
+
+    span {
+      vertical-align: -4px;
+    }
   }
 
   td {
@@ -29,7 +34,8 @@
     text-align: right;
   }
 
-  td:nth-child(even) {
+  td:nth-child(even),
+  td:last-child {
     text-align: center;
   }
 

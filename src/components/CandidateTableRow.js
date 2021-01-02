@@ -1,7 +1,13 @@
 import React, { useCallback, useEffect, useState } from "react";
 import wiki from "wikijs";
 
-function CandidateTableRow({ name, party, votes, electoral_votes }) {
+function CandidateTableRow({
+  name,
+  party,
+  votes,
+  electoral_votes,
+  residual_votes,
+}) {
   const [wikiLink, setWikiLink] = useState(null);
 
   const getWikiPage = useCallback(async () => {
@@ -49,6 +55,7 @@ function CandidateTableRow({ name, party, votes, electoral_votes }) {
       <td>{party ? party.charAt(0).toUpperCase() + party.slice(1) : "-"}</td>
       <td>{votes}</td>
       <td>{electoral_votes}</td>
+      <td>{((residual_votes / votes) * 100).toFixed(1)}%</td>
     </tr>
   );
 }

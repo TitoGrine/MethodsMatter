@@ -6,7 +6,7 @@
 
 .modal_close_button {
   position: absolute;
-  top: 26px;
+  top: 28px;
   right: -5px;
   transform: translate(-50%, -50%);
   color: $secondaryColor;
@@ -14,4 +14,33 @@
   border: none;
   cursor: pointer;
   padding: 0;
+
+  svg {
+    fill: $secondaryColor;
+  }
+}
+
+.tooltip_icon {
+  margin-left: 8px;
+  svg {
+    circle {
+      stroke: $secondaryColor;
+    }
+
+    path {
+      fill: $secondaryColor;
+    }
+  }
+}
+
+.__react_component_tooltip {
+  text-align: left;
+  background-color: $primaryColor !important;
+  opacity: 1 !important;
+  color: $textColor !important;
+  font-weight: 400 !important;
+
+  a {
+    color: $secondaryColor;
+  }
 }

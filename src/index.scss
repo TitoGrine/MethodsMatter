@@ -1,14 +1,15 @@
 @import url("https://fonts.googleapis.com/css2?family=Barlow:wght@100;200;300;400;500;600;700;800&display=swap");
+@import "./src/assets/variables.scss";
 
 body {
   margin: 0;
   font-family: "Barlow", -apple-system, BlinkMacSystemFont, "Segoe UI",
     sans-serif;
-  color: #52ffb8;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
 
-  background: #0b1015;
+  color: $secondaryColor;
+  background: $primaryColor;
 }
 
 code {

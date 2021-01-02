@@ -1,3 +1,57 @@
+// Helper Functions
+
+const calcAdvantageRatio = (
+  party_seats,
+  total_seats,
+  party_votes,
+  total_votes
+) => party_seats / total_seats / (party_votes / total_votes);
+
+const calcResidualVotes = (
+  party_seats,
+  total_seats,
+  party_votes,
+  total_votes,
+  percentage_residual_votes
+) =>
+  Math.max(
+    0,
+    party_votes / total_votes -
+      (1 - percentage_residual_votes) * (party_seats / total_seats)
+  ) * total_votes;
+
+const addResidualVotes = (outcome, electoral_votes, total_votes) => {
+  let highest_advantage_ratio = 0;
+
+  outcome.forEach(
+    (candidate) =>
+      (highest_advantage_ratio = Math.max(
+        calcAdvantageRatio(
+          candidate.electoral_votes,
+          electoral_votes,
+          candidate.votes,
+          total_votes
+        ),
+        highest_advantage_ratio
+      ))
+  );
+
+  const percentage_residual_votes = 1 - 1 / highest_advantage_ratio;
+
+  outcome.forEach(
+    (candidate) =>
+      (candidate.residual_votes = calcResidualVotes(
+        candidate.electoral_votes,
+        electoral_votes,
+        candidate.votes,
+        total_votes,
+        percentage_residual_votes
+      ))
+  );
+
+  return outcome;
+};
+
 // Quota Functions
 
 export const hareQuota = (total_votes, electoral_votes) =>
@@ -29,10 +83,11 @@ export const winnerTakesAll = (
       votes: parseInt(result.votes),
       electoral_votes:
         maxVotes === parseInt(result.votes) ? parseInt(electoral_votes) : 0,
+      residual_votes: 0,
     });
   });
 
-  return outcome;
+  return addResidualVotes(outcome, electoral_votes, total_votes);
 };
 
 export const dHondtMethod = (
@@ -48,6 +103,7 @@ export const dHondtMethod = (
       party: candidate.party,
       votes: parseInt(candidate.votes),
       electoral_votes: 0,
+      residual_votes: 0,
     };
   });
 
@@ -64,7 +120,7 @@ export const dHondtMethod = (
     allocated_electoral_votes++;
   }
 
-  return outcome;
+  return addResidualVotes(outcome, electoral_votes, total_votes);
 };
 
 export const websterSainteMethod = (
@@ -97,7 +153,7 @@ export const websterSainteMethod = (
     allocated_electoral_votes++;
   }
 
-  return outcome;
+  return addResidualVotes(outcome, electoral_votes, total_votes);
 };
 
 export const largestRemainderMethod = (
@@ -117,6 +173,7 @@ export const largestRemainderMethod = (
       party: candidate.party,
       votes: parseInt(candidate.votes),
       electoral_votes: assured_votes,
+      residual_votes: 0,
       remainder: parseInt(candidate.votes) / quota - assured_votes,
     };
   });
@@ -134,12 +191,15 @@ export const largestRemainderMethod = (
     }
   }
 
+  outcome = addResidualVotes(outcome, electoral_votes, total_votes);
+
   return outcome.map((result) => {
     return {
       candidate: result.candidate,
       party: result.party,
       votes: result.votes,
       electoral_votes: result.electoral_votes,
+      residual_votes: result.residual_votes,
     };
   });
 };
