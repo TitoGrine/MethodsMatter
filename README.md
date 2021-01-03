@@ -1,70 +1,32 @@
-# Getting Started with Create React App
+## Methods Matter
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+<p align="center">
+  <img width="75" height="75" src="https://github.com/TitoGrine/MethodsMatter/blob/master/src/assets/scss/images/logo.svg">
+</p>
 
-## Available Scripts
+Have you ever wondered what the outcome of US elections would be if they didn't use the winner takes all seats approach? Specially after the 2016 election it was evident that the current method wasn't the most representative, after Hillary Clinton won the popular vote by nearly 3 million votes but failed to win the election.
 
-In the project directory, you can run:
+**Method Matter** is an attempt to estimate the outcome of US elections from 1976 to 2016 if other common methods of seat allocation were used instead like the D'Hondt method or the Largest Remainder method. 
 
-### `npm start`
+The goal is to explore how these different methods can greatly influence the outcome of an election. Are they prone to form coalitions? Do they favor smaller or larger parties? How representative are they?  
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in the browser.
+It is however important to note that the results obtained are by no means facts, since both candidates and voters would change their strategy depending on how the elections work.
+  
+### Sources
 
-The page will reload if you make edits.\
-You will also see any lint errors in the console.
+Most of the data regarding the elections came from the [MIT Election Data + Science Lab](https://dataverse.harvard.edu/dataset.xhtml?persistentId=doi:10.7910/DVN/42MVDX) dataset.
 
-### `npm test`
+Information regarding the number of electoral votes each state was conceded in the election years between 1976 and 2016 was taken from [270toWin](https://www.270towin.com/state-electoral-vote-history/).
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+Information about each method was mostly gathered from Wikipedia and some papers. They can be found in the explanation of each method in the More Information section (on the website).
 
-### `npm run build`
+### Technology
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+This project is built with React and bootstrapped with [Create React App](https://github.com/facebook/create-react-app) with [Sass](https://sass-lang.com/) to help with the CSS.  
+To get the Wikipedia pages of each candidate, calls to the Wikipedia API are made using the [wikijs](https://github.com/dijs/wiki) package.  
+The US map representation is made possible using the [react-usa-map](https://github.com/gabidavila/react-usa-map) package.  
+The website is currently hosted on [Netlify](https://www.netlify.com).
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+### Contacts
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can’t go back!**
-
-If you aren’t satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you’re on your own.
-
-You don’t have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn’t feel obligated to use this feature. However we understand that this tool wouldn’t be useful if you couldn’t customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+If you encounter any bugs or want to request some feature feel free to open an issue on this repository!

@@ -1,6 +1,6 @@
 import React from "react";
 import Modal from "react-modal";
-import "./../assets/MethodModal.scss";
+import "./../../assets/scss/MethodModal.scss";
 
 function MethodModal({ showModal, setShowModal, method }) {
   const getMethodInformation = () => {

@@ -1,28 +1,18 @@
 import React from "react";
-import { getPartyColor } from "../util/util";
-import "./../assets/OutcomeBanner.scss";
+import "./../../assets/scss/OutcomeBanner.scss";
 
 function OutcomeBanner({ winner, year }) {
-  const { coalition, name, party, electoral_votes } = winner;
-
-  const getStyle = () => {
-    return {
-      color: `${getPartyColor(party)}`,
-    };
-  };
+  const { coalition, name, electoral_votes } = winner;
 
   const getOutcomeText = () => {
     return coalition ? (
       <h2 className="winner_banner">
-        The {year} election would require a coalition.
+        The {year} election would require a coalition or runoff.
       </h2>
     ) : (
       <h2 className="winner_banner">
         The {year} election would be won by{" "}
-        <strong className="winner_name" style={getStyle()}>
-          {name}
-        </strong>{" "}
-        with{" "}
+        <strong className="winner_name">{name}</strong> with{" "}
         <strong className="winner_votes">
           {electoral_votes} electoral votes
         </strong>

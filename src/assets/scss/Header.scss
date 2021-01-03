@@ -1,0 +1,53 @@
+@import url("https://fonts.googleapis.com/css2?family=Questrial&display=swap");
+@import "variables.scss";
+
+.header {
+  margin: 2em 0 0 0;
+  padding: 0;
+  box-sizing: border-box;
+  position: relative;
+  display: inline-block;
+  vertical-align: middle;
+  text-align: center;
+  white-space: nowrap;
+
+  h1 {
+    display: inline-block;
+    color: $secondaryColor;
+    font-family: "Questrial", serif;
+    font-size: 50px;
+    letter-spacing: 6px;
+    text-shadow: 0.06em 0.06em 0 $primaryColor;
+    margin: 0;
+  }
+
+  h1:after {
+    content: attr(data-shadow);
+    position: absolute;
+    left: 0.12em;
+    transform: translate(0px, 6px);
+    z-index: -1;
+    text-shadow: none;
+    background-image: linear-gradient(
+      45deg,
+      transparent 45%,
+      $secondaryColor 45%,
+      $secondaryColor 55%,
+      transparent 0
+    );
+    background-size: 0.15em 0.15em;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+
+    animation: shad-anim 40s linear infinite;
+  }
+}
+
+@keyframes shad-anim {
+  0% {
+    background-position: 0 0;
+  }
+  0% {
+    background-position: 100% -100%;
+  }
+}

@@ -1,12 +1,12 @@
 import React, { useEffect, useState } from "react";
 import USAMap from "react-usa-map";
 import { getOutcome, getPartyColor } from "../util/util";
-import "./../assets/Map.scss";
-import CandidateTable from "./CandidateTable";
-import InformationButton from "./InformationButton";
-import OutcomeBanner from "./OutcomeBanner";
-import ResidualVotesTooltip from "./ResidualVotesTooltip";
-import StateModal from "./StateModal";
+import "./../assets/scss/Map.scss";
+import CandidateTable from "./Table/CandidateTable";
+import InformationButton from "./Button/InformationButton";
+import OutcomeBanner from "./Misc/OutcomeBanner";
+import ResidualVotesTooltip from "./Misc/ResidualVotesTooltip";
+import StateModal from "./Modal/StateModal";
 
 function Map() {
   const [year, setYear] = useState("2016");
@@ -21,17 +21,17 @@ function Map() {
   const [stateInfo, setStateInfo] = useState("");
 
   const yearOptions = [
-    { year: "1976", label: "1976 elections" },
-    { year: "1980", label: "1980 elections" },
-    { year: "1984", label: "1984 elections" },
-    { year: "1988", label: "1988 elections" },
-    { year: "1992", label: "1992 elections" },
-    { year: "1996", label: "1996 elections" },
-    { year: "2000", label: "2000 elections" },
-    { year: "2004", label: "2004 elections" },
-    { year: "2008", label: "2008 elections" },
-    { year: "2012", label: "2012 elections" },
-    { year: "2016", label: "2016 elections" },
+    { year: "1976", label: "1976 election" },
+    { year: "1980", label: "1980 election" },
+    { year: "1984", label: "1984 election" },
+    { year: "1988", label: "1988 election" },
+    { year: "1992", label: "1992 election" },
+    { year: "1996", label: "1996 election" },
+    { year: "2000", label: "2000 election" },
+    { year: "2004", label: "2004 election" },
+    { year: "2008", label: "2008 election" },
+    { year: "2012", label: "2012 election" },
+    { year: "2016", label: "2016 election" },
   ];
 
   const methodsOptions = [
@@ -145,8 +145,12 @@ function Map() {
               className="election_year"
               onChange={(e) => setYear(e.target.value)}
             >
-              <label>Election Year: </label>
-              <select name="year" defaultValue={year}>
+              <label for="year">Election Year: </label>
+              <select
+                name="year"
+                defaultValue={year}
+                placeholder={`${year} election`}
+              >
                 {yearOptions.map((option) => {
                   return (
                     <option value={option.year} selected={year === option.year}>
@@ -160,8 +164,8 @@ function Map() {
               className="allocation_method"
               onChange={(e) => setMethod(e.target.value)}
             >
-              <label>Allocation Method: </label>
-              <select name="year" defaultValue={year}>
+              <label for="year">Allocation Method: </label>
+              <select name="method" defaultValue={method}>
                 {methodsOptions.map((option) => {
                   return (
                     <option
@@ -175,7 +179,7 @@ function Map() {
               </select>
             </div>
             <div className="quota" onChange={(e) => setQuota(e.target.value)}>
-              <label>Quota: </label>
+              <label for="quota">Quota: </label>
               <select
                 name="quota"
                 defaultValue={quota}
@@ -194,11 +198,11 @@ function Map() {
               </select>
             </div>
           </div>
-          <InformationButton method={method} />
           <h3>
             Total Residual Votes: <span>{residualVotes}%</span>
             <ResidualVotesTooltip verticalOffset={2} />
           </h3>
+          <InformationButton method={method} />
         </section>
         <StateModal
           showModal={showModal}
