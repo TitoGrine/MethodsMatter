@@ -2,7 +2,7 @@ import "./App.scss";
 import Map from "./components/Map";
 import Footer from "./components/Footer";
 import Header from "./components/Header";
-import AboutButton from "./components/AboutButton";
+import AboutButton from "./components/Button/AboutButton";
 
 function App() {
   return (

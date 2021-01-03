@@ -1,12 +1,12 @@
 import React, { useEffect, useState } from "react";
 import USAMap from "react-usa-map";
 import { getOutcome, getPartyColor } from "../util/util";
-import "./../assets/Map.scss";
-import CandidateTable from "./CandidateTable";
-import InformationButton from "./InformationButton";
-import OutcomeBanner from "./OutcomeBanner";
-import ResidualVotesTooltip from "./ResidualVotesTooltip";
-import StateModal from "./StateModal";
+import "./../assets/scss/Map.scss";
+import CandidateTable from "./Table/CandidateTable";
+import InformationButton from "./Button/InformationButton";
+import OutcomeBanner from "./Misc/OutcomeBanner";
+import ResidualVotesTooltip from "./Misc/ResidualVotesTooltip";
+import StateModal from "./Modal/StateModal";
 
 function Map() {
   const [year, setYear] = useState("2016");

@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import MethodModal from "./MethodModal";
+import MethodModal from "../Modal/MethodModal";
 
 function InformationButton({ method }) {
   const [showModal, setShowModal] = useState(false);

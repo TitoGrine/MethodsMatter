@@ -1,5 +1,9 @@
 ## Methods Matter
 
+<p align="center">
+  <img width="75" height="75" src="https://github.com/TitoGrine/MethodsMatter/blob/master/src/assets/scss/images/logo.svg">
+</p>
+
 Have you ever wondered what the outcome of US elections would be if they didn't use the winner takes all seats approach? Specially after the 2016 election it was evident that the current method wasn't the most representative, after Hillary Clinton won the popular vote by nearly 3 million votes but failed to win the election.
 
 **Method Matter** is an attempt to estimate the outcome of US elections from 1976 to 2016 if other common methods of seat allocation were used instead like the D'Hondt method or the Largest Remainder method. 

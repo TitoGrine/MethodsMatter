@@ -1,4 +1,4 @@
-@import "./src/assets/variables.scss";
+@import "./src/assets/scss/variables.scss";
 
 .App {
   text-align: center;
@@ -13,11 +13,11 @@
     color: $textColorVariant;
 
     a {
-      color: $textColor;
+      color: $secondaryColor;
       text-decoration: none;
 
       &:hover {
-        color: $secondaryColor;
+        text-decoration: underline;
       }
     }
   }
@@ -85,9 +85,15 @@
   opacity: 1 !important;
   color: $textColor !important;
   font-weight: 400 !important;
+  font-size: 15px !important;
 
   a {
     color: $secondaryColor;
+    text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
   }
 }
 

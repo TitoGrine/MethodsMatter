@@ -1,8 +1,8 @@
 import React, { useState } from "react";
 import CandidateTableRow from "./CandidateTableRow";
-import "./../assets/CandidateTable.scss";
+import "./../../assets/scss/CandidateTable.scss";
 import VisibilitySensor from "react-visibility-sensor";
-import ResidualVotesTooltip from "./ResidualVotesTooltip";
+import ResidualVotesTooltip from "../Misc/ResidualVotesTooltip";
 
 function CandidateTable({ candidates, offset }) {
   const [visible, setVisible] = useState(true);

@@ -46,6 +46,10 @@
   a {
     color: $secondaryColor;
     text-decoration: none;
+
+    &:hover {
+      text-decoration: underline;
+    }
   }
 
   .spacer {

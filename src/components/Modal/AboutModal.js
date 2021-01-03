@@ -1,6 +1,6 @@
 import React from "react";
 import Modal from "react-modal";
-import "./../assets/AboutModal.scss";
+import "./../../assets/scss/AboutModal.scss";
 
 function AboutModal({ showModal, setShowModal }) {
   return (

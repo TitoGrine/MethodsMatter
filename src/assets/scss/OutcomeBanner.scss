@@ -9,6 +9,10 @@
   border-bottom: 2px dotted $secondaryColor;
   color: $textColor;
 
+  .winner_name {
+    color: $secondaryColor;
+  }
+
   .winner_votes {
     font-weight: 500;
     text-decoration: underline;

@@ -1,7 +1,7 @@
 import React from "react";
 import Modal from "react-modal";
-import "./../assets/StateModal.scss";
-import CandidateTable from "./CandidateTable";
+import "./../../assets/scss/StateModal.scss";
+import CandidateTable from "../Table/CandidateTable";
 
 function StateModal({ showModal, setShowModal, stateName, stateInfo }) {
   return (

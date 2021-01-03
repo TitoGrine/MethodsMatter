@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import AboutModal from "./AboutModal";
+import AboutModal from "../Modal/AboutModal";
 
 function AboutButton() {
   const [showModal, setShowModal] = useState(false);
