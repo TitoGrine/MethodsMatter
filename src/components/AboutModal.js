@@ -248,7 +248,7 @@ function AboutModal({ showModal, setShowModal }) {
         >
           Sass
         </a>{" "}
-        to help with the css. To get the Wikipedia pages of each candidate,
+        to help with the CSS. To get the Wikipedia pages of each candidate,
         calls to the Wikipedia API are made using the{" "}
         <a
           href="https://github.com/dijs/wiki"
