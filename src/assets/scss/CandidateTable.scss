@@ -2,7 +2,7 @@
 
 .candidate_table {
   width: 100%;
-  max-width: 70vw;
+  max-width: 80vw;
   border-color: $secondaryColor;
   margin: 0 auto;
   padding-bottom: 0.5em;
@@ -46,5 +46,20 @@
 
   tbody > tr:nth-child(even) {
     background-color: $primaryColorVariant;
+  }
+}
+
+@media (max-width: #{$mediaMaxWidth}) {
+  .candidate_table {
+    max-width: 90vw;
+  }
+}
+
+@media (max-width: #{$mediaMobileWidth}) {
+  .candidate_table {
+    display: block;
+    max-width: 100vw;
+    font-size: 12px;
+    overflow-x: scroll;
   }
 }

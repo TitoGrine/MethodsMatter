@@ -66,6 +66,12 @@
   }
 }
 
+@media (max-width: #{$mediaMobileWidth}) {
+  .about_button {
+    top: 75px;
+  }
+}
+
 .tooltip_icon {
   margin-left: 8px;
   svg {

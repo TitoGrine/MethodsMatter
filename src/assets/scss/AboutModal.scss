@@ -2,10 +2,10 @@
 
 .about_modal {
   position: absolute;
-  top: 10vh;
+  top: 15vh;
   left: 15%;
   right: 15%;
-  bottom: 10vh;
+  bottom: 15vh;
   overflow-y: auto;
   border-radius: 5px;
 
@@ -55,5 +55,23 @@
   .spacer {
     min-height: 2em;
     margin-bottom: 2em;
+  }
+}
+
+@media (max-width: #{$mediaMaxWidth}) {
+  .about_modal {
+    left: 10%;
+    right: 10%;
+    top: 10vh;
+    bottom: 10vh;
+  }
+}
+
+@media (max-width: #{$mediaMobileWidth}) {
+  .about_modal {
+    left: 5%;
+    right: 5%;
+    top: 5vh;
+    bottom: 5vh;
   }
 }
