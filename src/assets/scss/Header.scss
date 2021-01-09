@@ -43,6 +43,14 @@
   }
 }
 
+@media (max-width: #{$mediaMobileWidth}) {
+  .header {
+    h1 {
+      font-size: 30px;
+    }
+  }
+}
+
 @keyframes shad-anim {
   0% {
     background-position: 0 0;

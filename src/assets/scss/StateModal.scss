@@ -2,10 +2,10 @@
 
 .state_modal {
   position: absolute;
-  top: 20vh;
+  top: 15vh;
   left: 15%;
   right: 15%;
-  bottom: 20vh;
+  bottom: 15vh;
   overflow-y: auto;
   border-radius: 5px;
 
@@ -19,5 +19,23 @@
     margin: 1em auto 0.5em auto;
     font-weight: 400;
     color: $textColor;
+  }
+}
+
+@media (max-width: #{$mediaMaxWidth}) {
+  .state_modal {
+    left: 10%;
+    right: 10%;
+    top: 10vh;
+    bottom: 10vh;
+  }
+}
+
+@media (max-width: #{$mediaMobileWidth}) {
+  .state_modal {
+    left: 5%;
+    right: 5%;
+    top: 5vh;
+    bottom: 5vh;
   }
 }

@@ -134,7 +134,7 @@ function Map() {
       <div className="map-section">
         <div className="map">
           <USAMap
-            height={"50vh"}
+            // width={"50vw"}
             customize={statesCustomConfig()}
             onClick={DCHandler}
           />
