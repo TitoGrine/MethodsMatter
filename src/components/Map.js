@@ -9,7 +9,7 @@ import ResidualVotesTooltip from "./Misc/ResidualVotesTooltip";
 import StateModal from "./Modal/StateModal";
 
 function Map() {
-  const [year, setYear] = useState("2016");
+  const [year, setYear] = useState("2020");
   const [method, setMethod] = useState("winnerTakesAll");
   const [quota, setQuota] = useState("hareQuota");
   const [outcome, setOutcome] = useState([]);
@@ -32,6 +32,7 @@ function Map() {
     { year: "2008", label: "2008 election" },
     { year: "2012", label: "2012 election" },
     { year: "2016", label: "2016 election" },
+    { year: "2020", label: "2020 election" },
   ];
 
   const methodsOptions = [

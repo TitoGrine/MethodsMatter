@@ -22652,308 +22652,3084 @@
     "AL": {
       "name": "Alabama",
       "electoral_votes": "9",
-      "total_votes": "",
-      "results": []
+      "total_votes": "2323282",
+      "results": [
+        {
+          "candidate": "Biden, Joseph R. Jr",
+          "party": "democrat",
+          "votes": "849624"
+        },
+        {
+          "candidate": "Trump, Donald J.",
+          "party": "republican",
+          "votes": "1441170"
+        },
+        {
+          "candidate": "Jorgensen, Jo",
+          "party": "libertarian",
+          "votes": "25176"
+        },
+        {
+          "candidate": "",
+          "party": "",
+          "votes": "7312"
+        }
+      ]
     },
     "AK": {
       "name": "Alaska",
       "electoral_votes": "3",
-      "total_votes": "",
-      "results": []
+      "total_votes": "359530",
+      "results": [
+        {
+          "candidate": "Biden, Joseph R. Jr",
+          "party": "democrat",
+          "votes": "153778"
+        },
+        {
+          "candidate": "Trump, Donald J.",
+          "party": "republican",
+          "votes": "189951"
+        },
+        {
+          "candidate": "Jorgensen, Jo",
+          "party": "libertarian",
+          "votes": "8897"
+        },
+        {
+          "candidate": "De La Fuente, Roque \"\"rocky\"\"",
+          "party": "alliance",
+          "votes": "318"
+        },
+        {
+          "candidate": "Pierce, Brock",
+          "party": "independent",
+          "votes": "825"
+        },
+        {
+          "candidate": "Janos, James G. \"jesse Ventura\"",
+          "party": "green",
+          "votes": "2673"
+        },
+        {
+          "candidate": "Blankenship, Don",
+          "party": "constitution party",
+          "votes": "1127"
+        },
+        {
+          "candidate": "",
+          "party": "",
+          "votes": "1961"
+        }
+      ]
     },
     "AZ": {
       "name": "Arizona",
       "electoral_votes": "11",
-      "total_votes": "",
-      "results": []
+      "total_votes": "3387326",
+      "results": [
+        {
+          "candidate": "Biden, Joseph R. Jr",
+          "party": "democrat",
+          "votes": "1672143"
+        },
+        {
+          "candidate": "Trump, Donald J.",
+          "party": "republican",
+          "votes": "1661686"
+        },
+        {
+          "candidate": "Jorgensen, Jo",
+          "party": "libertarian",
+          "votes": "51465"
+        },
+        {
+          "candidate": "La Riva, Gloria Estella",
+          "party": "party for socialism and liberation",
+          "votes": "190"
+        },
+        {
+          "candidate": "Cummings, Daniel Clyde",
+          "party": "constitution party",
+          "votes": "36"
+        },
+        {
+          "candidate": "Simmons, Jade",
+          "party": "independent",
+          "votes": "236"
+        },
+        {
+          "candidate": "Boddie, R. President",
+          "party": "independent",
+          "votes": "13"
+        },
+        {
+          "candidate": "Hawkins, Howie",
+          "party": "green",
+          "votes": "1557"
+        }
+      ]
     },
     "AR": {
       "name": "Arkansas",
       "electoral_votes": "6",
-      "total_votes": "",
-      "results": []
+      "total_votes": "1219069",
+      "results": [
+        {
+          "candidate": "Carroll, Brian",
+          "party": "american solidarity party",
+          "votes": "1713"
+        },
+        {
+          "candidate": "Blankenship, Don",
+          "party": "constitution party",
+          "votes": "2108"
+        },
+        {
+          "candidate": "Biden, Joseph R. Jr",
+          "party": "democrat",
+          "votes": "423932"
+        },
+        {
+          "candidate": "Hawkins, Howie",
+          "party": "green",
+          "votes": "2980"
+        },
+        {
+          "candidate": "Pierce, Brock",
+          "party": "independent",
+          "votes": "2141"
+        },
+        {
+          "candidate": "Gammon, C. L.",
+          "party": "independent",
+          "votes": "1475"
+        },
+        {
+          "candidate": "West, Kanye",
+          "party": "independent",
+          "votes": "4099"
+        },
+        {
+          "candidate": "Collins, Phil",
+          "party": "independent",
+          "votes": "2812"
+        },
+        {
+          "candidate": "De La Fuente, Roque \"\"rocky\"\"",
+          "party": "independent",
+          "votes": "1321"
+        },
+        {
+          "candidate": "Jorgensen, Jo",
+          "party": "libertarian",
+          "votes": "13133"
+        },
+        {
+          "candidate": "Myers, John Richard",
+          "party": "life and liberty party",
+          "votes": "1372"
+        },
+        {
+          "candidate": "Trump, Donald J.",
+          "party": "republican",
+          "votes": "760647"
+        },
+        {
+          "candidate": "La Riva, Gloria Estella",
+          "party": "party for socialism and liberation",
+          "votes": "1336"
+        }
+      ]
     },
     "CA": {
       "name": "California",
       "electoral_votes": "55",
-      "total_votes": "",
-      "results": []
+      "total_votes": "17500881",
+      "results": [
+        {
+          "candidate": "Biden, Joseph R. Jr",
+          "party": "democrat",
+          "votes": "11110250"
+        },
+        {
+          "candidate": "Trump, Donald J.",
+          "party": "republican",
+          "votes": "6006429"
+        },
+        {
+          "candidate": "Jorgensen, Jo",
+          "party": "libertarian",
+          "votes": "187895"
+        },
+        {
+          "candidate": "Hawkins, Howie",
+          "party": "green",
+          "votes": "81029"
+        },
+        {
+          "candidate": "De La Fuente, Roque \"\"rocky\"\"",
+          "party": "american independent",
+          "votes": "60160"
+        },
+        {
+          "candidate": "La Riva, Gloria Estella",
+          "party": "peace & freedom",
+          "votes": "51037"
+        },
+        {
+          "candidate": "Carroll, Brian",
+          "party": "american solidarity party",
+          "votes": "2605"
+        },
+        {
+          "candidate": "Janos, James G. \"jesse Ventura\"",
+          "party": "independent",
+          "votes": "611"
+        },
+        {
+          "candidate": "Mark Charles",
+          "party": "independent",
+          "votes": "559"
+        },
+        {
+          "candidate": "Pierce, Brock",
+          "party": "independent",
+          "votes": "185"
+        },
+        {
+          "candidate": "Joseph Kishore",
+          "party": "independent",
+          "votes": "121"
+        }
+      ]
     },
     "CO": {
       "name": "Colorado",
       "electoral_votes": "9",
-      "total_votes": "",
-      "results": []
+      "total_votes": "3279980",
+      "results": [
+        {
+          "candidate": "Biden, Joseph R. Jr",
+          "party": "democrat",
+          "votes": "1804352"
+        },
+        {
+          "candidate": "Trump, Donald J.",
+          "party": "republican",
+          "votes": "1364607"
+        },
+        {
+          "candidate": "Jorgensen, Jo",
+          "party": "libertarian",
+          "votes": "52460"
+        },
+        {
+          "candidate": "Hawkins, Howie",
+          "party": "green",
+          "votes": "8986"
+        },
+        {
+          "candidate": "La Riva, Gloria Estella",
+          "party": "party for socialism and liberation",
+          "votes": "1035"
+        },
+        {
+          "candidate": "De La Fuente, Roque \"\"rocky\"\"",
+          "party": "alliance",
+          "votes": "636"
+        },
+        {
+          "candidate": "Pierce, Brock",
+          "party": "independent",
+          "votes": "572"
+        },
+        {
+          "candidate": "West, Kanye",
+          "party": "independent",
+          "votes": "8089"
+        },
+        {
+          "candidate": "Blankenship, Don",
+          "party": "constitution party",
+          "votes": "5061"
+        },
+        {
+          "candidate": "Hammons, Bill",
+          "party": "unity party",
+          "votes": "2730"
+        },
+        {
+          "candidate": "Huber, Blake",
+          "party": "approval voting party",
+          "votes": "355"
+        },
+        {
+          "candidate": "Carroll, Brian",
+          "party": "american solidarity party",
+          "votes": "25515"
+        },
+        {
+          "candidate": "Charles, Mark",
+          "party": "independent",
+          "votes": "2011"
+        },
+        {
+          "candidate": "Collins, Phil",
+          "party": "prohibition party",
+          "votes": "568"
+        },
+        {
+          "candidate": "Hunter, Phil",
+          "party": "progressive party",
+          "votes": "379"
+        },
+        {
+          "candidate": "Jacob?fambro, Princess Khadijah Maryam",
+          "party": "independent",
+          "votes": "495"
+        },
+        {
+          "candidate": "Kennedy, Alyson",
+          "party": "socialist workers party",
+          "votes": "354"
+        },
+        {
+          "candidate": "Kishore, Joseph",
+          "party": "socialist equality party",
+          "votes": "196"
+        },
+        {
+          "candidate": "Kopitke, Kyle Kenley",
+          "party": "independent american party",
+          "votes": "762"
+        },
+        {
+          "candidate": "Mchugh, Joe",
+          "party": "independent",
+          "votes": "614"
+        },
+        {
+          "candidate": "Scott, Jordan \"cancer\"",
+          "party": "independent",
+          "votes": "175"
+        },
+        {
+          "candidate": "Cella, Todd",
+          "party": "independent",
+          "votes": "4"
+        },
+        {
+          "candidate": "Hoefling, Tom",
+          "party": "non-affiliated",
+          "votes": "24"
+        }
+      ]
     },
     "CT": {
       "name": "Connecticut",
       "electoral_votes": "7",
-      "total_votes": "",
-      "results": []
+      "total_votes": "1823857",
+      "results": [
+        {
+          "candidate": "Biden, Joseph R. Jr",
+          "party": "democrat",
+          "votes": "1080831"
+        },
+        {
+          "candidate": "Trump, Donald J.",
+          "party": "republican",
+          "votes": "714717"
+        },
+        {
+          "candidate": "Jorgensen, Jo",
+          "party": "libertarian",
+          "votes": "20230"
+        },
+        {
+          "candidate": "Hawkins, Howie",
+          "party": "green",
+          "votes": "7538"
+        },
+        {
+          "candidate": "Carroll, Brian",
+          "party": "american solidarity party",
+          "votes": "219"
+        },
+        {
+          "candidate": "Charles, Mark",
+          "party": "independent",
+          "votes": "11"
+        },
+        {
+          "candidate": "Weinstein, Karynn Krill",
+          "party": "",
+          "votes": "1"
+        },
+        {
+          "candidate": "Wells, Kasey",
+          "party": "non-affiliated",
+          "votes": "6"
+        },
+        {
+          "candidate": "Simmons, Mary Ruth Caro",
+          "party": "",
+          "votes": "2"
+        },
+        {
+          "candidate": "De La Fuente, Roque \"\"rocky\"\"",
+          "party": "alliance",
+          "votes": "13"
+        },
+        {
+          "candidate": "Howard, Shawn W.",
+          "party": "",
+          "votes": "12"
+        },
+        {
+          "candidate": "Simmons, Jade",
+          "party": "independent",
+          "votes": "22"
+        },
+        {
+          "candidate": "West, Kanye",
+          "party": "independent",
+          "votes": "255"
+        }
+      ]
     },
     "DE": {
       "name": "Delaware",
       "electoral_votes": "3",
-      "total_votes": "",
-      "results": []
+      "total_votes": "504346",
+      "results": [
+        {
+          "candidate": "Bellar, Barbara",
+          "party": "",
+          "votes": "7"
+        },
+        {
+          "candidate": "Carroll, Brian",
+          "party": "american solidarity party",
+          "votes": "87"
+        },
+        {
+          "candidate": "Pierce, Brock",
+          "party": "independent",
+          "votes": "5"
+        },
+        {
+          "candidate": "Rouse, Deborah",
+          "party": "",
+          "votes": "1"
+        },
+        {
+          "candidate": "Ball, Dennis Andrew",
+          "party": "",
+          "votes": "3"
+        },
+        {
+          "candidate": "La Riva, Gloria Estella",
+          "party": "party for socialism and liberation",
+          "votes": "14"
+        },
+        {
+          "candidate": "Simmons, Jade",
+          "party": "independent",
+          "votes": "28"
+        },
+        {
+          "candidate": "West, Kanye",
+          "party": "independent",
+          "votes": "169"
+        },
+        {
+          "candidate": "Wells, Kasey",
+          "party": "non-affiliated",
+          "votes": "1"
+        },
+        {
+          "candidate": "Gibson, Kathryn",
+          "party": "",
+          "votes": "1"
+        },
+        {
+          "candidate": "Charles, Mark",
+          "party": "independent",
+          "votes": "8"
+        },
+        {
+          "candidate": "Williams, Mitchell",
+          "party": "",
+          "votes": "2"
+        },
+        {
+          "candidate": "Boddie, R. President",
+          "party": "independent",
+          "votes": "1"
+        },
+        {
+          "candidate": "Jacob?fambro, Princess Khadijah Maryam",
+          "party": "independent",
+          "votes": "2"
+        },
+        {
+          "candidate": "Howard, Shawn W.",
+          "party": "",
+          "votes": "4"
+        },
+        {
+          "candidate": "Cella, Todd",
+          "party": "independent",
+          "votes": "2"
+        },
+        {
+          "candidate": "Hoefling, Tom",
+          "party": "non-affiliated",
+          "votes": "1"
+        },
+        {
+          "candidate": "Biden, Joseph R. Jr",
+          "party": "democrat",
+          "votes": "296268"
+        },
+        {
+          "candidate": "Trump, Donald J.",
+          "party": "republican",
+          "votes": "200603"
+        },
+        {
+          "candidate": "Jorgensen, Jo",
+          "party": "libertarian",
+          "votes": "5000"
+        },
+        {
+          "candidate": "Hawkins, Howie",
+          "party": "green",
+          "votes": "2139"
+        }
+      ]
     },
     "DC": {
       "name": "District of Columbia",
       "electoral_votes": "3",
-      "total_votes": "",
-      "results": []
+      "total_votes": "344356",
+      "results": [
+        {
+          "candidate": "Biden, Joseph R. Jr",
+          "party": "democrat",
+          "votes": "317323"
+        },
+        {
+          "candidate": "Trump, Donald J.",
+          "party": "republican",
+          "votes": "18586"
+        },
+        {
+          "candidate": "Jorgensen, Jo",
+          "party": "libertarian",
+          "votes": "2036"
+        },
+        {
+          "candidate": "Hawkins, Howie",
+          "party": "dc statehood green",
+          "votes": "1726"
+        },
+        {
+          "candidate": "La Riva, Gloria Estella",
+          "party": "independent",
+          "votes": "855"
+        },
+        {
+          "candidate": "",
+          "party": "",
+          "votes": "3137"
+        },
+        {
+          "candidate": "Pierce, Brock",
+          "party": "independent",
+          "votes": "693"
+        }
+      ]
     },
     "FL": {
       "name": "Florida",
       "electoral_votes": "29",
-      "total_votes": "",
-      "results": []
+      "total_votes": "11067456",
+      "results": [
+        {
+          "candidate": "Biden, Joseph R. Jr",
+          "party": "democrat",
+          "votes": "5297045"
+        },
+        {
+          "candidate": "Trump, Donald J.",
+          "party": "republican",
+          "votes": "5668731"
+        },
+        {
+          "candidate": "Jorgensen, Jo",
+          "party": "libertarian",
+          "votes": "70324"
+        },
+        {
+          "candidate": "Hawkins, Howie",
+          "party": "green",
+          "votes": "14721"
+        },
+        {
+          "candidate": "La Riva, Gloria Estella",
+          "party": "party for socialism and liberation",
+          "votes": "5712"
+        },
+        {
+          "candidate": "De La Fuente, Roque \"\"rocky\"\"",
+          "party": "alliance",
+          "votes": "5966"
+        },
+        {
+          "candidate": "Howard, Shawn W.",
+          "party": "",
+          "votes": "9"
+        },
+        {
+          "candidate": "Blankenship, Don",
+          "party": "constitution party",
+          "votes": "3902"
+        },
+        {
+          "candidate": "Wells, Kasey",
+          "party": "non-affiliated",
+          "votes": "8"
+        },
+        {
+          "candidate": "Walls-windhauser, Angela",
+          "party": "",
+          "votes": "2"
+        },
+        {
+          "candidate": "Simmons, Jade",
+          "party": "independent",
+          "votes": "181"
+        },
+        {
+          "candidate": "Carroll, Brian",
+          "party": "american solidarity party",
+          "votes": "854"
+        },
+        {
+          "candidate": "Laboch, Michael",
+          "party": "",
+          "votes": "1"
+        }
+      ]
     },
     "GA": {
       "name": "Georgia",
       "electoral_votes": "16",
-      "total_votes": "",
-      "results": []
+      "total_votes": "4999960",
+      "results": [
+        {
+          "candidate": "Bellar, Barbara",
+          "party": "",
+          "votes": "10"
+        },
+        {
+          "candidate": "Carroll, Brian",
+          "party": "american solidarity party",
+          "votes": "701"
+        },
+        {
+          "candidate": "Byrne, David",
+          "party": "",
+          "votes": "6"
+        },
+        {
+          "candidate": "Rouse, Deborah",
+          "party": "",
+          "votes": "1"
+        },
+        {
+          "candidate": "Blankenship, Don",
+          "party": "constitution party",
+          "votes": "61"
+        },
+        {
+          "candidate": "La Riva, Gloria Estella",
+          "party": "party for socialism and liberation",
+          "votes": "159"
+        },
+        {
+          "candidate": "Hawkins, Howie",
+          "party": "green",
+          "votes": "1013"
+        },
+        {
+          "candidate": "Simmons, Jade",
+          "party": "independent",
+          "votes": "181"
+        },
+        {
+          "candidate": "Wells, Kasey",
+          "party": "non-affiliated",
+          "votes": "6"
+        },
+        {
+          "candidate": "Gibson, Kathryn",
+          "party": "",
+          "votes": "2"
+        },
+        {
+          "candidate": "Collins, Loren",
+          "party": "",
+          "votes": "11"
+        },
+        {
+          "candidate": "Charles, Mark",
+          "party": "independent",
+          "votes": "65"
+        },
+        {
+          "candidate": "Sherrill, Peter",
+          "party": "",
+          "votes": "8"
+        },
+        {
+          "candidate": "Boddie, R. President",
+          "party": "independent",
+          "votes": "8"
+        },
+        {
+          "candidate": "Jacob?fambro, Princess Khadijah Maryam",
+          "party": "independent",
+          "votes": "7"
+        },
+        {
+          "candidate": "Howard, Shawn W.",
+          "party": "",
+          "votes": "5"
+        },
+        {
+          "candidate": "Biden, Joseph R. Jr",
+          "party": "democrat",
+          "votes": "2473633"
+        },
+        {
+          "candidate": "Trump, Donald J.",
+          "party": "republican",
+          "votes": "2461854"
+        },
+        {
+          "candidate": "Jorgensen, Jo",
+          "party": "libertarian",
+          "votes": "62229"
+        }
+      ]
     },
     "HI": {
       "name": "Hawaii",
       "electoral_votes": "4",
-      "total_votes": "",
-      "results": []
+      "total_votes": "579784",
+      "results": [
+        {
+          "candidate": "Biden, Joseph R. Jr",
+          "party": "democrat",
+          "votes": "366130"
+        },
+        {
+          "candidate": "Trump, Donald J.",
+          "party": "republican",
+          "votes": "196864"
+        },
+        {
+          "candidate": "Jorgensen, Jo",
+          "party": "libertarian",
+          "votes": "5539"
+        },
+        {
+          "candidate": "Hawkins, Howie",
+          "party": "green",
+          "votes": "3822"
+        },
+        {
+          "candidate": "Pierce, Brock",
+          "party": "american shopping party",
+          "votes": "1183"
+        },
+        {
+          "candidate": "Blankenship, Don",
+          "party": "constitution party",
+          "votes": "931"
+        },
+        {
+          "candidate": "Blank Votes",
+          "party": "",
+          "votes": "4927"
+        },
+        {
+          "candidate": "Overvotes",
+          "party": "",
+          "votes": "388"
+        }
+      ]
     },
     "ID": {
       "name": "Idaho",
       "electoral_votes": "4",
-      "total_votes": "",
-      "results": []
+      "total_votes": "868014",
+      "results": [
+        {
+          "candidate": "Biden, Joseph R. Jr",
+          "party": "democrat",
+          "votes": "287021"
+        },
+        {
+          "candidate": "Trump, Donald J.",
+          "party": "republican",
+          "votes": "554119"
+        },
+        {
+          "candidate": "Jorgensen, Jo",
+          "party": "libertarian",
+          "votes": "16404"
+        },
+        {
+          "candidate": "Hawkins, Howie",
+          "party": "green",
+          "votes": "407"
+        },
+        {
+          "candidate": "Pierce, Brock",
+          "party": "independent",
+          "votes": "2808"
+        },
+        {
+          "candidate": "Blankenship, Don",
+          "party": "constitution party",
+          "votes": "1886"
+        },
+        {
+          "candidate": "De La Fuente, Roque \"\"rocky\"\"",
+          "party": "independent",
+          "votes": "1491"
+        },
+        {
+          "candidate": "West, Kanye",
+          "party": "independent",
+          "votes": "3632"
+        },
+        {
+          "candidate": "La Riva, Gloria Estella",
+          "party": "party for socialism and liberation",
+          "votes": "49"
+        },
+        {
+          "candidate": "Carroll, Brian",
+          "party": "american solidarity party",
+          "votes": "163"
+        },
+        {
+          "candidate": "Cella, Todd",
+          "party": "independent",
+          "votes": "1"
+        },
+        {
+          "candidate": "Franklin, Chris",
+          "party": "",
+          "votes": "1"
+        },
+        {
+          "candidate": "Hoefling, Tom",
+          "party": "non-affiliated",
+          "votes": "7"
+        },
+        {
+          "candidate": "Howard, Shawn W.",
+          "party": "",
+          "votes": "4"
+        },
+        {
+          "candidate": "Simmons, Jade",
+          "party": "independent",
+          "votes": "21"
+        }
+      ]
     },
     "IL": {
       "name": "Illinois",
       "electoral_votes": "20",
-      "total_votes": "",
-      "results": []
+      "total_votes": "6033743",
+      "results": [
+        {
+          "candidate": "Biden, Joseph R. Jr",
+          "party": "democrat",
+          "votes": "3471915"
+        },
+        {
+          "candidate": "Trump, Donald J.",
+          "party": "republican",
+          "votes": "2446891"
+        },
+        {
+          "candidate": "Jorgensen, Jo",
+          "party": "libertarian",
+          "votes": "66544"
+        },
+        {
+          "candidate": "Hawkins, Howie",
+          "party": "green",
+          "votes": "30494"
+        },
+        {
+          "candidate": "Carroll, Brian",
+          "party": "american solidarity party",
+          "votes": "9548"
+        },
+        {
+          "candidate": "La Riva, Gloria Estella",
+          "party": "party for socialism and liberation",
+          "votes": "8046"
+        },
+        {
+          "candidate": "Farney, John",
+          "party": "",
+          "votes": "84"
+        },
+        {
+          "candidate": "Simmons, Jade",
+          "party": "independent",
+          "votes": "78"
+        },
+        {
+          "candidate": "Mark Charles",
+          "party": "independent",
+          "votes": "75"
+        },
+        {
+          "candidate": "Wells, Kasey",
+          "party": "non-affiliated",
+          "votes": "18"
+        },
+        {
+          "candidate": "Blankenship, Don",
+          "party": "constitution party",
+          "votes": "18"
+        },
+        {
+          "candidate": "Williams Jr., Andy",
+          "party": "",
+          "votes": "8"
+        },
+        {
+          "candidate": "Bellar, Barbara",
+          "party": "",
+          "votes": "7"
+        },
+        {
+          "candidate": "Kishore, Joseph",
+          "party": "independent",
+          "votes": "5"
+        },
+        {
+          "candidate": "Mckee, Kevin",
+          "party": "",
+          "votes": "4"
+        },
+        {
+          "candidate": "Collins, Phil",
+          "party": "independent",
+          "votes": "3"
+        },
+        {
+          "candidate": "Struck, James Timothy",
+          "party": "",
+          "votes": "2"
+        },
+        {
+          "candidate": "Rouse, Deborah",
+          "party": "",
+          "votes": "1"
+        },
+        {
+          "candidate": "Higgs, Jeremy",
+          "party": "",
+          "votes": "1"
+        },
+        {
+          "candidate": "Simmons, Mary Ruth Caro",
+          "party": "",
+          "votes": "1"
+        }
+      ]
     },
     "IN": {
       "name": "Indiana",
       "electoral_votes": "11",
-      "total_votes": "",
-      "results": []
+      "total_votes": "3033118",
+      "results": [
+        {
+          "candidate": "Biden, Joseph R. Jr",
+          "party": "democrat",
+          "votes": "1242416"
+        },
+        {
+          "candidate": "Trump, Donald J.",
+          "party": "republican",
+          "votes": "1729519"
+        },
+        {
+          "candidate": "Jorgensen, Jo",
+          "party": "libertarian",
+          "votes": "59232"
+        },
+        {
+          "candidate": "Hawkins, Howie",
+          "party": "green",
+          "votes": "988"
+        },
+        {
+          "candidate": "Carroll, Brian",
+          "party": "american solidarity party",
+          "votes": "893"
+        },
+        {
+          "candidate": "Howard, Shawn W.",
+          "party": "",
+          "votes": "23"
+        },
+        {
+          "candidate": "Mccray, Valerie",
+          "party": "",
+          "votes": "17"
+        },
+        {
+          "candidate": "Schriner, Joe",
+          "party": "",
+          "votes": "13"
+        },
+        {
+          "candidate": "Johnson Jr. James L.",
+          "party": "",
+          "votes": "5"
+        },
+        {
+          "candidate": "Rouse, Deborah",
+          "party": "",
+          "votes": "4"
+        },
+        {
+          "candidate": "Williams, Mitchell",
+          "party": "",
+          "votes": "4"
+        },
+        {
+          "candidate": "Stried, Christopher",
+          "party": "",
+          "votes": "2"
+        },
+        {
+          "candidate": "F, Randall",
+          "party": "",
+          "votes": "1"
+        },
+        {
+          "candidate": "Wells, Kasey",
+          "party": "non-affiliated",
+          "votes": "1"
+        }
+      ]
     },
     "IA": {
       "name": "Iowa",
       "electoral_votes": "6",
-      "total_votes": "",
-      "results": []
+      "total_votes": "1700130",
+      "results": [
+        {
+          "candidate": "Trump, Donald J.",
+          "party": "republican",
+          "votes": "897672"
+        },
+        {
+          "candidate": "Biden, Joseph R. Jr",
+          "party": "democrat",
+          "votes": "759061"
+        },
+        {
+          "candidate": "De La Fuente, Roque \"\"rocky\"\"",
+          "party": "independent",
+          "votes": "1082"
+        },
+        {
+          "candidate": "Blankenship, Don",
+          "party": "constitution party",
+          "votes": "1707"
+        },
+        {
+          "candidate": "King, Ricki Sue",
+          "party": "geneology know your family history party",
+          "votes": "546"
+        },
+        {
+          "candidate": "Hawkins, Howie",
+          "party": "green",
+          "votes": "3075"
+        },
+        {
+          "candidate": "Jorgensen, Jo",
+          "party": "libertarian",
+          "votes": "19637"
+        },
+        {
+          "candidate": "Pierce, Brock",
+          "party": "independent",
+          "votes": "544"
+        },
+        {
+          "candidate": "West, Kanye",
+          "party": "independent",
+          "votes": "3210"
+        },
+        {
+          "candidate": "",
+          "party": "",
+          "votes": "4337"
+        },
+        {
+          "candidate": "Undervotes",
+          "party": "",
+          "votes": "6614"
+        },
+        {
+          "candidate": "Overvotes",
+          "party": "",
+          "votes": "2645"
+        }
+      ]
     },
     "KS": {
       "name": "Kansas",
       "electoral_votes": "6",
-      "total_votes": "",
-      "results": []
+      "total_votes": "1372303",
+      "results": [
+        {
+          "candidate": "Trump, Donald J.",
+          "party": "republican",
+          "votes": "771406"
+        },
+        {
+          "candidate": "Biden, Joseph R. Jr",
+          "party": "democrat",
+          "votes": "570323"
+        },
+        {
+          "candidate": "Jorgensen, Jo",
+          "party": "libertarian",
+          "votes": "30574"
+        }
+      ]
     },
     "KY": {
       "name": "Kentucky",
       "electoral_votes": "8",
-      "total_votes": "",
-      "results": []
+      "total_votes": "2136768",
+      "results": [
+        {
+          "candidate": "Trump, Donald J.",
+          "party": "republican",
+          "votes": "1326646"
+        },
+        {
+          "candidate": "Biden, Joseph R. Jr",
+          "party": "democrat",
+          "votes": "772474"
+        },
+        {
+          "candidate": "Jorgensen, Jo",
+          "party": "libertarian",
+          "votes": "26234"
+        },
+        {
+          "candidate": "West, Kanye",
+          "party": "independent",
+          "votes": "6483"
+        },
+        {
+          "candidate": "Pierce, Brock",
+          "party": "independent",
+          "votes": "3599"
+        },
+        {
+          "candidate": "Hawkins, Howie",
+          "party": "green",
+          "votes": "716"
+        },
+        {
+          "candidate": "Carroll, Brian",
+          "party": "american solidarity party",
+          "votes": "408"
+        },
+        {
+          "candidate": "La Riva, Gloria Estella",
+          "party": "party for socialism and liberation",
+          "votes": "98"
+        },
+        {
+          "candidate": "Charles, Mark",
+          "party": "independent",
+          "votes": "43"
+        },
+        {
+          "candidate": "Simmons, Jade",
+          "party": "independent",
+          "votes": "29"
+        },
+        {
+          "candidate": "Hoefling, Tom",
+          "party": "non-affiliated",
+          "votes": "20"
+        },
+        {
+          "candidate": "Howard, Shawn W.",
+          "party": "",
+          "votes": "9"
+        },
+        {
+          "candidate": "Boddie, R. President",
+          "party": "independent",
+          "votes": "7"
+        },
+        {
+          "candidate": "Wells, Kasey",
+          "party": "non-affiliated",
+          "votes": "1"
+        },
+        {
+          "candidate": "Stevens, Timothy Allen",
+          "party": "",
+          "votes": "1"
+        }
+      ]
     },
     "LA": {
       "name": "Louisiana",
       "electoral_votes": "8",
-      "total_votes": "",
-      "results": []
+      "total_votes": "2148062",
+      "results": [
+        {
+          "candidate": "Biden, Joseph R. Jr",
+          "party": "democrat",
+          "votes": "856034"
+        },
+        {
+          "candidate": "Jorgensen, Jo",
+          "party": "libertarian",
+          "votes": "21645"
+        },
+        {
+          "candidate": "Trump, Donald J.",
+          "party": "republican",
+          "votes": "1255776"
+        },
+        {
+          "candidate": "Carroll, Brian",
+          "party": "american solidarity party",
+          "votes": "2497"
+        },
+        {
+          "candidate": "Jade Simmons",
+          "party": "becoming one nation",
+          "votes": "1626"
+        },
+        {
+          "candidate": "Boddie, R. President",
+          "party": "c.u.p",
+          "votes": "1125"
+        },
+        {
+          "candidate": "Blankenship, Don",
+          "party": "constitution party",
+          "votes": "860"
+        },
+        {
+          "candidate": "Pierce, Brock",
+          "party": "freedom and prosperity",
+          "votes": "749"
+        },
+        {
+          "candidate": "Hoefling, Tom",
+          "party": "life , liberty, constitution",
+          "votes": "668"
+        },
+        {
+          "candidate": "La Riva, Gloria Estella",
+          "party": "party for socialism and liberation",
+          "votes": "987"
+        },
+        {
+          "candidate": "Kennedy, Alyson",
+          "party": "socialist workers party",
+          "votes": "536"
+        },
+        {
+          "candidate": "West, Kanye",
+          "party": "the birthday party",
+          "votes": "4897"
+        },
+        {
+          "candidate": "Hammons, Bill",
+          "party": "unity party",
+          "votes": "662"
+        }
+      ]
     },
     "ME": {
       "name": "Maine",
       "electoral_votes": "4",
-      "total_votes": "",
-      "results": []
+      "total_votes": "828305",
+      "results": [
+        {
+          "candidate": "Biden, Joseph R. Jr",
+          "party": "democrat",
+          "votes": "435072"
+        },
+        {
+          "candidate": "Jorgensen, Jo",
+          "party": "libertarian",
+          "votes": "14152"
+        },
+        {
+          "candidate": "Trump, Donald J.",
+          "party": "republican",
+          "votes": "360737"
+        },
+        {
+          "candidate": "Hawkins, Howie",
+          "party": "green",
+          "votes": "8230"
+        },
+        {
+          "candidate": "De La Fuente, Roque \"\"rocky\"\"",
+          "party": "alliance",
+          "votes": "1183"
+        },
+        {
+          "candidate": "",
+          "party": "",
+          "votes": "87"
+        },
+        {
+          "candidate": "Blank Votes",
+          "party": "",
+          "votes": "8844"
+        }
+      ]
     },
     "MD": {
       "name": "Maryland",
       "electoral_votes": "10",
-      "total_votes": "",
-      "results": []
+      "total_votes": "3037030",
+      "results": [
+        {
+          "candidate": "Trump, Donald J.",
+          "party": "republican",
+          "votes": "976414"
+        },
+        {
+          "candidate": "Biden, Joseph R. Jr",
+          "party": "democrat",
+          "votes": "1985023"
+        },
+        {
+          "candidate": "Jorgensen, Jo",
+          "party": "libertarian",
+          "votes": "33488"
+        },
+        {
+          "candidate": "Hawkins, Howie",
+          "party": "green",
+          "votes": "15799"
+        },
+        {
+          "candidate": "Segal, Jerome M.",
+          "party": "bread and roses",
+          "votes": "5884"
+        },
+        {
+          "candidate": "Ball, Dennis Andrew",
+          "party": "",
+          "votes": "8"
+        },
+        {
+          "candidate": "Bellar, Barbara",
+          "party": "",
+          "votes": "23"
+        },
+        {
+          "candidate": "Boddie, R. President",
+          "party": "independent",
+          "votes": "4"
+        },
+        {
+          "candidate": "Carroll, Brian",
+          "party": "american solidarity party",
+          "votes": "795"
+        },
+        {
+          "candidate": "Cella, Todd",
+          "party": "independent",
+          "votes": "11"
+        },
+        {
+          "candidate": "Charles, Mark",
+          "party": "independent",
+          "votes": "30"
+        },
+        {
+          "candidate": "Collins, Phil",
+          "party": "independent",
+          "votes": "10"
+        },
+        {
+          "candidate": "De La Fuente, Roque \"\"rocky\"\"",
+          "party": "alliance",
+          "votes": "26"
+        },
+        {
+          "candidate": "Hoefling, Tom",
+          "party": "non-affiliated",
+          "votes": "11"
+        },
+        {
+          "candidate": "Howard, Shawn W.",
+          "party": "",
+          "votes": "20"
+        },
+        {
+          "candidate": "Lee, Johnson",
+          "party": "",
+          "votes": "1"
+        },
+        {
+          "candidate": "Pierce, Brock",
+          "party": "independent",
+          "votes": "16"
+        },
+        {
+          "candidate": "Rouse, Deborah",
+          "party": "",
+          "votes": "6"
+        },
+        {
+          "candidate": "Sherrill, Peter",
+          "party": "",
+          "votes": "3"
+        },
+        {
+          "candidate": "Simmons, Jade",
+          "party": "becoming one nation",
+          "votes": "131"
+        },
+        {
+          "candidate": "Wells, Kasey",
+          "party": "non-affiliated",
+          "votes": "5"
+        },
+        {
+          "candidate": "West, Kanye",
+          "party": "the birthday party",
+          "votes": "1117"
+        },
+        {
+          "candidate": "La Riva, Gloria Estella",
+          "party": "party for socialism and liberation",
+          "votes": "125"
+        },
+        {
+          "candidate": "Raley, Albert",
+          "party": "",
+          "votes": "32"
+        },
+        {
+          "candidate": "Schawlb, Benjamin",
+          "party": "",
+          "votes": "3"
+        },
+        {
+          "candidate": "",
+          "party": "",
+          "votes": "18045"
+        }
+      ]
     },
     "MA": {
       "name": "Massachusetts",
       "electoral_votes": "11",
-      "total_votes": "",
-      "results": []
+      "total_votes": "3658005",
+      "results": [
+        {
+          "candidate": "Biden, Joseph R. Jr",
+          "party": "democrat",
+          "votes": "2382202"
+        },
+        {
+          "candidate": "Trump, Donald J.",
+          "party": "republican",
+          "votes": "1167202"
+        },
+        {
+          "candidate": "Jorgensen, Jo",
+          "party": "libertarian",
+          "votes": "47013"
+        },
+        {
+          "candidate": "Hawkins, Howie",
+          "party": "green-rainbow",
+          "votes": "18658"
+        },
+        {
+          "candidate": "Blank Votes",
+          "party": "",
+          "votes": "26603"
+        },
+        {
+          "candidate": "",
+          "party": "",
+          "votes": "16327"
+        }
+      ]
     },
     "MI": {
       "name": "Michigan",
       "electoral_votes": "16",
-      "total_votes": "",
-      "results": []
+      "total_votes": "5539302",
+      "results": [
+        {
+          "candidate": "Biden, Joseph R. Jr",
+          "party": "democrat",
+          "votes": "2804040"
+        },
+        {
+          "candidate": "Trump, Donald J.",
+          "party": "republican",
+          "votes": "2649852"
+        },
+        {
+          "candidate": "Jorgensen, Jo",
+          "party": "libertarian",
+          "votes": "60381"
+        },
+        {
+          "candidate": "Blankenship, Don",
+          "party": "us taxpayers party",
+          "votes": "7235"
+        },
+        {
+          "candidate": "Hawkins, Howie",
+          "party": "green",
+          "votes": "13718"
+        },
+        {
+          "candidate": "De La Fuente, Roque \"\"rocky\"\"",
+          "party": "natural law",
+          "votes": "2986"
+        },
+        {
+          "candidate": "Carroll, Brian",
+          "party": "american solidarity party",
+          "votes": "963"
+        },
+        {
+          "candidate": "Hoefling, Tom",
+          "party": "",
+          "votes": "32"
+        },
+        {
+          "candidate": "Hunter, Tara Renee",
+          "party": "",
+          "votes": "1"
+        },
+        {
+          "candidate": "Simmons, Jade",
+          "party": "becoming one nation",
+          "votes": "89"
+        },
+        {
+          "candidate": "Wells, Kasey",
+          "party": "non-affiliated",
+          "votes": "5"
+        }
+      ]
     },
     "MN": {
       "name": "Minnesota",
       "electoral_votes": "10",
-      "total_votes": "",
-      "results": []
+      "total_votes": "3277171",
+      "results": [
+        {
+          "candidate": "Trump, Donald J.",
+          "party": "republican",
+          "votes": "1484065"
+        },
+        {
+          "candidate": "Biden, Joseph R. Jr",
+          "party": "democrat",
+          "votes": "1717077"
+        },
+        {
+          "candidate": "De La Fuente, Roque \"\"rocky\"\"",
+          "party": "alliance",
+          "votes": "5611"
+        },
+        {
+          "candidate": "Hawkins, Howie",
+          "party": "green",
+          "votes": "10033"
+        },
+        {
+          "candidate": "West, Kanye",
+          "party": "independent",
+          "votes": "7940"
+        },
+        {
+          "candidate": "Pierce, Brock",
+          "party": "independent",
+          "votes": "5651"
+        },
+        {
+          "candidate": "La Riva, Gloria Estella",
+          "party": "party for socialism and liberation",
+          "votes": "1210"
+        },
+        {
+          "candidate": "Kennedy, Alyson",
+          "party": "socialist workers party",
+          "votes": "643"
+        },
+        {
+          "candidate": "Jorgensen, Jo",
+          "party": "libertarian",
+          "votes": "34976"
+        },
+        {
+          "candidate": "",
+          "party": "",
+          "votes": "9965"
+        }
+      ]
     },
     "MS": {
       "name": "Mississippi",
       "electoral_votes": "6",
-      "total_votes": "",
-      "results": []
+      "total_votes": "1313759",
+      "results": [
+        {
+          "candidate": "Biden, Joseph R. Jr",
+          "party": "democrat",
+          "votes": "539398"
+        },
+        {
+          "candidate": "Trump, Donald J.",
+          "party": "republican",
+          "votes": "756764"
+        },
+        {
+          "candidate": "Blankenship, Don",
+          "party": "constitution party",
+          "votes": "1279"
+        },
+        {
+          "candidate": "Carroll, Brian",
+          "party": "american solidarity party",
+          "votes": "1161"
+        },
+        {
+          "candidate": "Collins, Phil",
+          "party": "independent",
+          "votes": "1317"
+        },
+        {
+          "candidate": "Hawkins, Howie",
+          "party": "green",
+          "votes": "1498"
+        },
+        {
+          "candidate": "Jorgensen, Jo",
+          "party": "libertarian",
+          "votes": "8026"
+        },
+        {
+          "candidate": "Pierce, Brock",
+          "party": "independent",
+          "votes": "659"
+        },
+        {
+          "candidate": "West, Kanye",
+          "party": "independent",
+          "votes": "3657"
+        }
+      ]
     },
     "MO": {
       "name": "Missouri",
       "electoral_votes": "10",
-      "total_votes": "",
-      "results": []
+      "total_votes": "3025962",
+      "results": [
+        {
+          "candidate": "Trump, Donald J.",
+          "party": "republican",
+          "votes": "1718736"
+        },
+        {
+          "candidate": "Biden, Joseph R. Jr",
+          "party": "democrat",
+          "votes": "1253014"
+        },
+        {
+          "candidate": "Jorgensen, Jo",
+          "party": "libertarian",
+          "votes": "41205"
+        },
+        {
+          "candidate": "Hawkins, Howie",
+          "party": "green",
+          "votes": "8283"
+        },
+        {
+          "candidate": "Blankenship, Don",
+          "party": "constitution party",
+          "votes": "3919"
+        },
+        {
+          "candidate": "Wells, Kasey",
+          "party": "non-affiliated",
+          "votes": "3"
+        },
+        {
+          "candidate": "Simmons, Jade",
+          "party": "becoming one nation",
+          "votes": "74"
+        },
+        {
+          "candidate": "Carroll, Brian",
+          "party": "american solidarity party",
+          "votes": "664"
+        },
+        {
+          "candidate": "La Riva, Gloria Estella",
+          "party": "party for socialism and liberation",
+          "votes": "64"
+        }
+      ]
     },
     "MT": {
       "name": "Montana",
       "electoral_votes": "3",
-      "total_votes": "",
-      "results": []
+      "total_votes": "603674",
+      "results": [
+        {
+          "candidate": "Jorgensen, Jo",
+          "party": "libertarian",
+          "votes": "15252"
+        },
+        {
+          "candidate": "Trump, Donald J.",
+          "party": "republican",
+          "votes": "343602"
+        },
+        {
+          "candidate": "Biden, Joseph R. Jr",
+          "party": "democrat",
+          "votes": "244786"
+        },
+        {
+          "candidate": "Bellar, Barbara",
+          "party": "",
+          "votes": "2"
+        },
+        {
+          "candidate": "Simmons, Jade",
+          "party": "becoming one nation",
+          "votes": "6"
+        },
+        {
+          "candidate": "Charles, Mark",
+          "party": "independent",
+          "votes": "23"
+        },
+        {
+          "candidate": "Hoefling, Tom",
+          "party": "",
+          "votes": "3"
+        }
+      ]
     },
     "NE": {
       "name": "Nebraska",
       "electoral_votes": "5",
-      "total_votes": "",
-      "results": []
+      "total_votes": "956383",
+      "results": [
+        {
+          "candidate": "Trump, Donald J.",
+          "party": "republican",
+          "votes": "556846"
+        },
+        {
+          "candidate": "Biden, Joseph R. Jr",
+          "party": "democrat",
+          "votes": "374583"
+        },
+        {
+          "candidate": "Jorgensen, Jo",
+          "party": "libertarian",
+          "votes": "20283"
+        },
+        {
+          "candidate": "",
+          "party": "",
+          "votes": "4671"
+        }
+      ]
     },
     "NV": {
       "name": "Nevada",
       "electoral_votes": "6",
-      "total_votes": "",
-      "results": []
+      "total_votes": "1405376",
+      "results": [
+        {
+          "candidate": "Jorgensen, Jo",
+          "party": "libertarian",
+          "votes": "14783"
+        },
+        {
+          "candidate": "Trump, Donald J.",
+          "party": "republican",
+          "votes": "669890"
+        },
+        {
+          "candidate": "Biden, Joseph R. Jr",
+          "party": "democrat",
+          "votes": "703486"
+        },
+        {
+          "candidate": "Blankenship, Don",
+          "party": "independent american party",
+          "votes": "3138"
+        },
+        {
+          "candidate": "",
+          "party": "",
+          "votes": "14079"
+        }
+      ]
     },
     "NH": {
       "name": "New Hampshire",
       "electoral_votes": "4",
-      "total_votes": "",
-      "results": []
+      "total_votes": "806182",
+      "results": [
+        {
+          "candidate": "Jorgensen, Jo",
+          "party": "libertarian",
+          "votes": "13235"
+        },
+        {
+          "candidate": "Trump, Donald J.",
+          "party": "republican",
+          "votes": "365654"
+        },
+        {
+          "candidate": "Biden, Joseph R. Jr",
+          "party": "democrat",
+          "votes": "424921"
+        },
+        {
+          "candidate": "Buttigieg, Pete",
+          "party": "",
+          "votes": "47"
+        },
+        {
+          "candidate": "Cuomo, Andrew",
+          "party": "",
+          "votes": "14"
+        },
+        {
+          "candidate": "Gabbard, Tulsi",
+          "party": "",
+          "votes": "142"
+        },
+        {
+          "candidate": "Hawkins, Howie",
+          "party": "green",
+          "votes": "217"
+        },
+        {
+          "candidate": "Huckabee, Mike",
+          "party": "",
+          "votes": "10"
+        },
+        {
+          "candidate": "Kasich, John",
+          "party": "",
+          "votes": "67"
+        },
+        {
+          "candidate": "Klobuchar, Amy",
+          "party": "",
+          "votes": "19"
+        },
+        {
+          "candidate": "Obama, Michelle",
+          "party": "",
+          "votes": "10"
+        },
+        {
+          "candidate": "Paul, Ron",
+          "party": "",
+          "votes": "13"
+        },
+        {
+          "candidate": "Pence, Mike",
+          "party": "",
+          "votes": "56"
+        },
+        {
+          "candidate": "Rice, Condoleeza",
+          "party": "",
+          "votes": "12"
+        },
+        {
+          "candidate": "Romney, Mitt",
+          "party": "",
+          "votes": "170"
+        },
+        {
+          "candidate": "Sanders, Bernie",
+          "party": "",
+          "votes": "192"
+        },
+        {
+          "candidate": "Shaheen, Jeanne",
+          "party": "",
+          "votes": "14"
+        },
+        {
+          "candidate": "Sununu, Chris",
+          "party": "",
+          "votes": "46"
+        },
+        {
+          "candidate": "Supreme, Vermin",
+          "party": "",
+          "votes": "22"
+        },
+        {
+          "candidate": "Weld, Bill",
+          "party": "",
+          "votes": "23"
+        },
+        {
+          "candidate": "West, Kanye",
+          "party": "",
+          "votes": "82"
+        },
+        {
+          "candidate": "Yang, Andrew",
+          "party": "",
+          "votes": "58"
+        },
+        {
+          "candidate": "",
+          "party": "",
+          "votes": "1158"
+        }
+      ]
     },
     "NJ": {
       "name": "New Jersey",
       "electoral_votes": "14",
-      "total_votes": "",
-      "results": []
+      "total_votes": "4549353",
+      "results": [
+        {
+          "candidate": "Trump, Donald J.",
+          "party": "republican",
+          "votes": "1883274"
+        },
+        {
+          "candidate": "Biden, Joseph R. Jr",
+          "party": "democrat",
+          "votes": "2608335"
+        },
+        {
+          "candidate": "Jorgensen, Jo",
+          "party": "libertarian",
+          "votes": "31677"
+        },
+        {
+          "candidate": "Hawkins, Howie",
+          "party": "green",
+          "votes": "14202"
+        },
+        {
+          "candidate": "Hammons, Bill",
+          "party": "unity party",
+          "votes": "3255"
+        },
+        {
+          "candidate": "Blankenship, Don",
+          "party": "constitution party",
+          "votes": "2954"
+        },
+        {
+          "candidate": "La Riva, Gloria Estella",
+          "party": "party for socialism and liberation",
+          "votes": "2928"
+        },
+        {
+          "candidate": "De La Fuente, Roque \"\"rocky\"\"",
+          "party": "alliance",
+          "votes": "2728"
+        }
+      ]
     },
     "NM": {
       "name": "New Mexico",
       "electoral_votes": "5",
-      "total_votes": "",
-      "results": []
+      "total_votes": "923965",
+      "results": [
+        {
+          "candidate": "Hawkins, Howie",
+          "party": "green",
+          "votes": "4426"
+        },
+        {
+          "candidate": "Jorgensen, Jo",
+          "party": "libertarian",
+          "votes": "12585"
+        },
+        {
+          "candidate": "Biden, Joseph R. Jr",
+          "party": "democrat",
+          "votes": "501614"
+        },
+        {
+          "candidate": "Tittle, Sheila \"samm\"",
+          "party": "constitution party",
+          "votes": "1806"
+        },
+        {
+          "candidate": "Trump, Donald J.",
+          "party": "republican",
+          "votes": "401894"
+        },
+        {
+          "candidate": "La Riva, Gloria Estella",
+          "party": "party for socialism and liberation",
+          "votes": "1640"
+        }
+      ]
     },
     "NY": {
       "name": "New York",
       "electoral_votes": "29",
-      "total_votes": "",
-      "results": []
+      "total_votes": "8661735",
+      "results": [
+        {
+          "candidate": "Biden, Joseph R. Jr",
+          "party": "democrat",
+          "votes": "5230985"
+        },
+        {
+          "candidate": "Trump, Donald J.",
+          "party": "republican",
+          "votes": "3244798"
+        },
+        {
+          "candidate": "Hawkins, Howie",
+          "party": "green",
+          "votes": "32753"
+        },
+        {
+          "candidate": "Jorgensen, Jo",
+          "party": "libertarian",
+          "votes": "60234"
+        },
+        {
+          "candidate": "Pierce, Brock",
+          "party": "independent",
+          "votes": "22587"
+        },
+        {
+          "candidate": "Carroll, Brian",
+          "party": "american solidarity party",
+          "votes": "805"
+        },
+        {
+          "candidate": "La Riva, Gloria Estella",
+          "party": "party for socialism and liberation",
+          "votes": "376"
+        },
+        {
+          "candidate": "Wells, Kasey",
+          "party": "independent",
+          "votes": "3"
+        },
+        {
+          "candidate": "Manimas, John",
+          "party": "",
+          "votes": "2"
+        },
+        {
+          "candidate": "Howard, Shawn W.",
+          "party": "",
+          "votes": "6"
+        },
+        {
+          "candidate": "Collins, Phil",
+          "party": "prohibition party",
+          "votes": "9"
+        },
+        {
+          "candidate": "Hodges, Paul",
+          "party": "",
+          "votes": "13"
+        },
+        {
+          "candidate": "Simmons, Jade",
+          "party": "becoming one nation",
+          "votes": "155"
+        },
+        {
+          "candidate": "De La Fuente, Roque \"\"rocky\"\"",
+          "party": "alliance",
+          "votes": "20"
+        },
+        {
+          "candidate": "Kishore, Joseph",
+          "party": "independent",
+          "votes": "28"
+        },
+        {
+          "candidate": "Martin, David A.",
+          "party": "",
+          "votes": "3"
+        },
+        {
+          "candidate": "West, Kanye",
+          "party": "the birthday party",
+          "votes": "1897"
+        },
+        {
+          "candidate": "Blankenship, Don",
+          "party": "constitution party",
+          "votes": "43"
+        },
+        {
+          "candidate": "Bellar, Barbara",
+          "party": "",
+          "votes": "2"
+        },
+        {
+          "candidate": "Charles, Mark",
+          "party": "independent",
+          "votes": "98"
+        },
+        {
+          "candidate": "Hunter, Dario",
+          "party": "",
+          "votes": "8"
+        },
+        {
+          "candidate": "Montanye, Richard Charles",
+          "party": "",
+          "votes": "1"
+        },
+        {
+          "candidate": "Blank Votes",
+          "party": "",
+          "votes": "43541"
+        },
+        {
+          "candidate": "Void",
+          "party": "",
+          "votes": "23368"
+        }
+      ]
     },
     "NC": {
       "name": "North Carolina",
       "electoral_votes": "15",
-      "total_votes": "",
-      "results": []
+      "total_votes": "5524802",
+      "results": [
+        {
+          "candidate": "Trump, Donald J.",
+          "party": "republican",
+          "votes": "2758773"
+        },
+        {
+          "candidate": "Biden, Joseph R. Jr",
+          "party": "democrat",
+          "votes": "2684292"
+        },
+        {
+          "candidate": "Jorgensen, Jo",
+          "party": "libertarian",
+          "votes": "48678"
+        },
+        {
+          "candidate": "Hawkins, Howie",
+          "party": "green",
+          "votes": "12195"
+        },
+        {
+          "candidate": "Blankenship, Don",
+          "party": "constitution party",
+          "votes": "7549"
+        },
+        {
+          "candidate": "Simmons, Jade",
+          "party": "becoming one nation",
+          "votes": "119"
+        },
+        {
+          "candidate": "",
+          "party": "",
+          "votes": "13196"
+        }
+      ]
     },
     "ND": {
       "name": "North Dakota",
       "electoral_votes": "3",
-      "total_votes": "",
-      "results": []
+      "total_votes": "361819",
+      "results": [
+        {
+          "candidate": "Trump, Donald J.",
+          "party": "republican",
+          "votes": "235595"
+        },
+        {
+          "candidate": "Biden, Joseph R. Jr",
+          "party": "democrat",
+          "votes": "114902"
+        },
+        {
+          "candidate": "Jorgensen, Jo",
+          "party": "libertarian",
+          "votes": "9393"
+        },
+        {
+          "candidate": "",
+          "party": "",
+          "votes": "1929"
+        }
+      ]
     },
     "OH": {
       "name": "Ohio",
       "electoral_votes": "18",
-      "total_votes": "",
-      "results": []
+      "total_votes": "5922202",
+      "results": [
+        {
+          "candidate": "Trump, Donald J.",
+          "party": "republican",
+          "votes": "3154834"
+        },
+        {
+          "candidate": "Biden, Joseph R. Jr",
+          "party": "democrat",
+          "votes": "2679165"
+        },
+        {
+          "candidate": "Jorgensen, Jo",
+          "party": "libertarian",
+          "votes": "67569"
+        },
+        {
+          "candidate": "Boddie, R. President",
+          "party": "independent",
+          "votes": "3"
+        },
+        {
+          "candidate": "Carroll, Brian",
+          "party": "american solidarity party",
+          "votes": "1450"
+        },
+        {
+          "candidate": "Hawkins, Howie",
+          "party": "green",
+          "votes": "18812"
+        },
+        {
+          "candidate": "Hoefling, Tom",
+          "party": "",
+          "votes": "114"
+        },
+        {
+          "candidate": "Hunter, Dario",
+          "party": "",
+          "votes": "27"
+        },
+        {
+          "candidate": "Simmons, Jade",
+          "party": "becoming one nation",
+          "votes": "212"
+        },
+        {
+          "candidate": "Wells, Kasey",
+          "party": "independent",
+          "votes": "16"
+        }
+      ]
     },
     "OK": {
       "name": "Oklahoma",
       "electoral_votes": "7",
-      "total_votes": "",
-      "results": []
+      "total_votes": "1560699",
+      "results": [
+        {
+          "candidate": "Trump, Donald J.",
+          "party": "republican",
+          "votes": "1020280"
+        },
+        {
+          "candidate": "Biden, Joseph R. Jr",
+          "party": "democrat",
+          "votes": "503890"
+        },
+        {
+          "candidate": "Jorgensen, Jo",
+          "party": "libertarian",
+          "votes": "24731"
+        },
+        {
+          "candidate": "Simmons, Jade",
+          "party": "independent",
+          "votes": "3654"
+        },
+        {
+          "candidate": "West, Kanye",
+          "party": "independent",
+          "votes": "5597"
+        },
+        {
+          "candidate": "Pierce, Brock",
+          "party": "independent",
+          "votes": "2547"
+        }
+      ]
     },
     "OR": {
       "name": "Oregon",
       "electoral_votes": "7",
-      "total_votes": "",
-      "results": []
+      "total_votes": "2374321",
+      "results": [
+        {
+          "candidate": "Trump, Donald J.",
+          "party": "republican",
+          "votes": "958448"
+        },
+        {
+          "candidate": "Biden, Joseph R. Jr",
+          "party": "democrat",
+          "votes": "1340383"
+        },
+        {
+          "candidate": "Jorgensen, Jo",
+          "party": "libertarian",
+          "votes": "41582"
+        },
+        {
+          "candidate": "Hawkins, Howie",
+          "party": "pacific green",
+          "votes": "11831"
+        },
+        {
+          "candidate": "Hunter, Dario",
+          "party": "progressive party",
+          "votes": "4988"
+        },
+        {
+          "candidate": "",
+          "party": "",
+          "votes": "17089"
+        }
+      ]
     },
     "PA": {
       "name": "Pennsylvania",
       "electoral_votes": "20",
-      "total_votes": "",
-      "results": []
+      "total_votes": "6915283",
+      "results": [
+        {
+          "candidate": "Trump, Donald J.",
+          "party": "republican",
+          "votes": "3377674"
+        },
+        {
+          "candidate": "Biden, Joseph R. Jr",
+          "party": "democrat",
+          "votes": "3458229"
+        },
+        {
+          "candidate": "Jorgensen, Jo",
+          "party": "libertarian",
+          "votes": "79380"
+        }
+      ]
     },
     "RI": {
       "name": "Rhode Island",
       "electoral_votes": "4",
-      "total_votes": "",
-      "results": []
+      "total_votes": "516990",
+      "results": [
+        {
+          "candidate": "Biden, Joseph R. Jr",
+          "party": "democrat",
+          "votes": "307486"
+        },
+        {
+          "candidate": "Trump, Donald J.",
+          "party": "republican",
+          "votes": "199922"
+        },
+        {
+          "candidate": "Jorgensen, Jo",
+          "party": "libertarian",
+          "votes": "5053"
+        },
+        {
+          "candidate": "",
+          "party": "",
+          "votes": "2759"
+        },
+        {
+          "candidate": "De La Fuente, Roque \"\"rocky\"\"",
+          "party": "alliance",
+          "votes": "923"
+        },
+        {
+          "candidate": "La Riva, Gloria Estella",
+          "party": "party for socialism and liberation",
+          "votes": "847"
+        }
+      ]
     },
     "SC": {
       "name": "South Carolina",
       "electoral_votes": "9",
-      "total_votes": "",
-      "results": []
+      "total_votes": "2514096",
+      "results": [
+        {
+          "candidate": "Carroll, Brian",
+          "party": "american solidarity party",
+          "votes": "767"
+        },
+        {
+          "candidate": "Hawkins, Howie",
+          "party": "green",
+          "votes": "6907"
+        },
+        {
+          "candidate": "Trump, Donald J.",
+          "party": "republican",
+          "votes": "1385103"
+        },
+        {
+          "candidate": "De La Fuente, Roque \"\"rocky\"\"",
+          "party": "alliance",
+          "votes": "1862"
+        },
+        {
+          "candidate": "Jorgensen, Jo",
+          "party": "libertarian",
+          "votes": "27916"
+        },
+        {
+          "candidate": "Biden, Joseph R. Jr",
+          "party": "democrat",
+          "votes": "1091541"
+        }
+      ]
     },
     "SD": {
       "name": "South Dakota",
       "electoral_votes": "3",
-      "total_votes": "",
-      "results": []
+      "total_votes": "422609",
+      "results": [
+        {
+          "candidate": "Trump, Donald J.",
+          "party": "republican",
+          "votes": "261043"
+        },
+        {
+          "candidate": "Biden, Joseph R. Jr",
+          "party": "democrat",
+          "votes": "150471"
+        },
+        {
+          "candidate": "Jorgensen, Jo",
+          "party": "libertarian",
+          "votes": "11095"
+        }
+      ]
     },
     "TN": {
       "name": "Tennessee",
       "electoral_votes": "11",
-      "total_votes": "",
-      "results": []
+      "total_votes": "3053851",
+      "results": [
+        {
+          "candidate": "Trump, Donald J.",
+          "party": "republican",
+          "votes": "1852475"
+        },
+        {
+          "candidate": "Biden, Joseph R. Jr",
+          "party": "democrat",
+          "votes": "1143711"
+        },
+        {
+          "candidate": "Blankenship, Don",
+          "party": "independent",
+          "votes": "5365"
+        },
+        {
+          "candidate": "De La Fuente, Roque \"\"rocky\"\"",
+          "party": "independent",
+          "votes": "1860"
+        },
+        {
+          "candidate": "Hawkins, Howie",
+          "party": "independent",
+          "votes": "4545"
+        },
+        {
+          "candidate": "Jorgensen, Jo",
+          "party": "independent",
+          "votes": "29877"
+        },
+        {
+          "candidate": "Kennedy, Alyson",
+          "party": "independent",
+          "votes": "2576"
+        },
+        {
+          "candidate": "La Riva, Gloria Estella",
+          "party": "independent",
+          "votes": "2301"
+        },
+        {
+          "candidate": "West, Kanye",
+          "party": "independent",
+          "votes": "10279"
+        },
+        {
+          "candidate": "Boddie, R. President",
+          "party": "independent",
+          "votes": "1"
+        },
+        {
+          "candidate": "Carroll, Brian",
+          "party": "american solidarity party",
+          "votes": "762"
+        },
+        {
+          "candidate": "Hoefling, Tom",
+          "party": "",
+          "votes": "31"
+        },
+        {
+          "candidate": "Simmons, Jade",
+          "party": "becoming one nation",
+          "votes": "68"
+        }
+      ]
     },
     "TX": {
       "name": "Texas",
       "electoral_votes": "38",
-      "total_votes": "",
-      "results": []
+      "total_votes": "11315056",
+      "results": [
+        {
+          "candidate": "Trump, Donald J.",
+          "party": "republican",
+          "votes": "5890347"
+        },
+        {
+          "candidate": "Biden, Joseph R. Jr",
+          "party": "democrat",
+          "votes": "5259126"
+        },
+        {
+          "candidate": "Jorgensen, Jo",
+          "party": "libertarian",
+          "votes": "126243"
+        },
+        {
+          "candidate": "Hawkins, Howie",
+          "party": "green",
+          "votes": "33396"
+        },
+        {
+          "candidate": "Boddie, R. President",
+          "party": "independent",
+          "votes": "2012"
+        },
+        {
+          "candidate": "Carroll, Brian",
+          "party": "american solidarity party",
+          "votes": "2785"
+        },
+        {
+          "candidate": "Cella, Todd",
+          "party": "independent",
+          "votes": "205"
+        },
+        {
+          "candidate": "Cuellar, Jesse",
+          "party": "",
+          "votes": "49"
+        },
+        {
+          "candidate": "Hoefling, Tom",
+          "party": "",
+          "votes": "337"
+        },
+        {
+          "candidate": "La Riva, Gloria Estella",
+          "party": "party for socialism and liberation",
+          "votes": "350"
+        },
+        {
+          "candidate": "Loeb, Abram",
+          "party": "",
+          "votes": "36"
+        },
+        {
+          "candidate": "Morrow, Robert",
+          "party": "",
+          "votes": "56"
+        },
+        {
+          "candidate": "Wells, Kasey",
+          "party": "independent",
+          "votes": "114"
+        }
+      ]
     },
     "UT": {
       "name": "Utah",
       "electoral_votes": "6",
-      "total_votes": "",
-      "results": []
+      "total_votes": "1488289",
+      "results": [
+        {
+          "candidate": "Pierce, Brock",
+          "party": "independent",
+          "votes": "2623"
+        },
+        {
+          "candidate": "West, Kanye",
+          "party": "the birthday party",
+          "votes": "7213"
+        },
+        {
+          "candidate": "Biden, Joseph R. Jr",
+          "party": "democrat",
+          "votes": "560282"
+        },
+        {
+          "candidate": "Blankenship, Don",
+          "party": "constitution party",
+          "votes": "5551"
+        },
+        {
+          "candidate": "Jorgensen, Jo",
+          "party": "libertarian",
+          "votes": "38447"
+        },
+        {
+          "candidate": "Mchugh, Joe",
+          "party": "",
+          "votes": "2229"
+        },
+        {
+          "candidate": "Hawkins, Howie",
+          "party": "green",
+          "votes": "5053"
+        },
+        {
+          "candidate": "La Riva, Gloria Estella",
+          "party": "party for socialism and liberation",
+          "votes": "1139"
+        },
+        {
+          "candidate": "Trump, Donald J.",
+          "party": "republican",
+          "votes": "865140"
+        },
+        {
+          "candidate": "Carroll, Brian",
+          "party": "american solidarity party",
+          "votes": "368"
+        },
+        {
+          "candidate": "Hoefling, Tom",
+          "party": "",
+          "votes": "51"
+        },
+        {
+          "candidate": "Simmons, Jade",
+          "party": "becoming one nation",
+          "votes": "186"
+        },
+        {
+          "candidate": "Forbes, Katherine",
+          "party": "",
+          "votes": "1"
+        },
+        {
+          "candidate": "Boddie, R. President",
+          "party": "independent",
+          "votes": "6"
+        }
+      ]
     },
     "VT": {
       "name": "Vermont",
       "electoral_votes": "3",
-      "total_votes": "",
-      "results": []
+      "total_votes": "370968",
+      "results": [
+        {
+          "candidate": "Biden, Joseph R. Jr",
+          "party": "democrat",
+          "votes": "242820"
+        },
+        {
+          "candidate": "Trump, Donald J.",
+          "party": "republican",
+          "votes": "112704"
+        },
+        {
+          "candidate": "Jorgensen, Jo",
+          "party": "libertarian",
+          "votes": "3608"
+        },
+        {
+          "candidate": "Hawkins, Howie",
+          "party": "green",
+          "votes": "1310"
+        },
+        {
+          "candidate": "West, Kanye",
+          "party": "independent",
+          "votes": "1269"
+        },
+        {
+          "candidate": "Paige, Brooke H.",
+          "party": "grumpy old patriots",
+          "votes": "1175"
+        },
+        {
+          "candidate": "Lafontaine, Christopher",
+          "party": "independent",
+          "votes": "856"
+        },
+        {
+          "candidate": "Duncan, Richard",
+          "party": "independent",
+          "votes": "213"
+        },
+        {
+          "candidate": "Carroll, Brian",
+          "party": "american solidarity",
+          "votes": "209"
+        },
+        {
+          "candidate": "Blankenship, Don",
+          "party": "constitution",
+          "votes": "208"
+        },
+        {
+          "candidate": "Kennedy, Alyson",
+          "party": "socialist workers",
+          "votes": "195"
+        },
+        {
+          "candidate": "La Riva, Gloria Estella",
+          "party": "liberty union",
+          "votes": "166"
+        },
+        {
+          "candidate": "Swing, Gary",
+          "party": "boiling frog",
+          "votes": "141"
+        },
+        {
+          "candidate": "Collins, Phil",
+          "party": "prohibition",
+          "votes": "137"
+        },
+        {
+          "candidate": "Mccormic, Keith",
+          "party": "bull moose",
+          "votes": "126"
+        },
+        {
+          "candidate": "Pierce, Brock",
+          "party": "unaffiliated",
+          "votes": "100"
+        },
+        {
+          "candidate": "Segal, Jerome M.",
+          "party": "bread and roses",
+          "votes": "65"
+        },
+        {
+          "candidate": "Huber, Blake",
+          "party": "approval voting",
+          "votes": "54"
+        },
+        {
+          "candidate": "Kopitke, Kyle Kenley",
+          "party": "independent",
+          "votes": "53"
+        },
+        {
+          "candidate": "De La Fuente, Roque \"\"rocky\"\"",
+          "party": "alliance",
+          "votes": "48"
+        },
+        {
+          "candidate": "",
+          "party": "",
+          "votes": "1942"
+        },
+        {
+          "candidate": "Overvotes",
+          "party": "",
+          "votes": "278"
+        },
+        {
+          "candidate": "Blank Votes",
+          "party": "",
+          "votes": "3262"
+        },
+        {
+          "candidate": "Scalf, Zachary",
+          "party": "independent",
+          "votes": "29"
+        }
+      ]
     },
     "VA": {
       "name": "Virginia",
       "electoral_votes": "13",
-      "total_votes": "",
-      "results": []
+      "total_votes": "4460524",
+      "results": [
+        {
+          "candidate": "Biden, Joseph R. Jr",
+          "party": "democrat",
+          "votes": "2413568"
+        },
+        {
+          "candidate": "Trump, Donald J.",
+          "party": "republican",
+          "votes": "1962430"
+        },
+        {
+          "candidate": "Jorgensen, Jo",
+          "party": "libertarian",
+          "votes": "64761"
+        },
+        {
+          "candidate": "",
+          "party": "",
+          "votes": "19765"
+        }
+      ]
     },
     "WA": {
       "name": "Washington",
       "electoral_votes": "12",
-      "total_votes": "",
-      "results": []
+      "total_votes": "4087631",
+      "results": [
+        {
+          "candidate": "Biden, Joseph R. Jr",
+          "party": "democrat",
+          "votes": "2369612"
+        },
+        {
+          "candidate": "Trump, Donald J.",
+          "party": "republican",
+          "votes": "1584651"
+        },
+        {
+          "candidate": "Jorgensen, Jo",
+          "party": "libertarian",
+          "votes": "80500"
+        },
+        {
+          "candidate": "Hawkins, Howie",
+          "party": "green",
+          "votes": "18289"
+        },
+        {
+          "candidate": "La Riva, Gloria Estella",
+          "party": "party for socialism and liberation",
+          "votes": "4840"
+        },
+        {
+          "candidate": "Kennedy, Alyson",
+          "party": "socialist workers party",
+          "votes": "2487"
+        },
+        {
+          "candidate": "",
+          "party": "",
+          "votes": "27252"
+        }
+      ]
     },
     "WV": {
       "name": "West Virginia",
       "electoral_votes": "5",
-      "total_votes": "",
-      "results": []
+      "total_votes": "794652",
+      "results": [
+        {
+          "candidate": "Biden, Joseph R. Jr",
+          "party": "democrat",
+          "votes": "235984"
+        },
+        {
+          "candidate": "Trump, Donald J.",
+          "party": "republican",
+          "votes": "545382"
+        },
+        {
+          "candidate": "Jorgensen, Jo",
+          "party": "libertarian",
+          "votes": "10687"
+        },
+        {
+          "candidate": "Hawkins, Howie",
+          "party": "green",
+          "votes": "2599"
+        }
+      ]
     },
     "WI": {
       "name": "Wisconsin",
       "electoral_votes": "10",
-      "total_votes": "",
-      "results": []
+      "total_votes": "3298041",
+      "results": [
+        {
+          "candidate": "Biden, Joseph R. Jr",
+          "party": "democrat",
+          "votes": "1630866"
+        },
+        {
+          "candidate": "Trump, Donald J.",
+          "party": "republican",
+          "votes": "1610184"
+        },
+        {
+          "candidate": "Blankenship, Don",
+          "party": "constitution party",
+          "votes": "5146"
+        },
+        {
+          "candidate": "Jorgensen, Jo",
+          "party": "independent",
+          "votes": "38491"
+        },
+        {
+          "candidate": "Carroll, Brian",
+          "party": "american solidarity party",
+          "votes": "5259"
+        },
+        {
+          "candidate": "Wells, Kasey",
+          "party": "independent",
+          "votes": "25"
+        },
+        {
+          "candidate": "Simmons, Jade",
+          "party": "becoming one nation",
+          "votes": "36"
+        },
+        {
+          "candidate": "Boddie, R. President",
+          "party": "independent",
+          "votes": "5"
+        },
+        {
+          "candidate": "Hawkins, Howie",
+          "party": "green",
+          "votes": "1089"
+        },
+        {
+          "candidate": "La Riva, Gloria Estella",
+          "party": "party for socialism and liberation",
+          "votes": "110"
+        },
+        {
+          "candidate": "West, Kanye",
+          "party": "the birthday party",
+          "votes": "411"
+        },
+        {
+          "candidate": "Charles, Mark",
+          "party": "independent",
+          "votes": "52"
+        },
+        {
+          "candidate": "",
+          "party": "",
+          "votes": "6367"
+        }
+      ]
     },
     "WY": {
       "name": "Wyoming",
       "electoral_votes": "3",
-      "total_votes": "",
-      "results": []
+      "total_votes": "278503",
+      "results": [
+        {
+          "candidate": "Biden, Joseph R. Jr",
+          "party": "democrat",
+          "votes": "73491"
+        },
+        {
+          "candidate": "Trump, Donald J.",
+          "party": "republican",
+          "votes": "193559"
+        },
+        {
+          "candidate": "Jorgensen, Jo",
+          "party": "libertarian",
+          "votes": "5768"
+        },
+        {
+          "candidate": "Pierce, Brock",
+          "party": "independent",
+          "votes": "2208"
+        },
+        {
+          "candidate": "",
+          "party": "",
+          "votes": "1739"
+        },
+        {
+          "candidate": "Overvotes",
+          "party": "",
+          "votes": "279"
+        },
+        {
+          "candidate": "Undervotes",
+          "party": "",
+          "votes": "1459"
+        }
+      ]
     }
   }
 }

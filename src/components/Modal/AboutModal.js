@@ -29,15 +29,15 @@ function AboutModal({ showModal, setShowModal }) {
       <h2>About Methods Matter</h2>
       <h4>Description</h4>
       <p>
-        Have you ever wondered what the outcome of US elections would be if they
-        didn't use the winner takes all seats approach? Specially after the 2016
-        election it was evident that the current method wasn't the most
-        representative, after Hillary Clinton won the popular vote by nearly 3
-        million votes but failed to win the election.
+        Have you ever wondered what the outcome of US elections would be if the
+        voting system didn't use the winner takes all seats approach? Specially
+        after the 2016 election it was evident that the current method wasn't
+        the most representative, after Hillary Clinton won the popular vote by
+        nearly 3 million votes but failed to win the election.
       </p>
       <p>
         This website is therefore an attempt to estimate the outcome of US
-        elections from 1976 to 2016 if other common methods of seat allocation
+        elections from 1976 to 2020 if other common methods of seat allocation
         were used instead.
       </p>
       <p>
@@ -162,15 +162,11 @@ function AboutModal({ showModal, setShowModal }) {
           party with the popular vote, no matter the method used, and as such
           the map will remain the same.
         </p>
-        <li>
-          Why is there no option for the 2020 election or elections prior to
-          1976?
-        </li>
+        <li>Why is there no option for elections prior to 1976?</li>
         <p>
           You can check the Sources section next to see where I got the election
           data. The short answer is that the source didn't have information
-          regarding election prior to 1976 and the 2020 election is still to
-          recent to have all the data organized and available to the public.
+          regarding elections prior to 1976.
         </p>
         <p>
           If you have or know of a source of data for years that are not
@@ -215,7 +211,7 @@ function AboutModal({ showModal, setShowModal }) {
       </p>
       <p>
         Information regarding the number of electoral votes each state was
-        conceded in the election years between 1976 and 2016 was taken from{" "}
+        conceded in the election years between 1976 and 2020 was taken from{" "}
         <a
           href="https://www.270towin.com/state-electoral-vote-history/"
           target="_blank"
@@ -291,7 +287,7 @@ function AboutModal({ showModal, setShowModal }) {
         feel free to open an issue! If you liked the website, consider giving
         the project a star{" "}
         <span role="img" aria-label="Friendly emoji.">
-          😊
+          🤍
         </span>
         .
       </p>
